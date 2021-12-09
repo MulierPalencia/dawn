@@ -64,10 +64,6 @@
   }
 }
 
-.collection-list.negative-margin--small {
-  margin-bottom: -1rem;
-}
-
 @media screen and (min-width: 750px) and (max-width: 989px) {
   .slider.collection-list--1-items,
   .slider.collection-list--2-items,
