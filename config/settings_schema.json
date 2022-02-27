@@ -4,13 +4,8 @@
     "theme_name": "Dawn",
     "theme_version": "3.0.0",
     "theme_author": "Shopify",
-<<<<<<< HEAD
-    "theme_documentation_url": "https://help.shopify.com/en/manual/online-store/themes",
-    "theme_support_url": "https://support.shopify.com/"
-=======
     "theme_documentation_url": "https:\/\/help.shopify.com\/en\/manual\/online-store\/themes",
     "theme_support_url": "https:\/\/support.shopify.com\/"
->>>>>>> deac0ae747ed3b0bebde3e30f3e0439b8be0bc44
   },
   {
     "name": "t:settings_schema.colors.name",
