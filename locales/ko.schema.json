@@ -632,9 +632,6 @@
         },
         "show_rating": {
           "label": "제품 평점 표시",
-<<<<<<< HEAD
-          "info": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/sections#featured-collection-show-product-rating)"
-=======
           "info": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-collection-show-product-rating)"
         },
         "columns_desktop": {
@@ -651,7 +648,6 @@
           "options__2": {
             "label": "열 2개"
           }
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         }
       },
       "presets": {
@@ -1343,9 +1339,6 @@
         },
         "show_rating": {
           "label": "제품 평점 표시",
-<<<<<<< HEAD
-          "info": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-grid-show-product-rating)"
-=======
           "info": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-grid-show-product-rating)"
         },
         "columns_desktop": {
@@ -1362,7 +1355,6 @@
           "options__2": {
             "label": "열 2개"
           }
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         }
       }
     },
@@ -1404,32 +1396,7 @@
           "options__3": {
             "label": "정사각형"
           },
-<<<<<<< HEAD
-          "info": "컬렉션을 편집하여 이미지를 추가하십시오. [자세히 알아보기](https:\/\/help.shopify.com\/en\/manual\/products\/collections)"
-        },
-        "color_scheme": {
-          "options__1": {
-            "label": "강조 1"
-          },
-          "options__2": {
-            "label": "강조 2"
-          },
-          "options__3": {
-            "label": "배경 1"
-          },
-          "options__4": {
-            "label": "배경 2"
-          },
-          "options__5": {
-            "label": "서로 바꾸기"
-          },
-          "label": "색상 배합"
-        },
-        "image_padding": {
-          "label": "이미지 패딩 추가"
-=======
           "info": "컬렉션을 편집하여 이미지를 추가하십시오. [자세히 알아보기](https://help.shopify.com/en/manual/products/collections)"
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         }
       }
     },
@@ -1828,9 +1795,6 @@
         },
         "show_rating": {
           "label": "제품 평점 표시",
-<<<<<<< HEAD
-          "info": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#search-results-show-product-rating)"
-=======
           "info": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#search-results-show-product-rating)"
         },
         "columns_desktop": {
@@ -1847,7 +1811,6 @@
           "options__2": {
             "label": "열 2개"
           }
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         }
       }
     },
@@ -2049,9 +2012,6 @@
         },
         "show_rating": {
           "label": "제품 평점 표시",
-<<<<<<< HEAD
-          "info": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-recommendations-show-product-rating)"
-=======
           "info": "평점을 표시하려면 제품 평점 앱을 추가하십시오. [자세히 알아보기](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-recommendations-show-product-rating)"
         },
         "columns_desktop": {
@@ -2068,7 +2028,6 @@
           "options__2": {
             "label": "열 2개"
           }
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         }
       }
     },

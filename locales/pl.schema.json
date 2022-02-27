@@ -632,9 +632,6 @@
         },
         "show_rating": {
           "label": "Pokaż ocenę produktu",
-<<<<<<< HEAD
-          "info": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/sections#featured-collection-show-product-rating)"
-=======
           "info": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-collection-show-product-rating)"
         },
         "columns_desktop": {
@@ -651,7 +648,6 @@
           "options__2": {
             "label": "2 kolumny"
           }
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         }
       },
       "presets": {
@@ -1343,9 +1339,6 @@
         },
         "show_rating": {
           "label": "Pokaż ocenę produktu",
-<<<<<<< HEAD
-          "info": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-grid-show-product-rating)"
-=======
           "info": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-grid-show-product-rating)"
         },
         "columns_desktop": {
@@ -1362,7 +1355,6 @@
           "options__2": {
             "label": "2 kolumny"
           }
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         }
       }
     },
@@ -1803,9 +1795,6 @@
         },
         "show_rating": {
           "label": "Pokaż ocenę produktu",
-<<<<<<< HEAD
-          "info": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#search-results-show-product-rating)"
-=======
           "info": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#search-results-show-product-rating)"
         },
         "columns_desktop": {
@@ -1822,7 +1811,6 @@
           "options__2": {
             "label": "2 kolumny"
           }
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         }
       }
     },
@@ -2024,9 +2012,6 @@
         },
         "show_rating": {
           "label": "Pokaż ocenę produktu",
-<<<<<<< HEAD
-          "info": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-recommendations-show-product-rating)"
-=======
           "info": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-recommendations-show-product-rating)"
         },
         "columns_desktop": {
@@ -2043,7 +2028,6 @@
           "options__2": {
             "label": "2 kolumny"
           }
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         }
       }
     },
@@ -2298,13 +2282,8 @@
           "info": "Widoczne podczas wyświetlania kontenera"
         },
         "show_text_below": {
-<<<<<<< HEAD
-          "label": "Pokaż treść pod obrazami na urządzeniu mobilnym",
-          "info": "Aby uzyskać najlepsze wyniki, użyj obrazu o współczynniku proporcji 16:9. [Dowiedz się więcej](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
-=======
           "label": "Pokaż treść pod obrazem na urządzeniu mobilnym",
           "info": "Aby uzyskać najlepsze wyniki, użyj obrazu o współczynniku proporcji 16:9. [Dowiedz się więcej](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         },
         "image_height": {
           "label": "Wysokość banera",

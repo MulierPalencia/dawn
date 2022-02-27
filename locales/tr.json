@@ -73,12 +73,8 @@
     "loading": "Yükleniyor...",
     "skip_to_product_info": "Ürün bilgisine atla",
     "total_reviews": "toplam değerlendirme",
-<<<<<<< HEAD
-    "star_reviews_info": "{{ rating_value }}\/{{ rating_max }} yıldız"
-=======
     "star_reviews_info": "{{ rating_value }}/{{ rating_max }} yıldız",
     "collapsible_content_title": "Daraltılabilir içerik"
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
   },
   "blogs": {
     "article": {

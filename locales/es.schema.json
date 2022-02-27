@@ -632,9 +632,6 @@
         },
         "show_rating": {
           "label": "Mostrar calificación de productos",
-<<<<<<< HEAD
-          "info": "Para mostrar una calificación, agrega una aplicación de calificación de productos [Más información](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/sections#featured-collection-show-product-rating)"
-=======
           "info": "Para mostrar una calificación, agrega una aplicación de calificación de productos [Más información](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-collection-show-product-rating)"
         },
         "columns_desktop": {
@@ -651,7 +648,6 @@
           "options__2": {
             "label": "2 columnas"
           }
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         }
       },
       "presets": {
@@ -1343,9 +1339,6 @@
         },
         "show_rating": {
           "label": "Mostrar calificación de productos",
-<<<<<<< HEAD
-          "info": "Para mostrar una calificación, agrega una aplicación de calificación de productos [Más información](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-grid-show-product-rating)"
-=======
           "info": "Para mostrar una calificación, agrega una aplicación de calificación de productos [Más información](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-grid-show-product-rating)"
         },
         "columns_desktop": {
@@ -1362,7 +1355,6 @@
           "options__2": {
             "label": "2 columnas"
           }
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         }
       }
     },
@@ -1404,32 +1396,7 @@
           "options__3": {
             "label": "Cuadrado"
           },
-<<<<<<< HEAD
-          "info": "Agregar imágenes editando tus colecciones. [Más información](https:\/\/help.shopify.com\/en\/manual\/products\/collections)"
-        },
-        "color_scheme": {
-          "options__1": {
-            "label": "Acento 1"
-          },
-          "options__2": {
-            "label": "Acento 2"
-          },
-          "options__3": {
-            "label": "Fondo 1"
-          },
-          "options__4": {
-            "label": "Fondo 2"
-          },
-          "options__5": {
-            "label": "Invertir"
-          },
-          "label": "Esquema de colores"
-        },
-        "image_padding": {
-          "label": "Agregar relleno de imagen"
-=======
           "info": "Agregar imágenes editando tus colecciones. [Más información](https://help.shopify.com/en/manual/products/collections)"
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         }
       }
     },
@@ -1828,9 +1795,6 @@
         },
         "show_rating": {
           "label": "Mostrar calificación de productos",
-<<<<<<< HEAD
-          "info": "Para mostrar una calificación, agrega una aplicación de calificación de productos [Más información](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#search-results-show-product-rating)"
-=======
           "info": "Para mostrar una calificación, agrega una aplicación de calificación de productos [Más información](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#search-results-show-product-rating)"
         },
         "columns_desktop": {
@@ -1847,7 +1811,6 @@
           "options__2": {
             "label": "2 columnas"
           }
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         }
       }
     },
@@ -2049,9 +2012,6 @@
         },
         "show_rating": {
           "label": "Mostrar calificación de productos",
-<<<<<<< HEAD
-          "info": "Para mostrar una calificación, agrega una aplicación de calificación de productos [Más información](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-recommendations-show-product-rating)"
-=======
           "info": "Para mostrar una calificación, agrega una aplicación de calificación de productos [Más información](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-recommendations-show-product-rating)"
         },
         "columns_desktop": {
@@ -2068,7 +2028,6 @@
           "options__2": {
             "label": "2 columnas"
           }
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         }
       }
     },

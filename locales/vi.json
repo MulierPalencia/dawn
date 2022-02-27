@@ -73,12 +73,8 @@
     "loading": "Đang tải...",
     "skip_to_product_info": "Chuyển đến thông tin sản phẩm",
     "total_reviews": "tổng số lượt đánh giá",
-<<<<<<< HEAD
-    "star_reviews_info": "{{ rating_value }}\/{{ rating_max }} sao"
-=======
     "star_reviews_info": "{{ rating_value }}/{{ rating_max }} sao",
     "collapsible_content_title": "Nội dung có thể thu gọn"
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
   },
   "blogs": {
     "article": {

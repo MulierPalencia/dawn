@@ -73,12 +73,8 @@
     "loading": "Ladataan...",
     "skip_to_product_info": "Siirry tuotetietoihin",
     "total_reviews": "arvosteluja yhteensä",
-<<<<<<< HEAD
-    "star_reviews_info": "{{ rating_value }}\/{{ rating_max }} tähteä"
-=======
     "star_reviews_info": "{{ rating_value }}/{{ rating_max }} tähteä",
     "collapsible_content_title": "Pienenettävä sisältö"
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
   },
   "blogs": {
     "article": {

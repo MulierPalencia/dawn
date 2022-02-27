@@ -574,13 +574,8 @@
           "label": "Habilitar o botão \"Ver tudo\" se o blog tiver mais posts que os mostrados"
         },
         "show_image": {
-<<<<<<< HEAD
-          "info": "Use uma imagem com proporção 3:2 para alcançar os melhores resultados. [Saiba mais](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
-          "label": "Mostrar imagem em destaque"
-=======
           "info": "Use uma imagem com proporção 3:2 para alcançar os melhores resultados. [Saiba mais](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
           "label": "Exibir imagem em destaque"
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         },
         "show_date": {
           "label": "Exibir data"
@@ -636,10 +631,6 @@
           "label": "Exibir fabricante"
         },
         "show_rating": {
-<<<<<<< HEAD
-          "label": "Mostrar avaliações do produto",
-          "info": "Para exibir uma avaliação, adicione um app com essa funcionalidade específica. [Saiba mais](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/sections#featured-collection-show-product-rating)"
-=======
           "label": "Exibir avaliações do produto",
           "info": "Para exibir uma avaliação, adicione um app com essa funcionalidade específica. [Saiba mais](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-collection-show-product-rating)"
         },
@@ -657,7 +648,6 @@
           "options__2": {
             "label": "2 colunas"
           }
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         }
       },
       "presets": {
@@ -1298,13 +1288,8 @@
           "label": "Exibir a descrição da coleção"
         },
         "show_collection_image": {
-<<<<<<< HEAD
-          "label": "Mostrar imagem da coleção",
-          "info": "Use uma imagem com proporção 16:9 para ter os melhores resultados. [Saiba mais](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
-=======
           "label": "Exibir imagem da coleção",
           "info": "Use uma imagem com proporção 16:9 para ter os melhores resultados. [Saiba mais](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         }
       }
     },
@@ -1353,10 +1338,6 @@
           "label": "Recolher no desktop"
         },
         "show_rating": {
-<<<<<<< HEAD
-          "label": "Mostrar avaliações do produto",
-          "info": "Para exibir uma avaliação, adicione um app com essa funcionalidade específica. [Saiba mais](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-grid-show-product-rating)"
-=======
           "label": "Exibir avaliações do produto",
           "info": "Para exibir uma avaliação, adicione um app com essa funcionalidade específica. [Saiba mais](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-grid-show-product-rating)"
         },
@@ -1374,7 +1355,6 @@
           "options__2": {
             "label": "2 colunas"
           }
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         }
       }
     },
@@ -1416,32 +1396,7 @@
           "options__3": {
             "label": "Quadrada"
           },
-<<<<<<< HEAD
-          "info": "Edite as coleções para adicionar imagens. [Saiba mais](https:\/\/help.shopify.com\/en\/manual\/products\/collections)"
-        },
-        "color_scheme": {
-          "options__1": {
-            "label": "Destaque 1"
-          },
-          "options__2": {
-            "label": "Destaque 2"
-          },
-          "options__3": {
-            "label": "Plano de fundo 1"
-          },
-          "options__4": {
-            "label": "Plano de fundo 2"
-          },
-          "options__5": {
-            "label": "Inverso"
-          },
-          "label": "Esquema de cores"
-        },
-        "image_padding": {
-          "label": "Adicionar preenchimento à imagem"
-=======
           "info": "Edite as coleções para adicionar imagens. [Saiba mais](https://help.shopify.com/en/manual/products/collections)"
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         }
       }
     },
@@ -1550,13 +1505,8 @@
           "name": "Botões Comprar",
           "settings": {
             "show_dynamic_checkout": {
-<<<<<<< HEAD
-              "label": "Mostrar botões de checkout dinâmico",
-              "info": "Cada cliente vê a forma de pagamento preferencial dentre as disponíveis na loja, como PayPal ou Apple Pay. [Saiba mais](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
-=======
               "label": "Exibir botões de checkout dinâmico",
               "info": "Cada cliente vê a forma de pagamento preferencial dentre as disponíveis na loja, como PayPal ou Apple Pay. [Saiba mais](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
             }
           }
         },
@@ -1844,10 +1794,6 @@
           "label": "Exibir autor"
         },
         "show_rating": {
-<<<<<<< HEAD
-          "label": "Mostrar avaliações do produto",
-          "info": "Para exibir uma avaliação, adicione um app com essa funcionalidade específica. [Saiba mais](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#search-results-show-product-rating)"
-=======
           "label": "Exibir avaliações do produto",
           "info": "Para exibir uma avaliação, adicione um app com essa funcionalidade específica. [Saiba mais](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#search-results-show-product-rating)"
         },
@@ -1865,7 +1811,6 @@
           "options__2": {
             "label": "2 colunas"
           }
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         }
       }
     },
@@ -2066,10 +2011,6 @@
           "content": "As recomendações dinâmicas usam informações sobre pedidos e produtos para mudar e melhorar com o tempo. [Saiba mais](https:\/\/help.shopify.com\/en\/themes\/development\/recommended-products)"
         },
         "show_rating": {
-<<<<<<< HEAD
-          "label": "Mostrar avaliações do produto",
-          "info": "Para exibir uma avaliação, adicione um app com essa funcionalidade específica. [Saiba mais](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-recommendations-show-product-rating)"
-=======
           "label": "Exibir avaliações do produto",
           "info": "Para exibir uma avaliação, adicione um app com essa funcionalidade específica. [Saiba mais](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-recommendations-show-product-rating)"
         },
@@ -2087,7 +2028,6 @@
           "options__2": {
             "label": "2 colunas"
           }
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         }
       }
     },
@@ -2243,13 +2183,8 @@
           "name": "Botões Comprar",
           "settings": {
             "show_dynamic_checkout": {
-<<<<<<< HEAD
-              "label": "Mostrar botões de checkout dinâmico",
-              "info": "Cada cliente vê a forma de pagamento preferencial dentre as disponíveis na loja, como PayPal ou Apple Pay. [Saiba mais](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
-=======
               "label": "Exibir botões de checkout dinâmico",
               "info": "Cada cliente vê a forma de pagamento preferencial dentre as disponíveis na loja, como PayPal ou Apple Pay. [Saiba mais](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
             }
           }
         },
@@ -2347,13 +2282,8 @@
           "info": "Visível quando o contêiner é exibido"
         },
         "show_text_below": {
-<<<<<<< HEAD
-          "label": "Mostrar conteúdo abaixo da imagem em dispositivos móveis",
-          "info": "Use uma imagem com proporção 16:9 para ter os melhores resultados. [Saiba mais](https:\/\/help.shopify.com\/en\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
-=======
           "label": "Exibir conteúdo abaixo da imagem em dispositivos móveis",
           "info": "Use uma imagem com proporção 16:9 para ter os melhores resultados. [Saiba mais](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
->>>>>>> 17b672bfeba6d176bf2ba11a9485e151370e1ee5
         },
         "image_height": {
           "label": "Altura do banner",
