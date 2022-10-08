@@ -58,6 +58,10 @@
       "home": "Home",
       "page": "Page",
       "tags": "Tags"
+    },
+    "meta": {
+      "tags": "Tags",
+      "page": "Page"
     }
   },
   "newsletter": {
@@ -188,7 +192,9 @@
       "sort_button": "Sort",
       "sort_by_label": "Sort by:",
       "to": "To",
-      "clear_filter": "Remove filter"
+      "clear_filter": "Remove filter",
+      "shipping_preorder_html": "La talla {{ size }} es un <a href=\"{{ link }}\">producto preventa<\/a>.",
+      "shipping_preorders_html": "Las tallas {{ size }} son un <a href=\"{{ link }}\">producto preventa<\/a>."
     }
   },
   "templates": {
@@ -436,7 +442,7 @@
       "search": "Search products",
       "page": "Page",
       "cart": "Cart",
-      "product": "Products",
+      "products": "Products",
       "tags_html": "Tags"
     }
   }
