@@ -435,7 +435,11 @@
   "structured_data": {
     "breadcrumbs": {
       "collections": "Colecciones",
-      "search": "Buscador de productos"
+      "search": "Buscador de productos",
+      "page": "Página",
+      "cart": "Carrito",
+      "product": "Producto",
+      "tags_html": "Tags"
     }
   }
 }
