@@ -424,5 +424,15 @@
       "copy_code_success": "Code copied successfully",
       "print_gift_card": "Print"
     }
+  },
+  "structured_data": {
+    "breadcrumbs": {
+      "collections": "Collections",
+      "search": "Search products",
+      "page": "Page",
+      "cart": "Cart",
+      "product": "Products",
+      "tags_html": "Tags"
+    }
   }
 }
