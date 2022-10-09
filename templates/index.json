@@ -47,6 +47,20 @@
         "show_text_below": false
       }
     },
+    "164034419413c52174": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Novedades",
+        "collection": "novedades",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "swipe_on_mobile": false
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -164,6 +178,7 @@
   },
   "order": [
     "image_banner",
+    "164034419413c52174",
     "rich_text",
     "featured_collection",
     "collage",
