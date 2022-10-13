@@ -9,7 +9,7 @@
     "colors_background_2": "#F3F3F3",
     "type_header_font": "assistant_n4",
     "type_body_font": "assistant_n4",
-    "page_width": "1200",
+    "page_width": 1200,
     "social_facebook_link": "https:\/\/www.facebook.com\/mulieresmoda\/",
     "social_instagram_link": "https:\/\/www.instagram.com\/mulier.es.moda\/",
     "favicon": "shopify:\/\/shop_images\/favicon_3ad68123-6634-4abd-a334-4bd940a803b8.jpg",
@@ -99,7 +99,9 @@
           },
           "block_order": [
             "announcement-bar-0"
-          ]
+          ],
+          "settings": {
+          }
         },
         "header": {
           "type": "header",
