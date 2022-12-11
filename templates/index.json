@@ -1,7 +1,7 @@
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "16403441539c243c16": {
+      "type": "collection-list",
       "blocks": {
         "16403441537f7e68a6-0": {
           "type": "featured_collection",
@@ -50,27 +50,35 @@
       ],
       "settings": {
         "title": "Categorías",
-        "image_ratio": "square",
+        "heading_size": "h2",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
         "color_scheme": "background-1",
+        "show_view_all": true,
+        "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "image_padding": false,
-        "show_view_all": false
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "164034419413c52174": {
       "type": "featured-collection",
       "settings": {
-        "title": "Novedades",
-        "collection": "novedades",
-        "products_to_show": 8,
+        "title": "¡Arrasando!",
+        "heading_size": "h2",
+        "collection": "camaleonica-by-capriche",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
         "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "add_image_padding": true,
-        "show_image_outline": true,
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
         "show_vendor": false,
-        "show_rating": false
+        "show_rating": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1640345284e191794a": {
@@ -92,22 +100,27 @@
       ],
       "settings": {
         "title": "¡Descubre nuestra nueva colección!",
+        "heading_size": "h1",
         "image_width": "half",
         "image_ratio": "circle",
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "secondary",
         "button_label": "Nueva colección",
         "button_link": "shopify:\/\/collections\/nueva-coleccion",
-        "swipe_on_mobile": false
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "16403447108b5dd14b": {
       "type": "apps",
       "blocks": {
         "78f3288d-9804-4344-9107-db6a01b07854": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_font": "helvetica_n4",
             "heading_size": 20,
             "feed_width": 100,
             "html_area": ""
@@ -121,7 +134,7 @@
         "include_margins": true
       }
     },
-    "multicolumn": {
+    "multi_column": {
       "type": "multicolumn",
       "blocks": {
         "column1": {
@@ -140,13 +153,19 @@
       ],
       "settings": {
         "title": "¿Dónde está nuestra tienda?",
+        "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "circle",
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "secondary",
         "button_label": "📌 Encuentranos",
         "button_link": "https:\/\/www.google.com\/maps\/dir\/\/C.+Mayor+Principal,+21f,+34001+Palencia\/@42.0106781,-4.5353529,17z\/data=!4m8!4m7!1m0!1m5!1m1!1s0xd47b047b0d9aaab:0x8b8081d494e48941!2m2!1d-4.5331642!2d42.0106781",
-        "swipe_on_mobile": false
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -155,12 +174,6 @@
     "164034419413c52174",
     "1640345284e191794a",
     "16403447108b5dd14b",
-    "multi_column",
-    "image_banner",
-    "rich_text",
-    "featured_collection",
-    "collage",
-    "video",
-    "multicolumn"
+    "multi_column"
   ]
 }

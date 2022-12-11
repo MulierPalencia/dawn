@@ -17,6 +17,19 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
+        "blocks": {
+          "a980f6bb-9cd8-41f5-aa11-ffae2f18808f": {
+            "type": "announcement",
+            "settings": {
+              "text": "GASTOS DE ENVÍO GRATIS",
+              "color_scheme": "accent-2",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "a980f6bb-9cd8-41f5-aa11-ffae2f18808f"
+        ],
         "settings": {
         }
       },
