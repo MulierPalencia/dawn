@@ -158,7 +158,7 @@
           "background_color": "#2db742",
           "text_color": "#ffffff",
           "position": "right",
-          "label_width": 155,
+          "label_width": 120,
           "scroll_bar_height": 500,
           "icon_size": 56,
           "distance_left": 30,
