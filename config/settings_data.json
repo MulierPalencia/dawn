@@ -138,6 +138,33 @@
           "custom_switcher_background_color": "#ffffff",
           "custom_switcher_border_color": "#000000"
         }
+      },
+      "11813581335429059158": {
+        "type": "shopify:\/\/apps\/whatsapp-chat-widget\/blocks\/app-embed\/b85b5e45-9cea-417a-9b9e-0aa961ccf3ef",
+        "disabled": false,
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "show_label_on_desktop": true,
+          "show_label_on_mobile": true,
+          "show_scroll_bar": false,
+          "show_gdpr_notice": false,
+          "use_click_to_chat": false,
+          "widget_label_text": "¿Te ayudamos?",
+          "widget_text": "Empezar una conversación",
+          "description": "Hola! Haz click en uno de nuestros miebros para empezar a hablar por Whatsapp.",
+          "response_text": "El equipo intentará contestar lo antes posible.",
+          "gdpr_text": "Por favor, acepta nuestra primero nuestra política de privacidad primero antes de empezar la conversación.",
+          "background_color": "#2DB742",
+          "text_color": "#ffffff",
+          "position": "right",
+          "label_width": 155,
+          "scroll_bar_height": 500,
+          "icon_size": 56,
+          "distance_left": 30,
+          "distance_right": 30,
+          "distance_bottom": 30
+        }
       }
     }
   },
