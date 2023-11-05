@@ -30,7 +30,7 @@
         "16403441537f7e68a6-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "chaquetas"
+            "collection": "abrigos"
           }
         },
         "92a30aff-e476-4506-b67c-4d538c2c5748": {
@@ -119,10 +119,8 @@
       "type": "apps",
       "blocks": {
         "78f3288d-9804-4344-9107-db6a01b07854": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_size": 20,
-            "feed_width": 100,
             "html_area": ""
           }
         }
