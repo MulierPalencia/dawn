@@ -9,22 +9,10 @@
             "collection": "vestidos"
           }
         },
-        "4baf7507-0b11-44d4-810b-59ab8a3773fa": {
+        "92a30aff-e476-4506-b67c-4d538c2c5748": {
           "type": "featured_collection",
           "settings": {
-            "collection": "pantalones"
-          }
-        },
-        "d1428946-5498-4645-9b37-5ad3b549547a": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "monos"
-          }
-        },
-        "16403441537f7e68a6-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "camisetas"
+            "collection": "camisas-y-blusas"
           }
         },
         "16403441537f7e68a6-1": {
@@ -33,20 +21,32 @@
             "collection": "abrigos"
           }
         },
-        "92a30aff-e476-4506-b67c-4d538c2c5748": {
+        "4baf7507-0b11-44d4-810b-59ab8a3773fa": {
           "type": "featured_collection",
           "settings": {
-            "collection": "camisas-y-blusas"
+            "collection": "pantalones"
+          }
+        },
+        "16403441537f7e68a6-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "camisetas"
+          }
+        },
+        "d1428946-5498-4645-9b37-5ad3b549547a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "monos"
           }
         }
       },
       "block_order": [
         "16403441537f7e68a6-0",
-        "4baf7507-0b11-44d4-810b-59ab8a3773fa",
-        "d1428946-5498-4645-9b37-5ad3b549547a",
-        "16403441537f7e68a6-2",
+        "92a30aff-e476-4506-b67c-4d538c2c5748",
         "16403441537f7e68a6-1",
-        "92a30aff-e476-4506-b67c-4d538c2c5748"
+        "4baf7507-0b11-44d4-810b-59ab8a3773fa",
+        "16403441537f7e68a6-2",
+        "d1428946-5498-4645-9b37-5ad3b549547a"
       ],
       "settings": {
         "title": "Categorías",
