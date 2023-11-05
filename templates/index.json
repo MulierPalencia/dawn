@@ -27,16 +27,16 @@
             "collection": "pantalones"
           }
         },
-        "16403441537f7e68a6-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "camisetas"
-          }
-        },
         "d1428946-5498-4645-9b37-5ad3b549547a": {
           "type": "featured_collection",
           "settings": {
             "collection": "chaquetas"
+          }
+        },
+        "16403441537f7e68a6-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "camisetas"
           }
         }
       },
@@ -45,8 +45,8 @@
         "92a30aff-e476-4506-b67c-4d538c2c5748",
         "16403441537f7e68a6-1",
         "4baf7507-0b11-44d4-810b-59ab8a3773fa",
-        "16403441537f7e68a6-2",
-        "d1428946-5498-4645-9b37-5ad3b549547a"
+        "d1428946-5498-4645-9b37-5ad3b549547a",
+        "16403441537f7e68a6-2"
       ],
       "settings": {
         "title": "Categorías",
