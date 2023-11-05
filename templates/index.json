@@ -3,16 +3,16 @@
     "16403441539c243c16": {
       "type": "collection-list",
       "blocks": {
-        "16403441537f7e68a6-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "vestidos"
-          }
-        },
         "92a30aff-e476-4506-b67c-4d538c2c5748": {
           "type": "featured_collection",
           "settings": {
             "collection": "camisas-y-blusas"
+          }
+        },
+        "16403441537f7e68a6-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vestidos"
           }
         },
         "16403441537f7e68a6-1": {
@@ -41,8 +41,8 @@
         }
       },
       "block_order": [
-        "16403441537f7e68a6-0",
         "92a30aff-e476-4506-b67c-4d538c2c5748",
+        "16403441537f7e68a6-0",
         "16403441537f7e68a6-1",
         "4baf7507-0b11-44d4-810b-59ab8a3773fa",
         "d1428946-5498-4645-9b37-5ad3b549547a",
