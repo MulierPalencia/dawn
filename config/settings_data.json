@@ -14,6 +14,9 @@
     "social_instagram_link": "https:\/\/www.instagram.com\/mulieresmoda\/",
     "social_tiktok_link": "https:\/\/www.tiktok.com\/@mulier.es.moda",
     "favicon": "shopify:\/\/shop_images\/favicon_3ad68123-6634-4abd-a334-4bd940a803b8.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/MULIER_LOGO-1000x500.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "medium",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
