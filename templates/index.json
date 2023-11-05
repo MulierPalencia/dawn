@@ -15,10 +15,10 @@
             "collection": "vestidos"
           }
         },
-        "d1428946-5498-4645-9b37-5ad3b549547a": {
+        "16403441537f7e68a6-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "chaquetas"
+            "collection": "abrigos"
           }
         },
         "4baf7507-0b11-44d4-810b-59ab8a3773fa": {
@@ -27,10 +27,10 @@
             "collection": "pantalones"
           }
         },
-        "16403441537f7e68a6-1": {
+        "d1428946-5498-4645-9b37-5ad3b549547a": {
           "type": "featured_collection",
           "settings": {
-            "collection": "abrigos"
+            "collection": "chaquetas"
           }
         },
         "16403441537f7e68a6-2": {
@@ -43,9 +43,9 @@
       "block_order": [
         "92a30aff-e476-4506-b67c-4d538c2c5748",
         "16403441537f7e68a6-0",
-        "d1428946-5498-4645-9b37-5ad3b549547a",
-        "4baf7507-0b11-44d4-810b-59ab8a3773fa",
         "16403441537f7e68a6-1",
+        "4baf7507-0b11-44d4-810b-59ab8a3773fa",
+        "d1428946-5498-4645-9b37-5ad3b549547a",
         "16403441537f7e68a6-2"
       ],
       "settings": {
