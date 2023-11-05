@@ -423,5 +423,18 @@
       "collections": "Colecciones",
       "search": "Buscador de productos"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "general": {
+        "continue_to_review": "Revisar el pedido"
+      },
+      "delivery_options": {
+        "pick_up": "Recogida en tienda"
+      },
+      "order_summary": {
+        "apply_discount_button_label": "Aplicar"
+      }
+    }
   }
 }
