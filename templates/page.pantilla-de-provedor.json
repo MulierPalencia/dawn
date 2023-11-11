@@ -10,7 +10,7 @@
     "284dbf67-6fb7-4ed2-8d19-3dfd4a6f4009": {
       "type": "featured-collection",
       "settings": {
-        "title": "",
+        "title": "{{ section.settings.collection.title }}",
         "heading_size": "h1",
         "collection": "",
         "products_to_show": 4,
