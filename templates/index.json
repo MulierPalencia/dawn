@@ -165,19 +165,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "3fc5c96b-5685-4844-9cb5-684e22cce319": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "video_url": "https:\/\/youtu.be\/BNwhm230dFA?si=Szwp4yKkRwS6NwEd",
-        "description": "Black days Mulier 2023 ofertas descuentos",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -185,7 +172,6 @@
     "164034419413c52174",
     "1640345284e191794a",
     "16403447108b5dd14b",
-    "multi_column",
-    "3fc5c96b-5685-4844-9cb5-684e22cce319"
+    "multi_column"
   ]
 }
