@@ -577,6 +577,54 @@
         "number_of_pickup_points_near_location": {
           "many": "%{count} Abholpunkte in der Nähe Ihres Standorts"
         }
+      },
+      "local_pickup": {
+        "location_information": {
+          "many": "Es gibt %{count} Geschäfte mit Lagerbeständen in der Nähe von %{address}."
+        },
+        "paginator": {
+          "label": {
+            "many": "%{first} - %{last} von %{count} Geschäften"
+          }
+        },
+        "reveal_more_label": {
+          "many": "Weitere %{count} Filialen anzeigen"
+        }
+      }
+    },
+    "notices": {
+      "order": {
+        "cancel_reason": {
+          "many": "Andere"
+        }
+      }
+    },
+    "page_titles": {
+      "search_results": {
+        "many": "Suche: %{count} Ergebnisse gefunden für „%{terms}“"
+      }
+    }
+  },
+  "customer_accounts": {
+    "orders": {
+      "order_list": {
+        "items": {
+          "many": "{{count}} Artikel"
+        }
+      },
+      "order_status": {
+        "delivered_description_gift_card": {
+          "many": "Gutscheine wurden per E-Mail verschickt."
+        },
+        "gift_card_label": {
+          "many": "Geschenkkarten"
+        },
+        "gift_card_resend": {
+          "many": "E-Mails weiterleiten"
+        },
+        "gift_card_resend_description": {
+          "many": "Wenn Sie sie nicht erhalten haben, senden Sie die E-Mails bitte erneut oder"
+        }
       }
     }
   }
