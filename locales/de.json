@@ -535,6 +535,48 @@
         "gift_card_text_title": {
           "many": "Geschenkgutscheine per SMS verschickt"
         }
+      },
+      "contextual_availability": {
+        "title": {
+          "many": "Produkte nicht verfügbar"
+        },
+        "products_not_available": {
+          "many": "Diese Produkte werden aus Ihrem Warenkorb entfernt, da sie in Ihrem Land oder Ihrer Region nicht verfügbar sind."
+        },
+        "all_products_in_cart_unavailable": {
+          "many": "Diese Produkte sind in Ihrem Land oder Ihrer Region nicht verfügbar."
+        }
+      },
+      "throttle": {
+        "estimated_wait_time": {
+          "many": "Geschätzte Wartezeit: {{count}} Protokoll"
+        }
+      },
+      "deliverability": {
+        "not_deliverable": {
+          "title": {
+            "many": "Keine Lieferung für %{count} Artikel verfügbar"
+          },
+          "message": {
+            "many": "Diese Artikel werden aus Ihrem Warenkorb entfernt, da für Ihre Adresse keine Lieferoptionen verfügbar sind."
+          }
+        }
+      },
+      "pickup_point": {
+        "paginator": {
+          "header": {
+            "many": "Zeigt %{first} - %{last} von %{count} Punkten an"
+          },
+          "selected_pickup_point_label": {
+            "many": "%{pickup_point_index} von %{count} Punkten"
+          },
+          "selected_page": {
+            "many": "%{first} - %{last} von %{count} Punkten"
+          }
+        },
+        "number_of_pickup_points_near_location": {
+          "many": "%{count} Abholpunkte in der Nähe Ihres Standorts"
+        }
       }
     }
   }
