@@ -460,6 +460,80 @@
       "shipping": {
         "estimated_delivery_date": {
           "many": "%{count} Werktage"
+        },
+        "other_method": {
+          "many": "Weitere %{count} Versandmethoden verfügbar unter"
+        },
+        "subscription_delivery_description": {
+          "prepaid_delivery_frequency": {
+            "many": "für %{count} Lieferungen"
+          },
+          "subscription_delivery_frequency": {
+            "day": {
+              "many": "alle %{count} Tage"
+            },
+            "week": {
+              "many": "alle %{count} Wochen"
+            },
+            "month": {
+              "many": "alle %{count} Monate"
+            },
+            "year": {
+              "many": "alle %{count} Jahre"
+            }
+          },
+          "first_n_order_free": {
+            "many": "Erste %{count} Bestellungen kostenlos"
+          },
+          "free_for_first_n_order": {
+            "many": "Für die ersten %{count} Bestellungen"
+          }
+        }
+      },
+      "payment": {
+        "order_covered_by_gift_cards_notice": {
+          "many": "Die Kosten Ihrer Bestellung werden durch Ihre Geschenkkarten gedeckt."
+        },
+        "card_fields_unavailable_html": {
+          "many": "Debit- und Kreditkartenzahlungen sind derzeit nicht verfügbar.<br><a href=\"%{current_url}\">Aktualisieren Sie diese Seite<\/a> oder versuchen Sie es mit einer anderen Zahlungsmethode."
+        },
+        "expired_cards_info": {
+          "many": "Es gibt %{count} abgelaufene Karten, die Sie in Ihrem Konto anzeigen und bearbeiten können."
+        },
+        "order_edit_banner_items_added": {
+          "many": "%{count} hinzugefügt"
+        }
+      },
+      "shipping_errors": {
+        "shipping_method_not_available_generic": {
+          "many": "Einige Artikel in Ihrem Warenkorb können nicht an die von Ihnen angegebene Adresse versendet werden. Überprüfen Sie Ihre Adresse, um sicherzustellen, dass sie korrekt ist, und versuchen Sie es erneut oder wählen Sie eine andere aus."
+        },
+        "shipping_method_not_available_updated": {
+          "many": "Ein oder mehrere von Ihnen hinzugefügte Artikel können nicht an Ihren Standort versendet werden. Löschen Sie sie, um die Zahlung abzuschließen, oder wenden Sie sich an das Geschäft."
+        }
+      },
+      "processing": {
+        "wait": {
+          "medium": {
+            "many": "Ihre Anfrage wird bearbeitet. Die geschätzte Wartezeit beträgt %{count} Minuten."
+          }
+        }
+      },
+      "thank_you": {
+        "login_reorder_link_text": {
+          "many": "Kaufen Sie diese Produkte auch"
+        },
+        "gift_card_confirmation_by_text_typ": {
+          "many": "In wenigen Minuten erhalten Sie eine SMS mit Ihren Geschenkkarten."
+        },
+        "gift_card_confirmation_by_email_typ": {
+          "many": "In wenigen Minuten erhalten Sie eine E-Mail mit Ihren Geschenkkarten."
+        },
+        "gift_card_email_title": {
+          "many": "Geschenkgutscheine per E-Mail verschickt"
+        },
+        "gift_card_text_title": {
+          "many": "Geschenkgutscheine per SMS verschickt"
         }
       }
     }
