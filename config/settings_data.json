@@ -169,6 +169,12 @@
           "distance_right": 30,
           "distance_bottom": 30
         }
+      },
+      "2140405073069974119": {
+        "type": "shopify:\/\/apps\/t-lab-ai-language-translate\/blocks\/language_detection\/b5b83690-efd4-434d-8c6a-a5cef4019faf",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
