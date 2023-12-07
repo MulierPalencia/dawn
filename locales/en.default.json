@@ -460,6 +460,80 @@
       "shipping": {
         "estimated_delivery_date": {
           "many": "%{count} business days"
+        },
+        "other_method": {
+          "many": "Other %{count} shipping methods available from"
+        },
+        "subscription_delivery_description": {
+          "prepaid_delivery_frequency": {
+            "many": "for %{count} deliveries"
+          },
+          "subscription_delivery_frequency": {
+            "day": {
+              "many": "every %{count} days"
+            },
+            "week": {
+              "many": "every %{count} weeks"
+            },
+            "month": {
+              "many": "every %{count} months"
+            },
+            "year": {
+              "many": "every %{count} years"
+            }
+          },
+          "first_n_order_free": {
+            "many": "First %{count} orders free"
+          },
+          "free_for_first_n_order": {
+            "many": "For the first %{count} orders"
+          }
+        }
+      },
+      "payment": {
+        "order_covered_by_gift_cards_notice": {
+          "many": "The cost of your order is covered by your gift cards."
+        },
+        "card_fields_unavailable_html": {
+          "many": "Debit and credit card payments are not available at this time.<br><a href=\"%{current_url}\">Refresh this page<\/a> or try using a different payment method."
+        },
+        "expired_cards_info": {
+          "many": "There are %{count} expired cards that you can view and edit in your account."
+        },
+        "order_edit_banner_items_added": {
+          "many": "%{count} added"
+        }
+      },
+      "shipping_errors": {
+        "shipping_method_not_available_generic": {
+          "many": "Some items in your cart cannot be shipped to the address you have indicated. Check your address to make sure it is correct and try again, or select another one."
+        },
+        "shipping_method_not_available_updated": {
+          "many": "One or more items you added cannot be shipped to your location. Delete them to complete payment, or contact the store."
+        }
+      },
+      "processing": {
+        "wait": {
+          "medium": {
+            "many": "Your request is being processed. The estimated wait time is %{count} minutes."
+          }
+        }
+      },
+      "thank_you": {
+        "login_reorder_link_text": {
+          "many": "buy these products too"
+        },
+        "gift_card_confirmation_by_text_typ": {
+          "many": "In a few minutes you will receive a text message with your gift cards."
+        },
+        "gift_card_confirmation_by_email_typ": {
+          "many": "In a few minutes you will receive an email with your gift cards."
+        },
+        "gift_card_email_title": {
+          "many": "Gift cards sent by email"
+        },
+        "gift_card_text_title": {
+          "many": "Gift cards sent by text message"
         }
       }
     }
