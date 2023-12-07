@@ -176,7 +176,9 @@
       "sort_button": "Ordina",
       "sort_by_label": "Ordina per:",
       "to": "A",
-      "clear_filter": "Rimuovi filtro"
+      "clear_filter": "Rimuovi filtro",
+      "shipping_preorder_html": "Misurare {{ size }} è un <a href=\"{{ link }}\">prodotto in prevendita<\/a>.",
+      "shipping_preorders_html": "Le dimensioni {{ size }} Loro sono un <a href=\"{{ link }}\">prodotto in prevendita<\/a>."
     }
   },
   "templates": {
@@ -414,6 +416,12 @@
       "expired": "Scaduto",
       "copy_code_success": "Codice copiato correttamente",
       "print_gift_card": "Stampa"
+    }
+  },
+  "structured_data": {
+    "breadcrumbs": {
+      "collections": "collezioni",
+      "search": "Ricerca prodotti"
     }
   }
 }
