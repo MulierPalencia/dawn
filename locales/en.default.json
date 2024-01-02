@@ -704,6 +704,23 @@
             }
           }
         }
+      },
+      "draft_order_details": {
+        "payment_status": {
+          "pending": {
+            "banner_due": {
+              "many": "Payment is due in {{count}} days."
+            },
+            "banner_overdue": {
+              "many": "Payment was due ago {{count}} days."
+            }
+          }
+        }
+      }
+    },
+    "errors": {
+      "banner_title": {
+        "many": "Good {{count}} mistakes."
       }
     }
   }
