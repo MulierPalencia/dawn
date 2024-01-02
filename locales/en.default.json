@@ -690,6 +690,20 @@
         "confirmed_gift_card_additional_description_text": {
           "many": "Each gift card will be sent in a separate text message."
         }
+      },
+      "if_not_received": {
+        "many": "If they were not received,"
+      }
+    },
+    "B2B": {
+      "orders": {
+        "draft_order_list": {
+          "pending_tab_accessibility_label": {
+            "pending_orders": {
+              "many": "Have {{count}} pending orders"
+            }
+          }
+        }
       }
     }
   }
