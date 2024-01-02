@@ -628,6 +628,11 @@
           "month": {
             "many": "%{count} months"
           }
+        },
+        "recurring_totals_with_initial_order_shipping_discount_with_policies": {
+          "first_cycles": {
+            "many": ", then %{count} payments of %{total_price} each"
+          }
         }
       }
     },
@@ -663,6 +668,9 @@
         },
         "gift_card_resend_description": {
           "many": "If not received, please resend the emails or"
+        },
+        "confirmed_gift_card_additional_description": {
+          "many": "Each gift card will be sent in a separate email."
         }
       }
     }
