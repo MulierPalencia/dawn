@@ -608,6 +608,27 @@
         "title_with_products": {
           "many": "Buy %{product_name} and %{count} items more"
         }
+      },
+      "subscriptions": {
+        "recurring_totals_with_policies": {
+          "first_cycles": {
+            "many": "First %{count} payments %{total_price} each"
+          }
+        },
+        "recurring_total_intervals": {
+          "day": {
+            "many": "%{count} days"
+          },
+          "year": {
+            "many": "%{count} years"
+          },
+          "week": {
+            "many": "%{count} weeks"
+          },
+          "month": {
+            "many": "%{count} months"
+          }
+        }
       }
     },
     "notices": {
