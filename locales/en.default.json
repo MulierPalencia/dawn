@@ -534,6 +534,12 @@
         },
         "gift_card_text_title": {
           "many": "Gift cards sent by text message"
+        },
+        "gift_card_resent_confirmation": {
+          "many": "Gift cards have been forwarded."
+        },
+        "gift_card_resend_failure": {
+          "many": "There was an error resending your gift cards. Please try again or contact us."
         }
       },
       "contextual_availability": {
