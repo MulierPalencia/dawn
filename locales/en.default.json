@@ -596,6 +596,18 @@
         "reveal_more_label": {
           "many": "Show %{count} branches more"
         }
+      },
+      "order_payment_collection": {
+        "changes_summary": {
+          "added": {
+            "many": "%{count} added"
+          }
+        }
+      },
+      "open_graph_meta_tag": {
+        "title_with_products": {
+          "many": "Buy %{product_name} and %{count} items more"
+        }
       }
     },
     "notices": {
