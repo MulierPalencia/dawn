@@ -176,7 +176,9 @@
       "sort_button": "Sort",
       "sort_by_label": "Sort by:",
       "to": "To",
-      "clear_filter": "Clear filter"
+      "clear_filter": "Clear filter",
+      "shipping_preorders_html": "The sizes {{ size }} They are a <a href=\"{{ link }}\">pre-sale product<\/a>.",
+      "shipping_preorder_html": "Size {{ size }} it's a <a href=\"{{ link }}\">pre-sale product<\/a>."
     }
   },
   "templates": {
@@ -730,6 +732,12 @@
       "month": {
         "many": "months"
       }
+    }
+  },
+  "structured_data": {
+    "breadcrumbs": {
+      "search": "Product Finder",
+      "collections": "collections"
     }
   }
 }
