@@ -722,6 +722,14 @@
       "banner_title": {
         "many": "Good {{count}} mistakes."
       }
+    },
+    "ui_components": {
+      "autocompleteOptionsAvailable": {
+        "many": "{{count}} items available"
+      },
+      "month": {
+        "many": "months"
+      }
     }
   }
 }
