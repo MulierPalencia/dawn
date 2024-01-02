@@ -671,6 +671,24 @@
         },
         "confirmed_gift_card_additional_description": {
           "many": "Each gift card will be sent in a separate email."
+        },
+        "delivered_description_gift_card_text": {
+          "many": "Gift cards were sent via text message."
+        },
+        "gift_card_resend_description_text": {
+          "many": "If they were not received, resend the text messages or"
+        },
+        "gift_card_resend_text": {
+          "many": "forward text messages"
+        },
+        "gift_resend_success": {
+          "many": "Forwarded Gift Cards"
+        },
+        "gift_resend_failure": {
+          "many": "There was a problem resending your gift cards. Please try again or contact us."
+        },
+        "confirmed_gift_card_additional_description_text": {
+          "many": "Each gift card will be sent in a separate text message."
         }
       }
     }
