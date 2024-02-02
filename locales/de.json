@@ -534,6 +534,12 @@
         },
         "gift_card_text_title": {
           "many": "Geschenkgutscheine per SMS verschickt"
+        },
+        "gift_card_resent_confirmation": {
+          "many": "Geschenkkarten wurden erneut verschickt."
+        },
+        "gift_card_resend_failure": {
+          "many": "Beim erneuten Versenden Ihrer Geschenkkarten ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie uns."
         }
       },
       "contextual_availability": {
@@ -576,98 +582,6 @@
         },
         "number_of_pickup_points_near_location": {
           "many": "%{count} Abholpunkte in der Nähe Ihres Standorts"
-        }
-      },
-      "local_pickup": {
-        "location_information": {
-          "many": "Es gibt %{count} Geschäfte mit Lagerbeständen in der Nähe von %{address}."
-        },
-        "paginator": {
-          "label": {
-            "many": "%{first} - %{last} von %{count} Geschäften"
-          }
-        },
-        "reveal_more_label": {
-          "many": "Weitere %{count} Filialen anzeigen"
-        }
-      }
-    },
-    "notices": {
-      "order": {
-        "cancel_reason": {
-          "many": "Andere"
-        }
-      }
-    },
-    "page_titles": {
-      "search_results": {
-        "many": "Suche: %{count} Ergebnisse gefunden für „%{terms}“"
-      }
-    }
-  },
-  "customer_accounts": {
-    "orders": {
-      "order_list": {
-        "items": {
-          "many": "{{count}} Artikel"
-        }
-      },
-      "order_status": {
-        "delivered_description_gift_card": {
-          "many": "Gutscheine wurden per E-Mail verschickt."
-        },
-        "gift_card_label": {
-          "many": "Geschenkkarten"
-        },
-        "gift_card_resend": {
-          "many": "E-Mails weiterleiten"
-        },
-        "gift_card_resend_description": {
-          "many": "Wenn Sie sie nicht erhalten haben, senden Sie die E-Mails bitte erneut oder"
-        },
-        "confirmed_gift_card_additional_description": {
-          "many": "Jeder Geschenkgutschein wird in einer separaten E-Mail verschickt."
-        },
-        "delivered_description_gift_card_text": {
-          "many": "Gutscheine wurden per SMS verschickt."
-        },
-        "gift_card_resend_text": {
-          "many": "Textnachrichten weiterleiten"
-        },
-        "gift_card_resend_description_text": {
-          "many": "Wenn sie nicht empfangen wurden, senden Sie die Textnachrichten erneut oder"
-        },
-        "confirmed_gift_card_additional_description_text": {
-          "many": "Jede Geschenkkarte wird in einer separaten Textnachricht versendet."
-        },
-        "gift_resend_success": {
-          "many": "Geschenkkarten weitergeleitet"
-        },
-        "gift_resend_failure": {
-          "many": "Beim erneuten Versenden Ihrer Geschenkkarten ist ein Problem aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie uns."
-        }
-      },
-      "if_not_received": {
-        "many": "Wenn sie nicht eingegangen sind,"
-      }
-    },
-    "B2B": {
-      "orders": {
-        "draft_order_list": {
-          "pending_tab_accessibility_label": {
-            "pending_orders": {
-              "many": "Haben {{count}} ausstehende Bestellungen"
-            }
-          }
-        }
-      },
-      "draft_order_details": {
-        "payment_status": {
-          "pending": {
-            "banner_overdue": {
-              "many": "Die Zahlung war vorab fällig {{count}} Tage."
-            }
-          }
         }
       }
     }
