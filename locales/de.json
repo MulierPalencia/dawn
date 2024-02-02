@@ -595,6 +595,27 @@
         "title_with_products": {
           "many": "Kaufen Sie %{product_name} und %{count} Artikel mehr"
         }
+      },
+      "subscriptions": {
+        "recurring_totals_with_policies": {
+          "first_cycles": {
+            "many": "Erste %{count} Zahlungen jeweils %{total_price}"
+          }
+        },
+        "recurring_total_intervals": {
+          "day": {
+            "many": "%{count} Tage"
+          },
+          "week": {
+            "many": "%{count} Wochen"
+          },
+          "month": {
+            "many": "%{count} Monate"
+          },
+          "year": {
+            "many": "%{count} Jahre"
+          }
+        }
       }
     }
   }
