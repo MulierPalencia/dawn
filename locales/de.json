@@ -677,7 +677,22 @@
         },
         "gift_card_resend_text": {
           "many": "Textnachrichten weiterleiten"
+        },
+        "gift_card_resend_description_text": {
+          "many": "Wenn sie nicht empfangen wurden, senden Sie die Textnachrichten erneut oder"
+        },
+        "gift_resend_success": {
+          "many": "Geschenkgutscheine weitergeleitet"
+        },
+        "confirmed_gift_card_additional_description_text": {
+          "many": "Jede Geschenkkarte wird in einer separaten Textnachricht versendet."
+        },
+        "gift_resend_failure": {
+          "many": "Beim erneuten Versenden Ihrer Geschenkkarten ist ein Problem aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie uns."
         }
+      },
+      "if_not_received": {
+        "many": "Wenn sie nicht eingegangen sind,"
       }
     }
   }
