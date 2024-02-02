@@ -625,6 +625,21 @@
       "local_pickup": {
         "location_information": {
           "many": "Es gibt %{count} Geschäfte mit Lagerbeständen in der Nähe von %{address}."
+        },
+        "paginator": {
+          "label": {
+            "many": "%{first} - %{last} aus %{count} Geschäften"
+          }
+        },
+        "reveal_more_label": {
+          "many": "%{count} weitere Filialen anzeigen"
+        }
+      }
+    },
+    "notices": {
+      "order": {
+        "cancel_reason": {
+          "many": "Andere"
         }
       }
     }
