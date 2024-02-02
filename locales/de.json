@@ -668,6 +668,15 @@
         },
         "gift_card_resend_description": {
           "many": "Wenn Sie sie nicht erhalten haben, senden Sie die E-Mails bitte erneut oder"
+        },
+        "confirmed_gift_card_additional_description": {
+          "many": "Jede Geschenkkarte wird in einer separaten E-Mail versendet."
+        },
+        "delivered_description_gift_card_text": {
+          "many": "Geschenkgutscheine wurden per SMS verschickt."
+        },
+        "gift_card_resend_text": {
+          "many": "Textnachrichten weiterleiten"
         }
       }
     }
