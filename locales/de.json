@@ -615,6 +615,16 @@
           "year": {
             "many": "%{count} Jahre"
           }
+        },
+        "recurring_totals_with_initial_order_shipping_discount_with_policies": {
+          "first_cycles": {
+            "many": ", dann %{count} Zahlungen von jeweils %{total_price}"
+          }
+        }
+      },
+      "local_pickup": {
+        "location_information": {
+          "many": "Es gibt %{count} Geschäfte mit Lagerbeständen in der Nähe von %{address}."
         }
       }
     }
