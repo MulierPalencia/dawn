@@ -694,6 +694,29 @@
       "if_not_received": {
         "many": "Wenn sie nicht eingegangen sind,"
       }
+    },
+    "B2B": {
+      "orders": {
+        "draft_order_list": {
+          "pending_tab_accessibility_label": {
+            "pending_orders": {
+              "many": "Haben {{count}} ausstehende Bestellungen"
+            }
+          }
+        }
+      },
+      "draft_order_details": {
+        "payment_status": {
+          "pending": {
+            "banner_due": {
+              "many": "Die Zahlung ist fällig {{count}} Tage."
+            },
+            "banner_overdue": {
+              "many": "Die Zahlung war bereits fällig {{count}} Tage."
+            }
+          }
+        }
+      }
     }
   }
 }
