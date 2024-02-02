@@ -583,6 +583,18 @@
         "number_of_pickup_points_near_location": {
           "many": "%{count} Abholpunkte in der Nähe Ihres Standorts"
         }
+      },
+      "order_payment_collection": {
+        "changes_summary": {
+          "added": {
+            "many": "%{count} hinzugefügt"
+          }
+        }
+      },
+      "open_graph_meta_tag": {
+        "title_with_products": {
+          "many": "Kaufen Sie %{product_name} und %{count} Artikel mehr"
+        }
       }
     }
   }
