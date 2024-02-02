@@ -717,6 +717,19 @@
           }
         }
       }
+    },
+    "errors": {
+      "banner_title": {
+        "many": "Es gibt {{count}} Fehler."
+      }
+    },
+    "ui_components": {
+      "month": {
+        "many": "Monate"
+      },
+      "autocompleteOptionsAvailable": {
+        "many": "{{count}} Artikel verfügbar"
+      }
     }
   }
 }
