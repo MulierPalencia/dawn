@@ -655,6 +655,20 @@
         "items": {
           "many": "{{count}} Artikel"
         }
+      },
+      "order_status": {
+        "delivered_description_gift_card": {
+          "many": "Geschenkgutscheine wurden per E-Mail verschickt."
+        },
+        "gift_card_label": {
+          "many": "Geschenkkarten"
+        },
+        "gift_card_resend": {
+          "many": "E-Mails weiterleiten"
+        },
+        "gift_card_resend_description": {
+          "many": "Wenn Sie sie nicht erhalten haben, senden Sie die E-Mails bitte erneut oder"
+        }
       }
     }
   }
