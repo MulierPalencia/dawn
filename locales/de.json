@@ -176,7 +176,9 @@
       "sort_button": "Sortieren",
       "sort_by_label": "Sortieren nach:",
       "to": "Bis",
-      "clear_filter": "Filter löschen"
+      "clear_filter": "Filter löschen",
+      "shipping_preorder_html": "Größe {{ size }} Es ist ein <a href=\"{{ link }}\">Vorverkaufsprodukt<\/a>.",
+      "shipping_preorders_html": "Die Größen {{ size }} Sie sind ein <a href=\"{{ link }}\">Vorverkaufsprodukt<\/a>."
     }
   },
   "templates": {
@@ -730,6 +732,12 @@
       "autocompleteOptionsAvailable": {
         "many": "{{count}} Artikel verfügbar"
       }
+    }
+  },
+  "structured_data": {
+    "breadcrumbs": {
+      "collections": "Sammlungen",
+      "search": "Produktfinder"
     }
   }
 }
