@@ -94,7 +94,7 @@
         "1640345284fdcf1a46-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/women-in-vintage-style-clothes-explore.jpg",
+            "image": "shopify:\/\/shop_images\/pink-summer-outfit.jpg",
             "title": "",
             "text": "<p>Prepara tu armario para la llegada de la primavera y el verano. Hazte con un vestido para una <strong>ocasión especia<\/strong>l o con un <strong>look <\/strong>para el día a día. ¡Tú decides!<\/p><p>Tenemos todo lo que buscas: Camisetas, Pantalones, Vestidos, Blusas, Chaquetas, Jerséis, Faldas.. ¡Y mucho más!<\/p><p>Encuentra <strong>ropa<\/strong> y <strong>complementos<\/strong> de las tendencias más actuales en <strong>Mulier<\/strong>.<\/p>",
             "link_label": "",
@@ -107,23 +107,30 @@
       ],
       "settings": {
         "title": "¡Descubre nuestra nueva colección!",
+        "heading_size": "h1",
         "image_width": "half",
         "image_ratio": "circle",
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "secondary",
         "button_label": "Nueva colección",
         "button_link": "shopify:\/\/collections\/nueva-coleccion",
-        "swipe_on_mobile": false
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1665304859bcabc136": {
       "type": "apps",
       "blocks": {
         "d7b0cc18-ee31-4546-83d8-e8c9802b3a21": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_size": 20,
-            "feed_width": 100,
+            "title": "",
+            "title_color": "",
+            "alignment": "center",
             "html_area": ""
           }
         }
