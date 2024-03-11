@@ -7,17 +7,17 @@
         "padding_bottom": 36
       }
     },
-    "newsletter_YQcArm": {
+    "newsletter_W4rNR6": {
       "type": "newsletter",
       "blocks": {
-        "email_form_pqM8AB": {
+        "email_form_h97rdr": {
           "type": "email_form",
           "settings": {
           }
         }
       },
       "block_order": [
-        "email_form_pqM8AB"
+        "email_form_h97rdr"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -29,6 +29,6 @@
   },
   "order": [
     "main",
-    "newsletter_YQcArm"
+    "newsletter_W4rNR6"
   ]
 }
