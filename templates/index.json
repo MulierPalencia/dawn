@@ -3,10 +3,22 @@
     "989b813d-26f9-4c6b-94eb-291b4addc9d4": {
       "type": "collection-list",
       "blocks": {
+        "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "camisetas"
+          }
+        },
         "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-0": {
           "type": "featured_collection",
           "settings": {
             "collection": "vestidos"
+          }
+        },
+        "abb90dc7-3f68-4d36-b8e7-20d7df48477e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "faldas"
           }
         },
         "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-1": {
@@ -15,16 +27,10 @@
             "collection": "chaquetas"
           }
         },
-        "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-2": {
+        "70f52996-30dc-4c25-9049-6523795a1772": {
           "type": "featured_collection",
           "settings": {
-            "collection": "camisetas"
-          }
-        },
-        "abb90dc7-3f68-4d36-b8e7-20d7df48477e": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "jerseis"
+            "collection": "camisas-y-blusas"
           }
         },
         "79cbd796-755f-45ce-bfb2-884226389a83": {
@@ -32,21 +38,15 @@
           "settings": {
             "collection": "pantalones"
           }
-        },
-        "70f52996-30dc-4c25-9049-6523795a1772": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "camisas-y-blusas"
-          }
         }
       },
       "block_order": [
-        "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-0",
-        "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-1",
         "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-2",
+        "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-0",
         "abb90dc7-3f68-4d36-b8e7-20d7df48477e",
-        "79cbd796-755f-45ce-bfb2-884226389a83",
-        "70f52996-30dc-4c25-9049-6523795a1772"
+        "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-1",
+        "70f52996-30dc-4c25-9049-6523795a1772",
+        "79cbd796-755f-45ce-bfb2-884226389a83"
       ],
       "settings": {
         "title": "Categorías",
@@ -77,11 +77,11 @@
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "enable_quick_add": true,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
