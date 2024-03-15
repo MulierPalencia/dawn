@@ -5,6 +5,7 @@
       "blocks": {
         "slide_AipR6h": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Gray_Minimalist_Aesthetic_Fashion_Facebook_Cover.png",
             "heading": "",
