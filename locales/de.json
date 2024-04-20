@@ -670,6 +670,44 @@
         "items": {
           "many": "{{count}} Artikel"
         }
+      },
+      "order_status": {
+        "gift_card_label": {
+          "many": "Geschenkkarten"
+        },
+        "delivered_description_gift_card": {
+          "many": "Geschenkgutscheine wurden per E-Mail verschickt."
+        },
+        "gift_card_resend": {
+          "many": "E-Mails weiterleiten"
+        },
+        "gift_card_resend_description": {
+          "many": "Wenn Sie sie nicht erhalten haben, senden Sie die E-Mails bitte erneut oder"
+        },
+        "confirmed_gift_card_additional_description": {
+          "many": "Jede Geschenkkarte wird in einer separaten E-Mail versendet."
+        },
+        "delivered_description_gift_card_text": {
+          "many": "Geschenkgutscheine wurden per SMS verschickt."
+        },
+        "gift_card_resend_text": {
+          "many": "Textnachrichten weiterleiten"
+        },
+        "gift_card_resend_description_text": {
+          "many": "Wenn sie nicht empfangen wurden, senden Sie die Textnachrichten erneut oder"
+        },
+        "confirmed_gift_card_additional_description_text": {
+          "many": "Jede Geschenkkarte wird in einer separaten Textnachricht versendet."
+        },
+        "gift_resend_success": {
+          "many": "Geschenkgutscheine weitergeleitet"
+        },
+        "gift_resend_failure": {
+          "many": "Beim erneuten Versenden Ihrer Geschenkkarten ist ein Problem aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie uns."
+        }
+      },
+      "if_not_received": {
+        "many": "Wenn sie nicht eingegangen sind,"
       }
     }
   }
