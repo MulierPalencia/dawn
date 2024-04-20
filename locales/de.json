@@ -533,6 +533,29 @@
             "many": "Ihre Anfrage wird bearbeitet. Die geschätzte Wartezeit beträgt %{count} Minuten."
           }
         }
+      },
+      "thank_you": {
+        "login_reorder_link_text": {
+          "many": "Kaufen Sie diese Produkte auch"
+        },
+        "gift_card_confirmation_by_text_typ": {
+          "many": "In wenigen Minuten erhalten Sie eine SMS mit Ihren Geschenkkarten."
+        },
+        "gift_card_confirmation_by_email_typ": {
+          "many": "In wenigen Minuten erhalten Sie eine E-Mail mit Ihren Geschenkkarten."
+        },
+        "gift_card_email_title": {
+          "many": "Geschenkgutscheine per E-Mail verschickt"
+        },
+        "gift_card_text_title": {
+          "many": "Geschenkgutscheine per SMS verschickt"
+        },
+        "gift_card_resent_confirmation": {
+          "many": "Geschenkkarten wurden erneut verschickt."
+        },
+        "gift_card_resend_failure": {
+          "many": "Beim erneuten Versenden Ihrer Geschenkkarten ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie uns."
+        }
       }
     }
   }
