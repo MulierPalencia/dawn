@@ -514,6 +514,24 @@
         },
         "expired_cards_info": {
           "many": "Es gibt %{count} abgelaufene Karten, die Sie in Ihrem Konto anzeigen und bearbeiten können."
+        },
+        "order_edit_banner_items_added": {
+          "many": "Hinzugefügt %{count}."
+        }
+      },
+      "shipping_errors": {
+        "shipping_method_not_available_generic": {
+          "many": "Einige Artikel in Ihrem Warenkorb können nicht an die von Ihnen angegebene Adresse versendet werden. Überprüfen Sie Ihre Adresse, um sicherzustellen, dass sie korrekt ist, und versuchen Sie es erneut oder wählen Sie eine andere aus."
+        },
+        "shipping_method_not_available_updated": {
+          "many": "Ein oder mehrere von Ihnen hinzugefügte Artikel können nicht an Ihren Standort versendet werden. Löschen Sie sie, um die Zahlung abzuschließen, oder wenden Sie sich an das Geschäft."
+        }
+      },
+      "processing": {
+        "wait": {
+          "medium": {
+            "many": "Ihre Anfrage wird bearbeitet. Die geschätzte Wartezeit beträgt %{count} Minuten."
+          }
         }
       }
     }
