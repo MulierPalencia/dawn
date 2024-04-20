@@ -497,6 +497,17 @@
           "free_for_first_n_order": {
             "many": "Für die ersten %{count} Bestellungen"
           }
+        },
+        "shipping_method_first_shipment_group_title": {
+          "many": "Erste Lieferungen"
+        },
+        "shipping_method_recurring_shipments_group_title": {
+          "many": "Wiederkehrende Lieferungen"
+        }
+      },
+      "payment": {
+        "order_covered_by_gift_cards_notice": {
+          "many": "Die Kosten Ihrer Bestellung werden durch Ihre Geschenkkarten gedeckt."
         }
       }
     }
