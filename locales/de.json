@@ -556,6 +556,55 @@
         "gift_card_resend_failure": {
           "many": "Beim erneuten Versenden Ihrer Geschenkkarten ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie uns."
         }
+      },
+      "order_payment_collection": {
+        "changes_summary": {
+          "added": {
+            "many": "Hinzugefügt %{count}."
+          }
+        }
+      },
+      "open_graph_meta_tag": {
+        "title_with_products": {
+          "many": "Kaufen Sie mehr Artikel %{product_name} und %{count}"
+        }
+      },
+      "subscriptions": {
+        "recurring_total_intervals": {
+          "day": {
+            "many": "%{count} Tage"
+          },
+          "week": {
+            "many": "%{count} Wochen"
+          },
+          "month": {
+            "many": "%{count} Monate"
+          },
+          "year": {
+            "many": "%{count} Jahre"
+          }
+        },
+        "recurring_totals_with_policies": {
+          "first_cycles": {
+            "many": "Erste %{count} Zahlungen jeweils %{total_price}"
+          }
+        },
+        "recurring_totals_with_initial_order_shipping_discount_with_policies": {
+          "first_cycles": {
+            "many": ", dann %{count} Zahlungen von jeweils %{total_price}"
+          }
+        }
+      },
+      "contextual_availability": {
+        "title": {
+          "many": "Produkte nicht verfügbar"
+        },
+        "products_not_available": {
+          "many": "Diese Produkte werden aus Ihrem Warenkorb entfernt, da sie in Ihrem Land oder Ihrer Region nicht verfügbar sind."
+        },
+        "all_products_in_cart_unavailable": {
+          "many": "Diese Produkte sind in Ihrem Land oder Ihrer Region nicht verfügbar."
+        }
       }
     }
   }
