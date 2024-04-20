@@ -236,7 +236,8 @@
       "menu": "Menü",
       "cart_count": {
         "one": "{{ count }} Artikel",
-        "other": "{{ count }} Artikel"
+        "other": "{{ count }} Artikel",
+        "many": "{{ count }} Artikel"
       }
     },
     "cart": {
