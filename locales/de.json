@@ -508,6 +508,12 @@
       "payment": {
         "order_covered_by_gift_cards_notice": {
           "many": "Die Kosten Ihrer Bestellung werden durch Ihre Geschenkkarten gedeckt."
+        },
+        "card_fields_unavailable_html": {
+          "many": "Debit- und Kreditkartenzahlungen sind derzeit nicht verfügbar.<br><a href=\"%{current_url}\">Bitte aktualisieren Sie diese Seite<\/a> oder versuchen Sie es mit einer anderen Zahlungsmethode."
+        },
+        "expired_cards_info": {
+          "many": "Es gibt %{count} abgelaufene Karten, die Sie in Ihrem Konto anzeigen und bearbeiten können."
         }
       }
     }
