@@ -3,24 +3,6 @@
     "slideshow_xRxNFx": {
       "type": "slideshow",
       "blocks": {
-        "slide_NJ7iTp": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Gray_Minimalist_Aesthetic_Fashion_Facebook_Cover_11.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_AipR6h": {
           "type": "slide",
           "settings": {
@@ -59,7 +41,6 @@
         }
       },
       "block_order": [
-        "slide_NJ7iTp",
         "slide_AipR6h",
         "slide_L9mEUE"
       ],
