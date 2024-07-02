@@ -1,26 +1,17 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "slideshow_xRxNFx": {
       "type": "slideshow",
       "blocks": {
-        "slide_AipR6h": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1000055323.png",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify:\/\/collections\/camaleonica-by-capriche",
-            "button_style_secondary": false,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "right"
-          }
-        },
         "slide_L9mEUE": {
           "type": "slide",
           "settings": {
@@ -41,7 +32,6 @@
         }
       },
       "block_order": [
-        "slide_AipR6h",
         "slide_L9mEUE"
       ],
       "settings": {
