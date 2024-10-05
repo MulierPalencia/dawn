@@ -127,12 +127,12 @@
     "164034419413c52174": {
       "type": "featured-collection",
       "settings": {
-        "title": "¡Acaba de llegar!",
+        "title": "¡Arrasando!",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "novedades",
+        "collection": "camaleonica-by-capriche",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
