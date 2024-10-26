@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow_xRxNFx": {
@@ -69,7 +69,7 @@
         "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "camisetas"
+            "collection": "jerseis"
           }
         },
         "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-0": {
@@ -78,16 +78,16 @@
             "collection": "vestidos"
           }
         },
+        "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "abrigos"
+          }
+        },
         "abb90dc7-3f68-4d36-b8e7-20d7df48477e": {
           "type": "featured_collection",
           "settings": {
             "collection": "faldas"
-          }
-        },
-        "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "chaquetas"
           }
         },
         "70f52996-30dc-4c25-9049-6523795a1772": {
@@ -106,15 +106,15 @@
       "block_order": [
         "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-2",
         "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-0",
-        "abb90dc7-3f68-4d36-b8e7-20d7df48477e",
         "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-1",
+        "abb90dc7-3f68-4d36-b8e7-20d7df48477e",
         "70f52996-30dc-4c25-9049-6523795a1772",
         "79cbd796-755f-45ce-bfb2-884226389a83"
       ],
       "settings": {
         "title": "Categorías",
         "heading_size": "h2",
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "columns_desktop": 3,
         "color_scheme": "background-1",
         "show_view_all": false,
