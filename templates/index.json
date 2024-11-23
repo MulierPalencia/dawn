@@ -15,7 +15,7 @@
         "slide_jPjDmx": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Black_Magenta_Lime_Green_Illustrative_Billboard_1.png",
+            "image": "shopify://shop_images/Black_Magenta_Lime_Green_Illustrative_Billboard_3.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -33,14 +33,14 @@
         "slide_L9mEUE": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Black_Magenta_Lime_Green_Illustrative_Billboard_2.png",
+            "image": "shopify://shop_images/Black_Magenta_Lime_Green_Illustrative_Billboard_5.png",
             "heading": "",
-            "heading_size": "h0",
+            "heading_size": "h1",
             "subheading": "",
-            "button_label": "¡Descúbrelos!",
-            "link": "shopify://collections/outlet",
+            "button_label": "¡Descubre la nueva colección!",
+            "link": "shopify://collections/carher",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "bottom-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
