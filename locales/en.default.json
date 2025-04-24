@@ -468,6 +468,40 @@
         "saved_address_option_description": {
           "many": "You have {{count}} saved addresses."
         }
+      },
+      "stock": {
+        "unshippable_product": {
+          "header": {
+            "many": "No delivery available for %{count} items"
+          },
+          "message": {
+            "many": "These items will be removed from the cart because there are no delivery methods available for your address."
+          }
+        },
+        "item_label": {
+          "many": "{{count}} articles"
+        },
+        "unfulfillable_product": {
+          "message": {
+            "many": "%{delivery_method} is no longer available for these items."
+          },
+          "default_message": {
+            "many": "The chosen delivery method is no longer available for these items."
+          }
+        }
+      },
+      "order_summary": {
+        "expand_component_information": {
+          "many": "Show %{count} items"
+        },
+        "collapse_component_information": {
+          "many": "Hide %{count} items"
+        },
+        "discount_discovery": {
+          "merchandise_quantity_label": {
+            "many": "%{count} articles"
+          }
+        }
       }
     }
   }
