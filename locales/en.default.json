@@ -695,5 +695,40 @@
         "many": "Search: %{count} results found for \"%{terms}\""
       }
     }
+  },
+  "customer_accounts": {
+    "orders": {
+      "order_list": {
+        "items": {
+          "many": "{{count}} articles"
+        }
+      },
+      "order_status": {
+        "delivered_description_gift_card": {
+          "many": "The gift cards were sent by email."
+        },
+        "gift_card_label": {
+          "many": "Gift cards"
+        },
+        "confirmed_gift_card_additional_description": {
+          "many": "Each gift card will be sent in a separate email."
+        },
+        "delivered_description_gift_card_text": {
+          "many": "The gift cards were sent by text message."
+        },
+        "confirmed_gift_card_additional_description_text": {
+          "many": "Each gift card will be sent in a separate text message."
+        },
+        "gift_resend_success": {
+          "many": "Forwarded gift cards"
+        },
+        "gift_resend_failure": {
+          "many": "There was a problem forwarding your gift cards. Please try again or contact us."
+        },
+        "delivered_description_digital": {
+          "many": "These articles are completed."
+        }
+      }
+    }
   }
 }
