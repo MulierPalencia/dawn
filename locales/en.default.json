@@ -546,6 +546,12 @@
               "many": "every %{count} years"
             }
           }
+        },
+        "shipping_method_first_shipment_group_title": {
+          "many": "First shipments"
+        },
+        "shipping_method_recurring_shipments_group_title": {
+          "many": "Recurring shipments"
         }
       }
     }
