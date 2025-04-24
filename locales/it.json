@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "password_page": {
@@ -7,7 +16,7 @@
       "login_form_password_placeholder": "La tua password",
       "login_form_error": "Password errata!",
       "login_form_submit": "Accedi",
-      "admin_link_html": "Sei il proprietario del negozio? <a href=\"\/admin\" class=\"link underlined-link\">Accedi qui<\/a>",
+      "admin_link_html": "Sei il proprietario del negozio? <a href=\"/admin\" class=\"link underlined-link\">Accedi qui</a>",
       "powered_by_shopify_html": "Questo negozio sarà ospitato su {{ shopify }}"
     },
     "social": {
@@ -132,8 +141,8 @@
         "view_store_info": "Visualizza i dettagli del negozio",
         "check_other_stores": "Verifica la disponibilità in altri negozi",
         "pick_up_available": "Ritiro disponibile",
-        "pick_up_available_at_html": "Ritiro disponibile presso la sede <span class=\"color-foreground\">{{ location_name }}<\/span>",
-        "pick_up_unavailable_at_html": "Ritiro attualmente non disponibile presso la sede <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_available_at_html": "Ritiro disponibile presso la sede <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_unavailable_at_html": "Ritiro attualmente non disponibile presso la sede <span class=\"color-foreground\">{{ location_name }}</span>",
         "unavailable": "Impossibile caricare la disponibilità di ritiro",
         "refresh": "Aggiorna"
       },
@@ -187,7 +196,9 @@
       "clear_filter": "Rimuovi filtri",
       "filter_selected_accessibility": "{{ type }} ({{ count }} filtri selezionati)",
       "show_more": "Mostra di più",
-      "show_less": "Mostra di meno"
+      "show_less": "Mostra di meno",
+      "shipping_preorder_html": "La taglia {{ size }} è un <a href=\"{{ link }}\">prodotto in prevendita</a>.",
+      "shipping_preorders_html": "Le taglie {{ size }} sono un <a href=\"{{ link }}\">prodotto in prevendita</a>."
     }
   },
   "templates": {
@@ -249,9 +260,9 @@
       "empty": "Il tuo carrello è vuoto",
       "cart_error": "Si è verificato un errore durante l'aggiornamento del carrello. Riprova più tardi.",
       "cart_quantity_error_html": "Puoi aggiungere soltanto {{ quantity }} di questo articolo al tuo carrello.",
-      "taxes_and_shipping_policy_at_checkout_html": "Imposte e <a href=\"{{ link }}\">spese di spedizione<\/a> calcolate al momento del check-out",
+      "taxes_and_shipping_policy_at_checkout_html": "Imposte e <a href=\"{{ link }}\">spese di spedizione</a> calcolate al momento del check-out",
       "taxes_included_but_shipping_at_checkout": "Imposte incluse e spese di spedizione calcolate al momento del check-out",
-      "taxes_included_and_shipping_policy_html": "Imposte incluse. <a href=\"{{ link }}\">Spese di spedizione<\/a> calcolate al check-out.",
+      "taxes_included_and_shipping_policy_html": "Imposte incluse. <a href=\"{{ link }}\">Spese di spedizione</a> calcolate al check-out.",
       "taxes_and_shipping_at_checkout": "Imposte e spese di spedizione calcolate al momento del check-out",
       "headings": {
         "product": "Prodotto",
@@ -263,7 +274,7 @@
       "update": "Aggiorna",
       "login": {
         "title": "Hai un account?",
-        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Accedi<\/a> per un check-out più veloce."
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Accedi</a> per un check-out più veloce."
       }
     },
     "footer": {
@@ -303,10 +314,10 @@
     }
   },
   "localization": {
-    "country_label": "Paese\/Area geografica",
+    "country_label": "Paese/Area geografica",
     "language_label": "Lingua",
     "update_language": "Aggiorna lingua",
-    "update_country": "Aggiorna paese\/area geografica"
+    "update_country": "Aggiorna paese/area geografica"
   },
   "customer": {
     "account": {
@@ -335,7 +346,7 @@
       "address1": "Indirizzo - campo 1",
       "address2": "Indirizzo - campo 2",
       "city": "Città",
-      "country": "Paese\/Area geografica",
+      "country": "Paese/Area geografica",
       "province": "Provincia",
       "zip": "CAP",
       "phone": "Numero di telefono",
@@ -430,6 +441,16 @@
       "expired": "Scaduto",
       "copy_code_success": "Codice copiato correttamente",
       "print_gift_card": "Stampa"
+    }
+  },
+  "structured_data": {
+    "breadcrumbs": {
+      "collections": "Collezioni",
+      "search": "Motore di ricerca prodotti",
+      "page": "Pagina",
+      "cart": "Carrello",
+      "products": "Prodotti",
+      "tags_html": "Etichette"
     }
   }
 }
