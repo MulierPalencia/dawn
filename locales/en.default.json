@@ -736,6 +736,19 @@
         "remove_items_action": {
           "many": "remove unavailable items"
         }
+      },
+      "local_pickup": {
+        "location_information": {
+          "many": "There are %{count} stores with stock near %{address}."
+        },
+        "paginator": {
+          "label": {
+            "many": "%{first} - %{last} of %{count} stores"
+          }
+        },
+        "reveal_more_label": {
+          "many": "Show %{count} more branches"
+        }
       }
     },
     "notices": {
@@ -825,6 +838,23 @@
       },
       "month": {
         "many": "months"
+      },
+      "mapClusterTitle": {
+        "many": "Group of {{number}} markers"
+      }
+    },
+    "order_details": {
+      "image_gallery": {
+        "load_more_items": {
+          "many": "Load {{count}} more items"
+        }
+      }
+    },
+    "date": {
+      "humanize": {
+        "lessThanOneHourAgo": {
+          "many": "{{count}} minutes ago"
+        }
       }
     }
   }
