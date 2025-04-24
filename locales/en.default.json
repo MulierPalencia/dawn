@@ -676,6 +676,23 @@
         "pickup_unavailable_banner_title": {
           "many": "Your items are not available at the pickup points"
         }
+      },
+      "merchandise_unavailable_in_buyer_location": {
+        "remove_items_action": {
+          "many": "remove unavailable items"
+        }
+      }
+    },
+    "notices": {
+      "order": {
+        "cancel_reason": {
+          "many": "Other"
+        }
+      }
+    },
+    "page_titles": {
+      "search_results": {
+        "many": "Search: %{count} results found for \"%{terms}\""
       }
     }
   }
