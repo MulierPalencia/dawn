@@ -501,6 +501,24 @@
           "merchandise_quantity_label": {
             "many": "%{count} articles"
           }
+        },
+        "discount_title_stacking": {
+          "many": "Discounts"
+        },
+        "discount_order_stacking": {
+          "many": "Discounts on orders"
+        },
+        "subtotal_label_with_quantity": {
+          "many": "Subtotal · %{count} items"
+        },
+        "number_items": {
+          "many": "%{count} articles"
+        },
+        "view_all_items": {
+          "many": "See %{count} items"
+        },
+        "pickup_unavailable_banner_title": {
+          "many": "Your items are not available for in-store pickup"
         }
       }
     }
