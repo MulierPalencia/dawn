@@ -673,6 +673,9 @@
         },
         "number_of_pickup_points_near_location": {
           "many": "%{count} Abholpunkte in der Nähe Ihres Standorts"
+        },
+        "pickup_unavailable_banner_title": {
+          "many": "Deine Artikel sind an den Abholstellen nicht verfügbar"
         }
       },
       "local_pickup": {
@@ -691,6 +694,11 @@
       "customer_account": {
         "saved_address_option_description": {
           "many": "Du hast {{count}} gespeicherte Adressen."
+        }
+      },
+      "merchandise_unavailable_in_buyer_location": {
+        "remove_items_action": {
+          "many": "entferne die nicht verfügbaren Artikel"
         }
       }
     },
@@ -747,6 +755,9 @@
         },
         "gift_resend_failure": {
           "many": "Beim erneuten Versenden Ihrer Geschenkkarten ist ein Problem aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie uns."
+        },
+        "delivered_description_digital": {
+          "many": "Diese Artikel sind abgeschlossen."
         }
       },
       "if_not_received": {
