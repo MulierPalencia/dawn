@@ -798,6 +798,23 @@
       },
       "month": {
         "many": "Monate"
+      },
+      "mapClusterTitle": {
+        "many": "Gruppe von {{number}} Lesezeichen"
+      }
+    },
+    "order_details": {
+      "image_gallery": {
+        "load_more_items": {
+          "many": "Lade {{count}} weitere Artikel"
+        }
+      }
+    },
+    "date": {
+      "humanize": {
+        "lessThanOneHourAgo": {
+          "many": "Vor {{count}} Minuten"
+        }
       }
     }
   },
