@@ -727,6 +727,23 @@
         },
         "delivered_description_digital": {
           "many": "These articles are completed."
+        },
+        "tracking_number": {
+          "many": "Tracking numbers"
+        },
+        "gift_card_resend_button": {
+          "many": "Resend gift cards"
+        }
+      }
+    },
+    "B2B": {
+      "orders": {
+        "draft_order_list": {
+          "pending_tab_accessibility_label": {
+            "pending_orders": {
+              "many": "You have {{count}} pending orders"
+            }
+          }
         }
       }
     }
