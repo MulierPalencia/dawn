@@ -490,6 +490,18 @@
         },
         "discount_order_stacking": {
           "many": "Rabatte auf Bestellungen"
+        },
+        "subtotal_label_with_quantity": {
+          "many": "Zwischensumme · %{count} Artikel"
+        },
+        "number_items": {
+          "many": "%{count} Artikel"
+        },
+        "view_all_items": {
+          "many": "Ver los %{count} artículos"
+        },
+        "pickup_unavailable_banner_title": {
+          "many": "Deine Artikel sind nicht zur Abholung im Geschäft verfügbar"
         }
       },
       "shipping": {
