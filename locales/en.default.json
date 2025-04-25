@@ -609,6 +609,9 @@
         },
         "order_edit_banner_items_added": {
           "many": "Added %{count}."
+        },
+        "expired_cards_info": {
+          "many": "There are %{count} expired cards that you can view and edit in your account."
         }
       },
       "shipping_errors": {
