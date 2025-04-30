@@ -526,6 +526,11 @@
         },
         "pickup_unavailable_banner_title": {
           "many": "Your items are not available for in-store pickup"
+        },
+        "unit_price": {
+          "per_item": {
+            "many": "%{price} for %{count} items"
+          }
         }
       },
       "shipping": {
