@@ -502,6 +502,11 @@
         },
         "pickup_unavailable_banner_title": {
           "many": "Deine Artikel sind nicht zur Abholung im Geschäft verfügbar"
+        },
+        "unit_price": {
+          "per_item": {
+            "many": "%{price} für %{count} Artikel"
+          }
         }
       },
       "shipping": {
