@@ -834,6 +834,10 @@
     "errors": {
       "banner_title": {
         "many": "Es liegen {{count}} Fehler vor."
+      },
+      "resend_link": {
+        "too_many_requests": "Zu viele Anfragen. Bitte versuche es später erneut.",
+        "generic": "Anforderung fehlgeschlagen"
       }
     },
     "ui_components": {
@@ -852,7 +856,15 @@
         "load_more_items": {
           "many": "Lade {{count}} weitere Artikel"
         }
-      }
+      },
+      "login_card": {
+        "login_or_resend_link": "{{loginAction}} Die {{resendLinkAction}}",
+        "log_in": "Login",
+        "resend_link_with_login": "neuen Link senden",
+        "resend_link_without_login": "Neuen Link senden",
+        "link_expired": "Der Link ist abgelaufen"
+      },
+      "link_sent": "Link gesendet"
     },
     "date": {
       "humanize": {
