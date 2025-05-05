@@ -452,5 +452,20 @@
       "products": "Produtos",
       "tags_html": "Etiquetas"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "shipping": {
+        "unbranded_default_description": "Pronto para enviar"
+      },
+      "payment": {
+        "payment_method_incompatible_with_payment_terms": "A forma de pagamento não é compatível com as condições de pagamento."
+      },
+      "review": {
+        "blocks": {
+          "company_location": "Localização da empresa"
+        }
+      }
+    }
   }
 }
