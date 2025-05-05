@@ -460,6 +460,14 @@
       },
       "payment": {
         "payment_method_incompatible_with_payment_terms": "Le mode de paiement n'est pas compatible avec les conditions de paiement."
+      },
+      "review": {
+        "blocks": {
+          "company_location": "Emplacement de l'entreprise"
+        }
+      },
+      "memberships": {
+        "delivery_promise_unfulfillable": "L'adresse n'est pas compatible avec l'abonnement actuel."
       }
     }
   }
