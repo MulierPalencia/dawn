@@ -465,6 +465,9 @@
         "blocks": {
           "company_location": "Localização da empresa"
         }
+      },
+      "memberships": {
+        "delivery_promise_unfulfillable": "O endereço não é compatível com a associação atual."
       }
     }
   }
