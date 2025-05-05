@@ -579,7 +579,8 @@
         },
         "shipping_method_recurring_shipments_group_title": {
           "many": "Wiederkehrende Lieferungen"
-        }
+        },
+        "unbranded_default_description": "Versandfertig"
       },
       "payment": {
         "order_covered_by_gift_cards_notice": {
@@ -593,7 +594,8 @@
         },
         "order_edit_banner_items_added": {
           "many": "Hinzugefügt %{count}."
-        }
+        },
+        "payment_method_incompatible_with_payment_terms": "Die Zahlungsart ist mit den Zahlungsbedingungen nicht kompatibel."
       },
       "shipping_errors": {
         "shipping_method_not_available_generic": {
@@ -737,6 +739,11 @@
       "merchandise_unavailable_in_buyer_location": {
         "remove_items_action": {
           "many": "entferne die nicht verfügbaren Artikel"
+        }
+      },
+      "review": {
+        "blocks": {
+          "company_location": "Standort des Unternehmens"
         }
       }
     },
