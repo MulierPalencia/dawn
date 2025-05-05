@@ -452,5 +452,23 @@
       "products": "Prodotti",
       "tags_html": "Etichette"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "shipping": {
+        "unbranded_default_description": "Pronto per la spedizione"
+      },
+      "payment": {
+        "payment_method_incompatible_with_payment_terms": "La modalità di pagamento non è compatibile con le condizioni di pagamento."
+      },
+      "review": {
+        "blocks": {
+          "company_location": "Posizione dell'azienda"
+        }
+      },
+      "memberships": {
+        "delivery_promise_unfulfillable": "L'indirizzo non è compatibile con l'abbonamento attuale."
+      }
+    }
   }
 }
