@@ -470,5 +470,13 @@
         "delivery_promise_unfulfillable": "L'adresse n'est pas compatible avec l'abonnement actuel."
       }
     }
+  },
+  "customer_accounts": {
+    "order_details": {
+      "login_card": {
+        "resend_link_with_login": "envoyer un nouveau lien",
+        "resend_link_without_login": "Envoyer un nouveau lien"
+      }
+    }
   }
 }
