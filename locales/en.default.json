@@ -856,6 +856,10 @@
         "load_more_items": {
           "many": "Load {{count}} more items"
         }
+      },
+      "login_card": {
+        "resend_link_with_login": "send new link",
+        "resend_link_without_login": "Send new link"
       }
     },
     "date": {
