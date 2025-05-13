@@ -475,7 +475,8 @@
     "order_details": {
       "login_card": {
         "resend_link_with_login": "envoyer un nouveau lien",
-        "resend_link_without_login": "Envoyer un nouveau lien"
+        "resend_link_without_login": "Envoyer un nouveau lien",
+        "login_or_resend_link": "{{loginAction}} le {{resendLinkAction}}"
       }
     }
   }
