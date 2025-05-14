@@ -470,5 +470,14 @@
         "delivery_promise_unfulfillable": "O endereço não é compatível com a associação atual."
       }
     }
+  },
+  "customer_accounts": {
+    "order_details": {
+      "login_card": {
+        "resend_link_and_login": "Para ver a informação da encomenda, inicia sessão ou envia um novo link para o e-mail ou número de telefone utilizado no pagamento.",
+        "resend_link_only": "Para ver a informação da encomenda, envie um novo link para o e-mail ou número de telefone utilizado no pagamento.",
+        "resend_link": "Enviar novo link"
+      }
+    }
   }
 }
