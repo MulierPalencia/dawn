@@ -473,6 +473,18 @@
         "announcement": {
           "close": "Chiudere"
         }
+      },
+      "review_address_modal": {
+        "title": "Controllare indirizzo",
+        "subtitle": {
+          "one": "Questo ordine sarà inviato all'indirizzo fornito da {{merchant}}.",
+          "other": "Questo ordine sarà inviato a un indirizzo fornito da {{merchant}}. Seleziona un indirizzo di spedizione."
+        },
+        "subtitle_no_match": "Questo indirizzo non corrisponde a nessuno dei tuoi indirizzi salvati.",
+        "subtitle_must_use": "Il tuo ordine sarà spedito a questo indirizzo.",
+        "continue": "Continua con questo indirizzo",
+        "use_saved_address": "Usa un indirizzo diverso",
+        "return_to_cart": "Torna al carrello"
       }
     }
   }
