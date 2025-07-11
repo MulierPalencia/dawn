@@ -745,6 +745,14 @@
         "blocks": {
           "company_location": "Standort des Unternehmens"
         }
+      },
+      "memberships": {
+        "delivery_promise_unfulfillable": "Die Adresse ist mit der aktuellen Mitgliedschaft nicht kompatibel."
+      },
+      "review_address_modal": {
+        "subtitle": {
+          "many": "Diese Bestellung wird an eine von {{merchant}} angegebene Adresse versandt. Wähle eine Versandadresse aus."
+        }
       }
     },
     "notices": {
