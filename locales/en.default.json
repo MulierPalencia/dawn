@@ -761,6 +761,11 @@
       "notice_banner": {
         "payment_method_incompatible_with_payment_terms": "The selected payment option is not available because the payment is due later",
         "payment_method_not_applicable": "The selected payment method is not available because the payment for this order is due later"
+      },
+      "review_address_modal": {
+        "subtitle": {
+          "many": "This order will be shipped to an address provided by {{merchant}}. Select a shipping address."
+        }
       }
     },
     "notices": {
