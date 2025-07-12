@@ -481,6 +481,9 @@
         "use_saved_address": "Utiliser une adresse différente",
         "continue": "Continuez avec cette adresse",
         "return_to_cart": "Retour au panier"
+      },
+      "delivery_options": {
+        "company_location_no_address_banner": "Les commandes avec livraison à des succursales sans adresse seront envoyées pour révision."
       }
     }
   },
