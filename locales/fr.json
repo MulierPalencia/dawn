@@ -473,7 +473,8 @@
         "title": "Vérifier l'adresse",
         "subtitle": {
           "other": "Cette commande sera envoyée à une adresse fournie par {{merchant}}. Sélectionnez une adresse de livraison.",
-          "one": "Cette commande sera envoyée à l'adresse fournie par {{merchant}}."
+          "one": "Cette commande sera envoyée à l'adresse fournie par {{merchant}}.",
+          "many": "Cette commande sera envoyée à une adresse fournie par {{merchant}}. Sélectionnez une adresse de livraison."
         },
         "subtitle_no_match": "Cette adresse ne correspond à aucune de vos adresses enregistrées.",
         "subtitle_must_use": "Votre commande sera envoyée à cette adresse.",
