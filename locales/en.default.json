@@ -655,7 +655,8 @@
         },
         "gift_card_email_title": {
           "many": "Gift cards sent by email"
-        }
+        },
+        "location_title": "Branch"
       },
       "order_payment_collection": {
         "changes_summary": {
