@@ -879,6 +879,22 @@
           "many": "{{count}} minutes ago"
         }
       }
+    },
+    "account_information": {
+      "one_time_password_card": {
+        "verify_button": "Verify",
+        "one_time_password_label": "Six-digit code",
+        "email_description": "Enter the code sent to {{email}}.",
+        "cancel_button": "Cancel",
+        "email_resend_button": "Resend code",
+        "verify_button_accessibility_label": "Verify one-time password",
+        "email_title": "Verify email address",
+        "cancel_button_accessibility_label": "Cancel email editing"
+      },
+      "email_update_success_card": {
+        "title": "Verify email address",
+        "description": "The email was updated successfully. Redirecting to log in."
+      }
     }
   }
 }
