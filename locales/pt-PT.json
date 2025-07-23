@@ -478,6 +478,22 @@
         "resend_link_only": "Para ver a informação da encomenda, envie um novo link para o e-mail ou número de telefone utilizado no pagamento.",
         "resend_link": "Enviar novo link"
       }
+    },
+    "account_information": {
+      "one_time_password_card": {
+        "email_description": "Introduza o código enviado para {{email}}.",
+        "email_title": "Verificar correio eletrónico",
+        "verify_button_accessibility_label": "Verificar palavra-passe de uso único",
+        "cancel_button_accessibility_label": "Cancelar edição de correio eletrónico",
+        "email_resend_button": "Reenviar código",
+        "verify_button": "Verificar",
+        "one_time_password_label": "Código de seis dígitos",
+        "cancel_button": "Cancelar"
+      },
+      "email_update_success_card": {
+        "title": "Verificar correio eletrónico",
+        "description": "O correio eletrónico foi atualizado com sucesso. A redirecionar para iniciar sessão."
+      }
     }
   }
 }
