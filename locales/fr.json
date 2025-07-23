@@ -494,6 +494,22 @@
         "resend_link_without_login": "Envoyer un nouveau lien",
         "login_or_resend_link": "{{loginAction}} le {{resendLinkAction}}"
       }
+    },
+    "account_information": {
+      "one_time_password_card": {
+        "email_title": "Vérifier l'adresse e-mail",
+        "email_description": "Entrez le code envoyé à {{email}}.",
+        "verify_button": "Vérifier",
+        "email_resend_button": "Renvoyer le code",
+        "one_time_password_label": "Code à six chiffres",
+        "verify_button_accessibility_label": "Vérifier le mot de passe à usage unique",
+        "cancel_button": "Annuler",
+        "cancel_button_accessibility_label": "Annuler la modification de l'e-mail"
+      },
+      "email_update_success_card": {
+        "title": "Vérifier l'adresse e-mail",
+        "description": "L'e-mail a été mis à jour avec succès. Redirection pour se connecter."
+      }
     }
   }
 }
