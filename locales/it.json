@@ -487,5 +487,23 @@
         "return_to_cart": "Torna al carrello"
       }
     }
+  },
+  "customer_accounts": {
+    "account_information": {
+      "one_time_password_card": {
+        "email_title": "Verificare l'email",
+        "email_description": "Inserisci il codice inviato a {{email}}.",
+        "one_time_password_label": "Codice di sei cifre",
+        "email_resend_button": "Inoltra codice",
+        "verify_button": "Verificare",
+        "verify_button_accessibility_label": "Verificare la password monouso",
+        "cancel_button": "Annulla",
+        "cancel_button_accessibility_label": "Annulla modifica email"
+      },
+      "email_update_success_card": {
+        "title": "Verificare l'email",
+        "description": "L'email è stata aggiornata correttamente. Reindirizzamento per accedere."
+      }
+    }
   }
 }
