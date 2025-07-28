@@ -729,6 +729,9 @@
           "label": {
             "many": "%{first} - %{last} aus %{count} Geschäften"
           }
+        },
+        "location_information_next": {
+          "many": "Es gibt %{count} Filialen mit Lagerbestand in deiner Nähe"
         }
       },
       "customer_account": {
