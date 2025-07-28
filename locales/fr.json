@@ -484,6 +484,20 @@
       },
       "delivery_options": {
         "company_location_no_address_banner": "Les commandes avec livraison à des succursales sans adresse seront envoyées pour révision."
+      },
+      "local_pickup": {
+        "location_information_next": {
+          "one": "Il y a %{count} succursale avec des stocks près de chez toi",
+          "other": "Il y a %{count} succursales avec des stocks près de chez toi",
+          "many": "Il y a %{count} succursales avec des stocks près de chez toi"
+        }
+      },
+      "one": {
+        "errors": {
+          "merchandise": {
+            "signature_mismatch": "La marque des marchandises promotionnelles ne correspond pas à la ligne {{stable_id}}."
+          }
+        }
       }
     }
   },
