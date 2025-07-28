@@ -485,6 +485,20 @@
         "continue": "Continua con questo indirizzo",
         "use_saved_address": "Usa un indirizzo diverso",
         "return_to_cart": "Torna al carrello"
+      },
+      "local_pickup": {
+        "location_information_next": {
+          "one": "Ci sono %{count} filiali con scorte vicino a te",
+          "other": "Ci sono %{count} filiali con scorte vicino a te",
+          "many": "Ci sono %{count} filiali con scorte vicino a te"
+        }
+      },
+      "one": {
+        "errors": {
+          "merchandise": {
+            "signature_mismatch": "La firma della merce promozionale non corrisponde nella linea {{stable_id}}."
+          }
+        }
       }
     }
   },
