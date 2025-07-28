@@ -757,6 +757,9 @@
         },
         "reveal_more_label": {
           "many": "Show %{count} more branches"
+        },
+        "location_information_next": {
+          "many": "There are %{count} branches with stock near you"
         }
       },
       "notice_banner": {
