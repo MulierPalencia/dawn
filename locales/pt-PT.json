@@ -468,6 +468,27 @@
       },
       "memberships": {
         "delivery_promise_unfulfillable": "O endereço não é compatível com a associação atual."
+      },
+      "shipping_errors": {
+        "unavailable_addresses_only_countries": "O seu pedido só pode ser enviado para {{countriesList}}. Para continuar, adicione um novo endereço."
+      },
+      "local_pickup": {
+        "location_information_next": {
+          "one": "Há %{count} sucursal com existências perto de ti",
+          "other": "Há %{count} sucursais com stock perto de ti",
+          "many": "Há %{count} sucursais com stock perto de ti"
+        }
+      },
+      "one": {
+        "errors": {
+          "merchandise": {
+            "signature_mismatch": "A assinatura da mercadoria promocional não coincide na linha {{stable_id}}."
+          }
+        }
+      },
+      "order_review_requirement": {
+        "checkout_to_draft": "A sucursal da empresa está configurada para enviar todas as encomendas para revisão como rascunhos.",
+        "missing_address": "Não há nenhum endereço de envio disponível: falta o endereço da filial da empresa e o uso de endereços de uso único foi desativado."
       }
     }
   },
