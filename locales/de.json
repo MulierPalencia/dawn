@@ -507,6 +507,14 @@
           "per_item": {
             "many": "%{price} für %{count} Artikel"
           }
+        },
+        "return_rules_experiment": {
+          "limited_window_title": {
+            "many": "Kostenlose Rückgaben während %{count} Tagen"
+          },
+          "limited_window_title_with_final_sale": {
+            "many": "Kostenlose Rückgaben während %{count} Tagen, Endangebot ausgeschlossen"
+          }
         }
       },
       "shipping": {
