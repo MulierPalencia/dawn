@@ -531,6 +531,14 @@
           "per_item": {
             "many": "%{price} for %{count} items"
           }
+        },
+        "return_rules_experiment": {
+          "limited_window_title": {
+            "many": "Free returns for %{count} days"
+          },
+          "limited_window_title_with_final_sale": {
+            "many": "Free returns for %{count} days, final offer excluded"
+          }
         }
       },
       "shipping": {
