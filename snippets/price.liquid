@@ -85,11 +85,8 @@
     {% if product.compare_at_price > product.price %}
       {% assign discount_amount = product.compare_at_price | minus: product.price %}
       {% assign discount_percentage = discount_amount | times: 100 | divided_by: product.compare_at_price %}
-      <div class="discount-badge">
-        -{{ discount_percentage | round }}%
-      </div>
       <span class="badge price__badge-sale color-{{ settings.sale_badge_color_scheme }}">
-        {{ 'products.product.on_sale' | t }}
+        -{{ discount_percentage | round }}%
       </span>
     {% endif %}
 
