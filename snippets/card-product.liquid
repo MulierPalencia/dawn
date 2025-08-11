@@ -128,7 +128,9 @@
                 id="NoMediaStandardBadge-{{ section_id }}-{{ card_product.id }}"
                 class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}"
               >
-                AAA{{- 'products.product.on_sale' | t -}}
+                {% assign discount_amount = product_card_product.compare_at_price | minus: product_card_product.price %}
+                {% assign discount_percentage = discount_amount | times: 100 | divided_by: product_card_product.compare_at_price %}
+                -{{ discount_percentage | round }}%
               </span>
             {%- endif -%}
           </div>
