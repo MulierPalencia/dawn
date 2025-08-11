@@ -127,7 +127,7 @@
         {%- elsif product_card_product.compare_at_price > product_card_product.price and product_card_product.available -%}
           {% assign discount_amount = product_card_product.compare_at_price | minus: product_card_product.price %}
           {% assign discount_percentage = discount_amount | times: 100 | divided_by: product_card_product.compare_at_price %}
-          <span class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}"> -{{ discount_percentage | round }}%</span>
+          <span class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}">-{{ discount_percentage | round }}%</span>
         {%- endif -%}
       </div>
     </div>
