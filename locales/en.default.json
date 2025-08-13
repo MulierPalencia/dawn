@@ -469,6 +469,11 @@
           "cluster_title": {
             "many": "Group of {{number}} markers"
           }
+        },
+        "errors": {
+          "payment": {
+            "market_manager_blocks_wallet_payments": "The market administrator does not accept the payment method."
+          }
         }
       },
       "customer_account": {
