@@ -499,6 +499,13 @@
             "signature_mismatch": "La firma della merce promozionale non corrisponde nella linea {{stable_id}}."
           }
         }
+      },
+      "general": {
+        "errors": {
+          "payment": {
+            "market_manager_blocks_wallet_payments": "L'amministratore del mercato non accetta il metodo di pagamento."
+          }
+        }
       }
     }
   },
