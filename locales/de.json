@@ -450,6 +450,11 @@
           "cluster_title": {
             "many": "Gruppe von {{number}} Markierungen"
           }
+        },
+        "errors": {
+          "payment": {
+            "market_manager_blocks_wallet_payments": "Der Marktverwalter akzeptiert die Zahlungsart nicht."
+          }
         }
       },
       "stock": {
