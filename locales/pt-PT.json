@@ -489,6 +489,10 @@
       "order_review_requirement": {
         "checkout_to_draft": "A sucursal da empresa está configurada para enviar todas as encomendas para revisão como rascunhos.",
         "missing_address": "Não há nenhum endereço de envio disponível: falta o endereço da filial da empresa e o uso de endereços de uso único foi desativado."
+      },
+      "payment_errors": {
+        "shop_pay_wallet_not_available": "Shop Pay não está disponível para este pagamento.",
+        "market_manager_blocks_wallet_payments": "A forma de pagamento não é aceite no teu país."
       }
     }
   },
