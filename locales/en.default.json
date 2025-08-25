@@ -783,6 +783,10 @@
         "subtitle": {
           "many": "This order will be shipped to an address provided by {{merchant}}. Select a shipping address."
         }
+      },
+      "order_review_requirement": {
+        "checkout_to_draft": "The company's branch is set up to send all orders for review as drafts.",
+        "missing_address": "There is no shipping address available: the company's branch address is missing and the use of single-use addresses has been disabled."
       }
     },
     "notices": {
