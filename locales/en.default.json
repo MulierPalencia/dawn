@@ -669,7 +669,13 @@
         "gift_card_email_title": {
           "many": "Gift cards sent by email"
         },
-        "location_title": "Branch"
+        "location_title": "Branch",
+        "thank_you_unconfirmed_items_heading": {
+          "many": "Some items are not confirmed"
+        },
+        "thank_you_unconfirmed_items_description": {
+          "many": "The items were not charged to you"
+        }
       },
       "order_payment_collection": {
         "changes_summary": {
