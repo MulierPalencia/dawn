@@ -646,6 +646,12 @@
         },
         "gift_card_resend_failure": {
           "many": "Beim erneuten Versenden Ihrer Geschenkkarten ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie uns."
+        },
+        "thank_you_unconfirmed_items_heading": {
+          "many": "Einige Artikel sind nicht bestätigt"
+        },
+        "thank_you_unconfirmed_items_description": {
+          "many": "Die Artikel wurden dir nicht berechnet"
         }
       },
       "order_payment_collection": {
