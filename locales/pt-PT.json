@@ -518,6 +518,9 @@
       "email_update_success_card": {
         "title": "Verificar correio eletrónico",
         "description": "O correio eletrónico foi atualizado com sucesso. A redirecionar para iniciar sessão."
+      },
+      "profile_card": {
+        "invalid_email_format": "Introduza um endereço de e-mail válido"
       }
     }
   }
