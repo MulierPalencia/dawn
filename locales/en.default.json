@@ -616,6 +616,9 @@
         },
         "shipping_method_recurring_shipments_group_title": {
           "many": "Recurring shipments"
+        },
+        "local_pickup": {
+          "rollup_title_next": "Place of withdrawal"
         }
       },
       "payment": {
@@ -793,6 +796,9 @@
       "order_review_requirement": {
         "checkout_to_draft": "The company's branch is set up to send all orders for review as drafts.",
         "missing_address": "There is no shipping address available: the company's branch address is missing and the use of single-use addresses has been disabled."
+      },
+      "delivery_options": {
+        "pick_up_locations_next": "Retreat places"
       }
     },
     "notices": {
