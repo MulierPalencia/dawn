@@ -652,6 +652,9 @@
         },
         "thank_you_unconfirmed_items_description": {
           "many": "Die Artikel wurden dir nicht berechnet"
+        },
+        "thank_you_item_label": {
+          "many": "%{count} Artikel"
         }
       },
       "order_payment_collection": {
