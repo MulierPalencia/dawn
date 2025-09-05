@@ -678,6 +678,9 @@
         },
         "thank_you_unconfirmed_items_description": {
           "many": "The items were not charged to you"
+        },
+        "thank_you_item_label": {
+          "many": "%{count} items"
         }
       },
       "order_payment_collection": {
