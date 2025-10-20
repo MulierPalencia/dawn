@@ -459,7 +459,9 @@
         "unbranded_default_description": "Pronto per la spedizione"
       },
       "payment": {
-        "payment_method_incompatible_with_payment_terms": "La modalità di pagamento non è compatibile con le condizioni di pagamento."
+        "payment_method_incompatible_with_payment_terms": "La modalità di pagamento non è compatibile con le condizioni di pagamento.",
+        "bank_account_vaulted_company_location": "Conto bancario salvato per questa filiale",
+        "bank_account_generic_error": "Impossibile aggiungere il conto bancario. Riprova più tardi."
       },
       "review": {
         "blocks": {

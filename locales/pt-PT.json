@@ -459,7 +459,9 @@
         "unbranded_default_description": "Pronto para enviar"
       },
       "payment": {
-        "payment_method_incompatible_with_payment_terms": "A forma de pagamento não é compatível com as condições de pagamento."
+        "payment_method_incompatible_with_payment_terms": "A forma de pagamento não é compatível com as condições de pagamento.",
+        "bank_account_vaulted_company_location": "Conta bancária guardada para esta agência",
+        "bank_account_generic_error": "Não foi possível adicionar a conta bancária. Tente novamente mais tarde."
       },
       "review": {
         "blocks": {

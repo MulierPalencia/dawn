@@ -608,7 +608,10 @@
         "order_edit_banner_items_added": {
           "many": "Hinzugefügt %{count}."
         },
-        "payment_method_incompatible_with_payment_terms": "Die Zahlungsart ist mit den Zahlungsbedingungen nicht kompatibel."
+        "payment_method_incompatible_with_payment_terms": "Die Zahlungsart ist mit den Zahlungsbedingungen nicht kompatibel.",
+        "discount_show_more_warnings": {
+          "many": "Zeige %{count} mehr"
+        }
       },
       "shipping_errors": {
         "shipping_method_not_available_generic": {
@@ -655,6 +658,15 @@
         },
         "thank_you_item_label": {
           "many": "%{count} Artikel"
+        },
+        "thank_you_confirmed_items_with_email": {
+          "many": "Bald wirst du Bestätigungs-E-Mails erhalten"
+        },
+        "thank_you_confirmed_items_with_phone": {
+          "many": "Bald wirst du Bestätigungs-SMS erhalten"
+        },
+        "items_fulfilled_by_store": {
+          "many": "Die Artikel, die Sie gekauft haben, stammen aus anderen Geschäften."
         }
       },
       "order_payment_collection": {
@@ -777,6 +789,11 @@
       "review_address_modal": {
         "subtitle": {
           "many": "Diese Bestellung wird an eine von {{merchant}} angegebene Adresse versandt. Wähle eine Versandadresse aus."
+        }
+      },
+      "remote_merchandise_only": {
+        "detail_item_label": {
+          "many": "{{count}} Artikel"
         }
       }
     },
@@ -911,6 +928,22 @@
         "lessThanOneHourAgo": {
           "many": "Vor {{count}} Minuten"
         }
+      }
+    },
+    "subscriptions": {
+      "subscription_contracts": {
+        "more_items": {
+          "many": "und {{count}} weitere Produkte"
+        },
+        "product_count": {
+          "many": "{{count}} Produkte"
+        }
+      },
+      "updating_contracts": {
+        "many": "Aktualisiere {{count}} Abonnementverträge..."
+      },
+      "contracts_updated": {
+        "many": "Es wurden erfolgreich {{count}} Abonnementverträge aktualisiert"
       }
     }
   },

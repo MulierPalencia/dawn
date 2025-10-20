@@ -633,6 +633,9 @@
         },
         "expired_cards_info": {
           "many": "There are %{count} expired cards that you can view and edit in your account."
+        },
+        "discount_show_more_warnings": {
+          "many": "Show %{count} more"
         }
       },
       "shipping_errors": {
@@ -681,6 +684,15 @@
         },
         "thank_you_item_label": {
           "many": "%{count} items"
+        },
+        "thank_you_confirmed_items_with_email": {
+          "many": "You will soon receive confirmation emails."
+        },
+        "thank_you_confirmed_items_with_phone": {
+          "many": "You will soon receive confirmation text messages."
+        },
+        "items_fulfilled_by_store": {
+          "many": "The items you purchased will come from other stores."
         }
       },
       "order_payment_collection": {
@@ -802,6 +814,11 @@
       },
       "delivery_options": {
         "pick_up_locations_next": "Retreat places"
+      },
+      "remote_merchandise_only": {
+        "detail_item_label": {
+          "many": "{{count}} articles"
+        }
       }
     },
     "notices": {
@@ -929,6 +946,22 @@
       "email_update_success_card": {
         "title": "Verify email address",
         "description": "The email was updated successfully. Redirecting to log in."
+      }
+    },
+    "subscriptions": {
+      "subscription_contracts": {
+        "more_items": {
+          "many": "y {{count}} more products"
+        },
+        "product_count": {
+          "many": "{{count}} products"
+        }
+      },
+      "updating_contracts": {
+        "many": "Updating {{count}} subscription contracts..."
+      },
+      "contracts_updated": {
+        "many": "{{count}} subscription contracts were successfully updated"
       }
     }
   }
