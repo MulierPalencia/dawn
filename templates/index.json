@@ -47,22 +47,16 @@
     "989b813d-26f9-4c6b-94eb-291b4addc9d4": {
       "type": "collection-list",
       "blocks": {
-        "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-2": {
+        "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "monos"
+            "collection": "faldas"
           }
         },
         "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "camisetas"
-          }
-        },
-        "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "faldas"
+            "collection": "jerseis"
           }
         },
         "abb90dc7-3f68-4d36-b8e7-20d7df48477e": {
@@ -71,26 +65,32 @@
             "collection": "vestidos"
           }
         },
+        "79cbd796-755f-45ce-bfb2-884226389a83": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "camisas-y-blusas"
+          }
+        },
         "70f52996-30dc-4c25-9049-6523795a1772": {
           "type": "featured_collection",
           "settings": {
             "collection": "pantalones"
           }
         },
-        "79cbd796-755f-45ce-bfb2-884226389a83": {
+        "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "camisas-y-blusas"
+            "collection": "abrigos"
           }
         }
       },
       "block_order": [
-        "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-2",
-        "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-0",
         "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-1",
+        "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-0",
         "abb90dc7-3f68-4d36-b8e7-20d7df48477e",
+        "79cbd796-755f-45ce-bfb2-884226389a83",
         "70f52996-30dc-4c25-9049-6523795a1772",
-        "79cbd796-755f-45ce-bfb2-884226389a83"
+        "template--15951775760554__989b813d-26f9-4c6b-94eb-291b4addc9d4-16652990692f15bfa8-2"
       ],
       "settings": {
         "title": "Categorías",
