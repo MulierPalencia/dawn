@@ -494,7 +494,8 @@
       },
       "payment_errors": {
         "shop_pay_wallet_not_available": "Shop Pay não está disponível para este pagamento.",
-        "market_manager_blocks_wallet_payments": "A forma de pagamento não é aceite no teu país."
+        "market_manager_blocks_wallet_payments": "A forma de pagamento não é aceite no teu país.",
+        "captcha_required_without_payment_information": "Resolva o CAPTCHA para completar a compra."
       }
     }
   },

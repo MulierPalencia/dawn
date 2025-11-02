@@ -508,6 +508,9 @@
             "market_manager_blocks_wallet_payments": "L'amministratore del mercato non accetta il metodo di pagamento."
           }
         }
+      },
+      "payment_errors": {
+        "captcha_required_without_payment_information": "Risolvi il CAPTCHA per completare l'acquisto."
       }
     }
   },

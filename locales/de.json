@@ -795,6 +795,9 @@
         "detail_item_label": {
           "many": "{{count}} Artikel"
         }
+      },
+      "payment_errors": {
+        "captcha_required_without_payment_information": "Lösen Sie das CAPTCHA, um den Kauf abzuschließen."
       }
     },
     "notices": {
