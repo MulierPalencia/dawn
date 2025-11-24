@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "colors_solid_button_labels": "#FFFFFF",
@@ -9,26 +18,30 @@
     "colors_background_2": "#F3F3F3",
     "type_header_font": "assistant_n4",
     "type_body_font": "assistant_n4",
-    "page_width": "1200",
-    "social_facebook_link": "https:\/\/www.facebook.com\/mulieresmoda\/",
-    "social_instagram_link": "https:\/\/www.instagram.com\/mulier.es.moda\/",
-    "favicon": "shopify:\/\/shop_images\/favicon_3ad68123-6634-4abd-a334-4bd940a803b8.jpg",
+    "page_width": 1200,
+    "social_facebook_link": "https://www.facebook.com/mulieresmoda/",
+    "social_instagram_link": "https://www.instagram.com/mulier.es.moda/",
+    "favicon": "shopify://shop_images/favicon_3ad68123-6634-4abd-a334-4bd940a803b8.jpg",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
-        "settings": {
-        }
+        "settings": {}
       },
       "header": {
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/MULIER.jpg",
+          "logo": "shopify://shop_images/MULIER.jpg",
           "logo_width": 150,
           "logo_position": "middle-left",
           "menu": "main-menu",
+          "menu_type_desktop": "dropdown",
           "show_line_separator": true,
-          "enable_sticky_header": false
+          "enable_sticky_header": false,
+          "mobile_logo_position": "center",
+          "margin_bottom": 0,
+          "padding_top": 20,
+          "padding_bottom": 20
         }
       },
       "footer": {
@@ -52,14 +65,14 @@
             "type": "text",
             "settings": {
               "heading": "Valoraciones",
-              "subtext": "<p>Google: ⭐⭐⭐⭐⭐ <\/p><p>Tenemos una valoración de 5 estrellas, basado en 3 valoraciones<\/p><p><a href=\"https:\/\/www.google.com\/search?q=mulier+palencia&sxsrf=AOaemvJ1d_vCCmLQ85xBnmLsA4NwPS0GDQ%3A1641229079128&ei=FyvTYaCwB6SUlwT71orgBQ&ved=0ahUKEwjgl4bihpb1AhUkyoUKHXurAlwQ4dUDCA4&uact=5&oq=mulier+palencia&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyCwguEIAEEMcBEK8BMgIIJjoHCAAQsQMQQzoLCAAQgAQQsQMQgwE6CwguEIAEEMcBENEDOgUIABCABDoRCC4QgAQQsQMQgwEQxwEQowI6CAguEIAEELEDOg4ILhCABBCxAxDHARCjAjoOCC4QgAQQsQMQxwEQrwE6EAguEIAEEIcCEMcBEK8BEBQ6CAgAEIAEELEDOgUILhCABDoKCAAQgAQQhwIQFDoICAAQgAQQyQM6BQgAEMsBOgYIABAWEB46BwgjELACECc6CgguEMcBEK8BEA1KBAhBGABKBAhGGABQAFjZHmD6H2gBcAJ4AIAB4AGIAesOkgEGMC4xNC4xmAEAoAEBwAEB&sclient=gws-wiz#lrd=0xd47b047b057540d:0x8eb29447ee753dff,3,,,\" target=\"_blank\" title=\"Valorar - Reseñas de Google\">Valorar<\/a> o <a href=\"https:\/\/www.google.com\/search?q=mulier+palencia&sxsrf=AOaemvJ1d_vCCmLQ85xBnmLsA4NwPS0GDQ%3A1641229079128&ei=FyvTYaCwB6SUlwT71orgBQ&ved=0ahUKEwjgl4bihpb1AhUkyoUKHXurAlwQ4dUDCA4&uact=5&oq=mulier+palencia&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyCwguEIAEEMcBEK8BMgIIJjoHCAAQsQMQQzoLCAAQgAQQsQMQgwE6CwguEIAEEMcBENEDOgUIABCABDoRCC4QgAQQsQMQgwEQxwEQowI6CAguEIAEELEDOg4ILhCABBCxAxDHARCjAjoOCC4QgAQQsQMQxwEQrwE6EAguEIAEEIcCEMcBEK8BEBQ6CAgAEIAEELEDOgUILhCABDoKCAAQgAQQhwIQFDoICAAQgAQQyQM6BQgAEMsBOgYIABAWEB46BwgjELACECc6CgguEMcBEK8BEA1KBAhBGABKBAhGGABQAFjZHmD6H2gBcAJ4AIAB4AGIAesOkgEGMC4xNC4xmAEAoAEBwAEB&sclient=gws-wiz#lrd=0xd47b047b057540d:0x8eb29447ee753dff,1,,,\" target=\"_blank\" title=\"Mulier - Reseñas de Google\">ver todas las reseñas<\/a><\/p>"
+              "subtext": "<p>Google: ⭐⭐⭐⭐⭐ </p><p>Tenemos una valoración de 5 estrellas, basado en 22 valoraciones</p><p><a href=\"https://www.google.com/search?q=mulier+palencia&sxsrf=AOaemvJ1d_vCCmLQ85xBnmLsA4NwPS0GDQ%3A1641229079128&ei=FyvTYaCwB6SUlwT71orgBQ&ved=0ahUKEwjgl4bihpb1AhUkyoUKHXurAlwQ4dUDCA4&uact=5&oq=mulier+palencia&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyCwguEIAEEMcBEK8BMgIIJjoHCAAQsQMQQzoLCAAQgAQQsQMQgwE6CwguEIAEEMcBENEDOgUIABCABDoRCC4QgAQQsQMQgwEQxwEQowI6CAguEIAEELEDOg4ILhCABBCxAxDHARCjAjoOCC4QgAQQsQMQxwEQrwE6EAguEIAEEIcCEMcBEK8BEBQ6CAgAEIAEELEDOgUILhCABDoKCAAQgAQQhwIQFDoICAAQgAQQyQM6BQgAEMsBOgYIABAWEB46BwgjELACECc6CgguEMcBEK8BEA1KBAhBGABKBAhGGABQAFjZHmD6H2gBcAJ4AIAB4AGIAesOkgEGMC4xNC4xmAEAoAEBwAEB&sclient=gws-wiz#lrd=0xd47b047b057540d:0x8eb29447ee753dff,3,,,\" target=\"_blank\" title=\"Valorar - Reseñas de Google\">Valorar</a> o <a href=\"https://www.google.com/search?q=mulier+palencia&sxsrf=AOaemvJ1d_vCCmLQ85xBnmLsA4NwPS0GDQ%3A1641229079128&ei=FyvTYaCwB6SUlwT71orgBQ&ved=0ahUKEwjgl4bihpb1AhUkyoUKHXurAlwQ4dUDCA4&uact=5&oq=mulier+palencia&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyCwguEIAEEMcBEK8BMgIIJjoHCAAQsQMQQzoLCAAQgAQQsQMQgwE6CwguEIAEEMcBENEDOgUIABCABDoRCC4QgAQQsQMQgwEQxwEQowI6CAguEIAEELEDOg4ILhCABBCxAxDHARCjAjoOCC4QgAQQsQMQxwEQrwE6EAguEIAEEIcCEMcBEK8BEBQ6CAgAEIAEELEDOgUILhCABDoKCAAQgAQQhwIQFDoICAAQgAQQyQM6BQgAEMsBOgYIABAWEB46BwgjELACECc6CgguEMcBEK8BEA1KBAhBGABKBAhGGABQAFjZHmD6H2gBcAJ4AIAB4AGIAesOkgEGMC4xNC4xmAEAoAEBwAEB&sclient=gws-wiz#lrd=0xd47b047b057540d:0x8eb29447ee753dff,1,,,\" target=\"_blank\" title=\"Mulier - Reseñas de Google\">ver todas las reseñas</a></p>"
             }
           },
           "footer-1": {
             "type": "text",
             "settings": {
               "heading": "Contacto",
-              "subtext": "<p><strong>Teléfono: <\/strong><a href=\"https:\/\/www.google.com\/search?q=mulier+palencia&sxsrf=ALeKk03Xfk4xO2--JXMJb9x1J49kU7DnDg%3A1617440192884&source=hp&ei=wC1oYJLOM43Qgwe_2LHQCQ&iflsig=AINFCbYAAAAAYGg70GeWPKSG6p30nQCo5tpRJ_JVFWsL&oq=mulier+palencia&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBAgjECc6CggAEMcBEK8BEEM6CggAELEDEIMBEEM6BQgAELEDOggIABCxAxCDAToOCAAQsQMQgwEQxwEQowI6BAgAEEM6BAguEEM6CwgAELEDEMcBEKMCOg0IABCxAxDHARCjAhBDOgIIADoFCC4QsQM6CAgAEMcBEK8BOgIILjoFCAAQywE6BggAEBYQHjoFCCEQoAFQtQZYzSFg5iJoBHAAeACAAX6IAfkMkgEEMTUuNJgBAKABAaoBB2d3cy13aXo&sclient=gws-wiz&ved=0ahUKEwiSro-h2uHvAhUN6OAKHT9sDJoQ4dUDCAk&uact=5#\">979 74 16 88<\/a><\/p><p><strong>Email: <\/strong><a href=\"mailto:mulier.modaycomplementos@gmail.com\" target=\"_blank\" title=\"mailto:mulier.modaycomplementos@gmail.com\">mulier.modaycomplementos@gmail.com<\/a><\/p><p><strong>Tienda física<\/strong><\/p><p>Calle Mayor Principal, 21F, 34001,<br\/>Palencia<\/p>"
+              "subtext": "<p><strong>Teléfono: </strong><a href=\"https://www.google.com/search?q=mulier+palencia&sxsrf=ALeKk03Xfk4xO2--JXMJb9x1J49kU7DnDg%3A1617440192884&source=hp&ei=wC1oYJLOM43Qgwe_2LHQCQ&iflsig=AINFCbYAAAAAYGg70GeWPKSG6p30nQCo5tpRJ_JVFWsL&oq=mulier+palencia&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBAgjECc6CggAEMcBEK8BEEM6CggAELEDEIMBEEM6BQgAELEDOggIABCxAxCDAToOCAAQsQMQgwEQxwEQowI6BAgAEEM6BAguEEM6CwgAELEDEMcBEKMCOg0IABCxAxDHARCjAhBDOgIIADoFCC4QsQM6CAgAEMcBEK8BOgIILjoFCAAQywE6BggAEBYQHjoFCCEQoAFQtQZYzSFg5iJoBHAAeACAAX6IAfkMkgEEMTUuNJgBAKABAaoBB2d3cy13aXo&sclient=gws-wiz&ved=0ahUKEwiSro-h2uHvAhUN6OAKHT9sDJoQ4dUDCAk&uact=5#\">979 74 16 88</a></p><p><strong>Email: </strong><a href=\"mailto:mulier.modaycomplementos@gmail.com\" target=\"_blank\" title=\"mailto:mulier.modaycomplementos@gmail.com\">mulier.modaycomplementos@gmail.com</a></p><p><strong>Tienda física</strong></p><p>Calle Mayor Principal, 21F, 34001,<br/>Palencia</p>"
             }
           }
         },
@@ -76,13 +89,18 @@
           "show_social": true,
           "enable_country_selector": false,
           "enable_language_selector": true,
-          "payment_enable": true
+          "payment_enable": true,
+          "margin_top": 0,
+          "padding_top": 36,
+          "padding_bottom": 36
         }
+      },
+      "json-ld-breadcrumb": {
+        "type": "json-ld-breadcrumb",
+        "settings": {}
       }
     },
-    "content_for_index": [
-
-    ]
+    "content_for_index": []
   },
   "presets": {
     "Default": {
@@ -219,7 +237,8 @@
           },
           "block_order": [
             "announcement-bar-0"
-          ]
+          ],
+          "settings": {}
         },
         "header": {
           "type": "header",
@@ -254,7 +273,7 @@
               "type": "text",
               "settings": {
                 "heading": "Our mission",
-                "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+                "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
               }
             }
           },
