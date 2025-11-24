@@ -29,10 +29,29 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_RhJFXh": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Black_Magenta_Lime_Green_Illustrative_Billboard_20251124_222339_0000.png",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "slide_jPjDmx"
+        "slide_jPjDmx",
+        "slide_RhJFXh"
       ],
       "settings": {
         "layout": "full_bleed",
