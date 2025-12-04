@@ -100,7 +100,14 @@
         "settings": {}
       }
     },
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "7278732907249339192": {
+        "type": "shopify://apps/rimix-product-badges/blocks/rimix-helper/46f9dcab-fec8-4959-8563-b2334479cd94",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Default": {
