@@ -2561,7 +2561,75 @@
           "tax_credential_it": "Código Fiscal (opcional)",
           "tax_email_it": "Correio eletrónico certificado (PEC) (opcional)",
           "tax_credential_cl": "NIF",
-          "shipping_credential_cl": "NIF"
+          "shipping_credential_cl": "NIF",
+          "tax_credential_co": "Cédula/IVA",
+          "tax_credential_type_co": "Tipo Cédula",
+          "shipping_credential_co": "Cédula/IVA",
+          "shipping_credential_type_co": "Tipo Cédula",
+          "tax_credential_cr": "Número de identificação/RUT",
+          "shipping_credential_cr": "Número de identificação/RUT",
+          "tax_credential_ec": "CI/RUC/IVA",
+          "shipping_credential_ec": "CI/RUC/IVA",
+          "tax_credential_gt": "NIF/IVA",
+          "shipping_credential_gt": "NIF/IVA",
+          "tax_credential_id": "NPWP",
+          "shipping_credential_id": "NPWP",
+          "tax_credential_my": "TIN/Número de registo",
+          "shipping_credential_my": "TIN/Número de registo",
+          "shipping_credential_mx": "RFC",
+          "tax_credential_mx": "RFC",
+          "tax_credential_type_mx": "Regime Fiscal",
+          "tax_credential_use_mx": "Uso de CFDI",
+          "tax_credential_py": "CI/RUC/IVA",
+          "shipping_credential_py": "CI/RUC/IVA",
+          "tax_credential_pe": "DNI/RUC/CE",
+          "shipping_credential_pe": "DNI/RUC/CE",
+          "tax_credential_pt": "NIF/IVA",
+          "shipping_credential_pt": "NIF/IVA",
+          "tax_credential_es": "DNI/NIF",
+          "shipping_credential_es": "DNI/NIF",
+          "shipping_credential_tw": "Número nacional de identidade/IVA",
+          "tax_credential_tr": "Número de Identificação da República da Turquia/NIF",
+          "shipping_credential_tr": "Número de Identificação da República da Turquia/NIF"
+        }
+      },
+      "post_purchase": {
+        "page_title": "Depois da compra",
+        "title": "Depois da compra",
+        "escape_confirmation": "Pagaste a tua encomenda.",
+        "escape_action": "Ver confirmação de pedido ›",
+        "components": {
+          "close": "Fechar",
+          "expand": "Ver mais",
+          "processing": "Em processo…",
+          "submit": "Enviar"
+        }
+      },
+      "change_country": {
+        "cart_updated_based_on_country": "O teu carrinho foi atualizado de acordo com o teu país de destino.",
+        "cart_and_currency_updated_based_on_country": "O teu carrinho e a tua moeda foram modificados em função do país de envio."
+      },
+      "subscriptions": {
+        "recurring_totals": "%{total_price} por %{interval}",
+        "recurring_totals_with_policies": {
+          "first_cycles": {
+            "one": "Primeiro pagamento %{total_price}",
+            "other": "Primeiros %{count} pagamentos de %{total_price} cada um",
+            "many": "Primeiros %{count} pagamentos de %{total_price} cada um"
+          },
+          "following_cycles": ", depois %{total_price} cada %{interval}"
+        },
+        "recurring_total_intervals": {
+          "day": {
+            "one": "dia",
+            "other": "%{count} dias",
+            "many": "%{count} dias"
+          },
+          "week": {
+            "one": "semana",
+            "other": "%{count} semanas",
+            "many": "%{count} semanas"
+          }
         }
       }
     },
