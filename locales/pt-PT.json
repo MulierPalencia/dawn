@@ -3538,8 +3538,10 @@
     "order_details": {
       "login_card": {
         "resend_link_and_login": "Para ver a informação da encomenda, inicia sessão ou envia um novo link para o e-mail ou número de telefone utilizado no pagamento.",
-        "resend_link_only": "Para ver a informação da encomenda, envie um novo link para o e-mail ou número de telefone utilizado no pagamento.",
-        "resend_link": "Enviar novo link"
+        "resend_link_only": "Para ver a informação da encomenda, envia um novo link para o e-mail ou número de telefone utilizado no pagamento.",
+        "resend_link": "Enviar novo link",
+        "log_in": "Iniciar sessão",
+        "link_expired": "O link expirou"
       },
       "addresses_section_title": "Faturação e envio",
       "billing_address": "Morada de faturação",
@@ -3709,8 +3711,34 @@
       "zero_duties_tooltip": "Este pedido será enviado a partir de outro país. Não são cobradas taxas alfandegárias em encomendas deste valor.",
       "group_title_label": "Parte de: {{groupTitle}}",
       "fees": {
-        "restocking_fee": "Custo por reposição"
-      }
+        "restocking_fee": "Custo por reposição",
+        "return_shipping_fee": "Envio de devolução"
+      },
+      "vat_invoices": {
+        "title": "Facturas com IVA"
+      },
+      "taxes_included": "Inclui {{amount}} de impostos",
+      "duties_and_taxes_included": "O total inclui impostos e taxas alfandegárias. Não são aplicadas cobranças adicionais pela entrega.",
+      "grouped_view_components": {
+        "expand_line_items": "Mostrar {{count}} artigos",
+        "collapse_line_items": "Ocultar {{count}} artigos",
+        "line_item_summary": "{{refundableQuantity}} x {{productTitle}}",
+        "line_item_summary_accessibility_label": "{{productTitle}}, quantidade: {{refundableQuantity}}",
+        "line_item_summary_list_accessibility_label": "Artigos no pacote de {{productTitle}}"
+      },
+      "cash_rounding": "Arredondamento em dinheiro",
+      "adjusted_payment": "Pago com ajuste",
+      "adjusted_total": "Total após o ajuste",
+      "link_sent": "Link enviado",
+      "view_controls": {
+        "gallery": "Galeria",
+        "list": "Lista"
+      },
+      "company_and_location": "Empresa e sucursal",
+      "due_on_date": "Vence a {{date}}",
+      "due_on_fulfillment": "Pago após a preparação da encomenda",
+      "due_on_receipt": "Pago após a receção",
+      "group_title_label_with_parent": "Para: {{groupTitle}}"
     },
     "account_information": {
       "one_time_password_card": {
@@ -4094,6 +4122,37 @@
       "switch_order_type_confirmed_orders_accessibility_label": "Altera o tipo de pedido. Atualmente estão a ser mostrados os pedidos confirmados.",
       "group_title_label": "Parte de: {{groupTitle}}",
       "group_title_label_with_parent": "Para: {{groupTitle}}"
+    },
+    "addresses": {
+      "add_button": "Agregar endereço",
+      "address_deleted_notification": "Morada eliminada",
+      "cancel_adding_address_accessibility_label": "Cancelar adição de morada",
+      "cancel_deletion_button": "Cancelar",
+      "cancel_deletion_button_accessibility_label": "Cancelar eliminação de {{address}}",
+      "default_address": {
+        "title": "Morada predefinida",
+        "title_accessibility_label": "Morada predefinida: {{address}}"
+      },
+      "delete_button": "Eliminar",
+      "delete_button_accessibility_label": "Eliminar {{address}}",
+      "delete_confirmation_button": "Eliminar morada",
+      "delete_confirmation_button_accessibility_label": "Eliminar {{address}}",
+      "delete_confirmation_message": "Eliminar morada? As encomendas existentes não serão afetadas.",
+      "edit_button": "Editar",
+      "edit_button_accessibility_label": "Editar {{address}}",
+      "edit_section_accessibility_label": "Editar {{address}}",
+      "loading_accessibility_message": "A carregar morada",
+      "loading_addresses_accessibility_message": "A carregar endereços",
+      "loading_billing_accessibility_message": "A carregar endereços de faturação",
+      "loading_finished_accessibility_message": "Foi carregada uma nova página de endereços",
+      "loading_shipping_accessibility_message": "A carregar morada de envio",
+      "pagination": {
+        "load_more": "Carregar mais",
+        "load_more_accessibility_label": "Carregar mais endereços"
+      },
+      "save_new_address_accessibility_label": "Guardar endereço",
+      "title": "Direções",
+      "delete_confirmation_title": "Apagar endereço?"
     }
   }
 }
