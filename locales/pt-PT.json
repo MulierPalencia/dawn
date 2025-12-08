@@ -4152,7 +4152,67 @@
       },
       "save_new_address_accessibility_label": "Guardar endereço",
       "title": "Direções",
-      "delete_confirmation_title": "Apagar endereço?"
+      "delete_confirmation_title": "Apagar endereço?",
+      "delete_confirmation_description": "Os pedidos existentes não serão afetados.",
+      "edit_modal_title": {
+        "default": "Editar endereço",
+        "billing": "Editar morada de faturação",
+        "shipping": "Editar morada de envio"
+      },
+      "add_address_banner": "Agregar os endereços que desejas usar no ecrã de pagamento",
+      "billing_address_dropdown_placeholder": "Morada de faturação",
+      "add_button_text": "Adicionar",
+      "add_button_accessibility_label": "Agregar endereço",
+      "back_button": "Atrás",
+      "back_button_accessibility_label": "Voltar para a edição do endereço {{address}}",
+      "no_addresses_banner": "Não foram adicionados endereços."
+    },
+    "address_form": {
+      "auto_complete_close_accessibility_label": "Fecha as sugestões.",
+      "auto_complete_title": "Sugestões",
+      "billing_address": "Usar como morada de faturação",
+      "cancel": "Cancelar",
+      "cancel_accessibility_label": "Cancelar a edição do endereço {{address}}",
+      "creation_success_notification": "Endereço agregado",
+      "default_address": "Este é o meu endereço predefinido.",
+      "default_address_creation_success_notification": "Endereço predefinido adicionado",
+      "default_address_update_success_notification": "Endereço predefinido atualizado",
+      "loading_add_form_accessibility_message": "A carregar formulário de novo endereço",
+      "loading_edit_form_accessibility_message": "A carregar formulário de edição de morada",
+      "loading_finished_accessibility_message": "Formulário de endereço carregado",
+      "save": "Guardar",
+      "save_accessibility_label": "Guardar o endereço {{address}}",
+      "section_title_accessibility_label": "Agregar endereço",
+      "update_success_notification": "Direção atualizada",
+      "attention": "Atenção",
+      "attention_help_text": "Nome de uma pessoa ou departamento",
+      "loading_form_accessibility_message": "A carregar formulário de endereço",
+      "attention_company": "Empresa/A a atenção de"
+    },
+    "B2B": {
+      "account_information": {
+        "company_card_name_label": "Nome da empresa",
+        "company_card_section_accessibility_label": "Empresa"
+      },
+      "locations": {
+        "contact_email": "Correio eletrónico",
+        "contact_list_title": "Pessoal",
+        "contact_name": "Nome",
+        "contact_permissions": "Permissões",
+        "contact_phone_number": "Número de telefone",
+        "location_picker_label": "Nome da sucursal",
+        "net_payment_terms_description": "{{name}}: pagamentos que vencem em {{numberOfDays}} dias",
+        "payment_details_title": "Detalhes do pagamento",
+        "payment_terms": "Condições de pagamento",
+        "permissions_label": "As suas permissões",
+        "permissions_title": "Permissões",
+        "section_title": "Filial",
+        "shipping_address_required": "Adicione um endereço de faturação a esta filial para começar a fazer encomendas.",
+        "tax_details_title": "Informação fiscal",
+        "tax_id": "Identificação fiscal",
+        "tax_exemptions": "Isenções fiscais",
+        "multiple_tax_exemptions": "{{taxExemptionsCount}} mais"
+      }
     }
   }
 }
