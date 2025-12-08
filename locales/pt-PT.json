@@ -1081,9 +1081,41 @@
       },
       "review": {
         "blocks": {
-          "company_location": "Localização da empresa"
+          "company_location": "Localização da empresa",
+          "contact_method_title": "Contacto",
+          "billing_address_title": "Facturação",
+          "shipping_address_title": "Enviar para",
+          "shipping_method_title": "Método de envio",
+          "payment_method_title": "Forma de pagamento",
+          "change_link_label": "Mudar",
+          "change_contact_method_link_label": "Alterar informações de contacto",
+          "change_billing_address_link_label": "Alterar morada de faturação",
+          "change_shipping_address_link_label": "Alterar morada de envio",
+          "change_shipping_method_link_label": "Alterar método de envio",
+          "change_payment_method_link_label": "Alterar método de pagamento",
+          "pick_up_in_store_shipping_method_html": "Levantamento na loja · %{location_name}",
+          "purchase_order_number_title": "Número de ordem de compra",
+          "change_purchase_order_number_label": "Alterar número da ordem de compra",
+          "change_delivery_method_link_label": "Alterar forma de entrega",
+          "no_address": "(Não há nenhum endereço)",
+          "no_purchase_order_number": "(Sem número de ordem de compra)",
+          "due_after_order_reviewed_html": "Vence uma vez revisto o pedido",
+          "review_title_free_order": "Revisar e completar a encomenda",
+          "payment_method_saved_company_location": "Guardar cartão para esta sucursal",
+          "change_company_location_link_label": "Alterar sucursal da empresa"
         },
-        "title": "Revisar"
+        "title": "Revisar",
+        "review_title": "Completa a tua encomenda",
+        "checkout_as_guest": "Pagar como convidado",
+        "block_title": "Revise a sua informação",
+        "checkout_a_different_way": "Pagar de outra forma",
+        "item_header": {
+          "change_value": "Alterar valor",
+          "section": "Seção",
+          "value": "Valor"
+        },
+        "review_and_confirm_title": "Revisar e confirmar",
+        "account_more_actions": "Mais ações para esta conta"
       },
       "memberships": {
         "delivery_promise_unfulfillable": "O endereço não é compatível com a associação atual."
@@ -2430,6 +2462,37 @@
           "single_store": "Em breve receberás um e-mail de confirmação",
           "multi_store": "Em breve receberás e-mails de confirmação de cada loja separadamente"
         }
+      },
+      "marketing": {
+        "accept_marketing_checkbox_label": "Enviar-me novidades e ofertas por correio eletrónico",
+        "unsubscribe": {
+          "title": "Cancelou a sua subscrição",
+          "description": "Não receberá mais lembretes de carrinhos de compra nossos."
+        },
+        "accept_sms_checkbox_label": "Enviar-me novidades e ofertas por SMS",
+        "sms": {
+          "disclaimer": {
+            "privacy_policy": "Política de privacidade",
+            "terms_of_service": "Termos do serviço",
+            "description_html": "Ao registares-te por SMS, aceitas receber mensagens automatizadas de marketing recorrentes para o número de telefone fornecido, incluindo lembretes de carrinhos. O consentimento não é uma condição para comprares. Responde STOP para cancelares a subscrição. Responde HELP para obter ajuda. A frequência das mensagens varia. Podem ser aplicadas tarifas de mensagens e dados. Consulta a nossa %{privacy_policy_link} e os nossos %{terms_of_service_link}.",
+            "description_transactional_html": "Podes receber mensagens de texto relacionadas com a confirmação da encomenda e atualizações de envio. Responde STOP para te desinscreveres. Responde HELP para obter ajuda. A frequência das mensagens varia. Podem ser aplicadas tarifas de mensagens e dados. Consulta a nossa %{privacy_policy_modal_link} e os nossos %{terms_of_service_modal_link}."
+          },
+          "mobile_phone_number": "Número de telemóvel",
+          "get_offers_by_text": "Obter ofertas por mensagem de texto"
+        },
+        "post_accept_marketing_checkbox_label": "Está subscrito para receber notícias e ofertas por correio eletrónico",
+        "pending_accept_marketing_checkbox_label": "Verifica o teu e-mail e confirma a tua subscrição para notícias e ofertas",
+        "accept_shop_pay_marketing_checkbox_label": "Regista-me para receber notícias e ofertas desta loja",
+        "disclaimer": {
+          "privacy_policy": "Política de privacidade",
+          "terms_of_service": "Termos de Serviço"
+        }
+      },
+      "shop_policies": {
+        "refund_policy": "Política de reembolso",
+        "privacy_policy": "Política de privacidade",
+        "terms_of_service": "Termos do serviço",
+        "legal_notice": "Aviso legal"
       }
     },
     "sentence": {
