@@ -1197,7 +1197,10 @@
       "one": {
         "errors": {
           "merchandise": {
-            "signature_mismatch": "A assinatura da mercadoria promocional não coincide na linha {{stable_id}}."
+            "signature_mismatch": "A assinatura da mercadoria promocional não coincide na linha %{stable_id}.",
+            "gift_card_price_must_be_greater_than_zero": "O preço do cartão de oferta deve ser superior a 0.",
+            "subtotal_limit_reached": "Foi atingido o número máximo de linhas de artigos.",
+            "gift_card_price_must_not_exceed_limit": "O valor do cartão de oferta não pode ser superior a %{gift_card_limit}."
           }
         }
       },
@@ -3017,7 +3020,87 @@
         "return_to_checkout": "Voltar ao ecrã de pagamento",
         "scrim": {
           "continue_purchase_in_window": "Continua a tua compra na janela de {{walletName}}",
-          "and_return_to_checkout": "e voltar à página de pagamento"
+          "and_return_to_checkout": "e voltar à página de pagamento",
+          "cancel": "Cancelar"
+        }
+      },
+      "markets": {
+        "invalid_market_manager_error": "Reveja a sua informação de contacto antes de completar o pagamento."
+      },
+      "store_credit_errors": {
+        "generic_error": "Houve um problema com o teu crédito na loja. Tenta novamente ou recarrega a página."
+      },
+      "note": {
+        "length_exceeds_maximum": "Reduza o tamanho da nota para 5000 caracteres ou menos."
+      },
+      "billing": {
+        "billing_address_title": "Faturar a",
+        "same_as_shipping": "Igual que o endereço de envio",
+        "add_address": "Usar outro endereço",
+        "edit": "Editar",
+        "delete": "Eliminar",
+        "address_more": "Mais ações para este endereço",
+        "address_edit": "Editar endereço",
+        "address_delete": "Eliminar morada",
+        "address_confirm": "Confirmas que desejas eliminar este endereço da conta?",
+        "address_form": {
+          "add_address": "Agregar endereço",
+          "save": "Guardar",
+          "cancel": "Cancelar"
+        },
+        "billing_address_rollup_accessibility_label": "Opções de faturação",
+        "update_address_banner": "Atualize este endereço para ver as suas opções de entrega."
+      },
+      "address_management": {
+        "confirm_address_deletion": "Confirmas que desejas eliminar o endereço {{address}}?"
+      },
+      "redeemable_errors": {
+        "gift_card": {
+          "duplicate": "Este cartão de oferta já foi aplicado à sua encomenda.",
+          "insufficient_funds": "Este cartão de oferta não tem fundos suficientes.",
+          "expired": "Este cartão-presente expirou",
+          "not_available": "Este cartão de oferta já não está disponível.",
+          "invalid": "Introduza um cartão de oferta válido",
+          "currency_mismatch": "Só são aceites cartões-presente em %{shop_currency}.",
+          "generic": "Não foi possível usar o cartão de oferta durante o processo de pagamento.",
+          "throttle_limit_exceeded": "Ultrapassaste o número máximo de tentativas. Tenta novamente mais tarde.",
+          "no_longer_available": "Este cartão-presente já não pode ser usado nesta página de pagamento"
+        },
+        "shop_cash": {
+          "currency_mismatch": "A moeda mudou. Verifica o teu Shop Cash e as tuas ofertas."
+        }
+      },
+      "vaulted": {
+        "change_button": "Mudar"
+      },
+      "shop_pay_external": {
+        "errors": {
+          "problem_loading": "Há um problema ao carregar o Shop Pay.",
+          "try_again_later": "Verifique a ligação ou feche esta janela e tente novamente daqui a alguns minutos.",
+          "checkout_has_expired": "O seu processo de pagamento expirou. Feche esta janela e tente efetuar o pagamento novamente a partir de {{shopName}}."
+        },
+        "return_to_store": "Voltar a {{shopName}}",
+        "return_to_store_simple": "Devolver à loja",
+        "title": "Pago com Shop Pay"
+      },
+      "company_location": {
+        "location_title": "Localização da empresa",
+        "location_rollup_accessibility_label": "Opções de filial da empresa"
+      },
+      "clipboard": {
+        "copied": "Copiado",
+        "failed_to_copy": "Erro ao copiar"
+      },
+      "payment_challenge_modal": {
+        "instructions": "Completa a compra usando o teu código {{paymentMethod}}",
+        "timer_message": "Tens {{timeLeft}} para pagar",
+        "copy_text": "Copiar o código de {{paymentMethod}}",
+        "header": "Pagar com {{paymentMethod}}",
+        "qr_code": {
+          "instructions": "Completa a compra usando o teu código {{paymentMethod}}"
+        },
+        "external": {
+          "instructions": "Confirme o pagamento na sua aplicação para completar esta compra"
         }
       }
     },
