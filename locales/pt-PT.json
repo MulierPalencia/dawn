@@ -792,8 +792,74 @@
         },
         "datepicker": {
           "show_previous_month": "Mostrar o mês anterior, {{month}} {{year}}",
-          "show_next_month": "Mostrar o próximo mês, {{month}} {{year}}"
-        }
+          "show_next_month": "Mostrar o próximo mês, {{month}} {{year}}",
+          "range_start": "Início do intervalo",
+          "in_range": "Dentro do alcance",
+          "range_end": "Fim do intervalo"
+        },
+        "list_formatter": {
+          "and": {
+            "lastWordConnector": "{{previousWords}} e {{lastWord}}",
+            "twoWordConnector": "{{firstWord}} e {{secondWord}}"
+          },
+          "or": {
+            "lastWordConnector": "{{previousWords}} o {{lastWord}}",
+            "twoWordConnector": "{{firstWord}} e {{secondWord}}"
+          }
+        },
+        "map": {
+          "cluster_title": {
+            "one": "Grupo de {{number}} marcador",
+            "other": "Grupo de {{number}} marcadores",
+            "many": "Grupo de {{number}} marcadores"
+          }
+        },
+        "sheet": {
+          "expand": "Expandir"
+        },
+        "confirm_order_button_label": "Confirmar encomenda",
+        "qr_code": "Código QR",
+        "dropzone": {
+          "add_file": "Agregar arquivo",
+          "invalid_file_type": "O tipo de ficheiro não é compatível",
+          "dragged_over": "Solte o ficheiro que queres carregar"
+        },
+        "loading": "A carregar…",
+        "remove_chip": "Eliminar artigo"
+      },
+      "contact": {
+        "title": "Informação",
+        "address_title": "Direção",
+        "delivery_option_title": "Forma de entrega",
+        "contact_method_title": "Contacto",
+        "email_label": "Correio eletrónico",
+        "email_placeholder": "Correio eletrónico",
+        "email_or_phone_label": "Email ou número de telemóvel",
+        "email_or_phone_placeholder": "Email ou número de telemóvel",
+        "stored_addresses_label": "Direções guardadas",
+        "new_address_label": "Usa um novo endereço",
+        "first_name_label": "Nome",
+        "optional_first_name_label": "Nome (opcional)",
+        "last_name_label": "Apelidos",
+        "company_label": "Empresa",
+        "optional_company_label": "Empresa (opcional)",
+        "address1_label": "Direção",
+        "address2_label": "Casa, apartamento, etc. (opcional)",
+        "optional_address2_label": "Casa, apartamento, etc. (opcional)",
+        "city_label": "Cidade",
+        "country_label": "País / Região",
+        "country_code": "Código de país/região",
+        "province_label": "Província / Estado",
+        "province_placeholder": "Província / Estado",
+        "county_label": "Condado",
+        "county_placeholder": "Condado",
+        "state_label": "Estado",
+        "state_placeholder": "Estado",
+        "region_label": "Região",
+        "region_placeholder": "Região",
+        "prefecture_label": "Prefeitura",
+        "prefecture_placeholder": "Prefeitura",
+        "governorate_label": "Província"
       }
     },
     "sentence": {
