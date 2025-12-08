@@ -568,9 +568,73 @@
           },
           "max_cycles_base_shipping_delivery_not_included": {
             "one": "%{count} entrega por %{shipping_price}",
-            "other": "%{count} entregas mais por %{shipping_price} cada uma"
+            "other": "%{count} entregas mais por %{shipping_price} cada uma",
+            "many": "%{count} entregas mais por %{shipping_price} cada uma"
+          },
+          "prepaid_free_shipping_with_cycles": {
+            "one": "Envio gratuito durante o primeiro %{cycle} e depois por %{recurring_order_shipping_price}",
+            "other": "Envio gratuito durante o primeiro %{cycle} e depois por %{recurring_order_shipping_price}",
+            "many": "Envio gratuito durante o primeiro %{cycle} e depois por %{recurring_order_shipping_price}"
+          },
+          "prepaid_order_one_cycle": {
+            "one": "%{shipping_price} para %{count} entregas más",
+            "other": "%{shipping_price} para %{count} entregas mais (%{per_delivery_cost})",
+            "many": "%{shipping_price} para %{count} entregas mais (%{per_delivery_cost})"
+          },
+          "prepaid_order_one_cycle_delivery_not_included": {
+            "one": "%{shipping_price} para %{count} entrega",
+            "other": "%{shipping_price} para %{count} entregas (%{per_delivery_cost})",
+            "many": "%{shipping_price} para %{count} entregas (%{per_delivery_cost})"
+          },
+          "prepaid_order_no_cycle": {
+            "one": "%{shipping_price} para %{count} entregas adicionais e depois por %{recurring_order_shipping_price}",
+            "other": "%{shipping_price} para %{count} entregas mais (%{per_delivery_cost}) e depois por %{recurring_order_shipping_price}",
+            "many": "%{shipping_price} para %{count} entregas mais (%{per_delivery_cost}) e depois por %{recurring_order_shipping_price}"
+          },
+          "prepaid_order_no_cycle_delivery_not_included": {
+            "one": "%{shipping_price} para %{count} entrega e depois por %{recurring_order_shipping_price}",
+            "other": "%{shipping_price} para %{count} entregas (%{per_delivery_cost}) e depois por %{recurring_order_shipping_price}",
+            "many": "%{shipping_price} para %{count} entregas (%{per_delivery_cost}) e depois por %{recurring_order_shipping_price}"
           }
-        }
+        },
+        "one_time_purchase_shipping": "Envio único",
+        "estimated_delivery_time": "Data de entrega estimada: %{time}",
+        "estimated_delivery_time_range": "Data de entrega estimada: %{min_time}–%{max_time}",
+        "arrives_time": "Chega em %{time}",
+        "arrives_time_range": "Chega entre %{min_time}–%{max_time}",
+        "estimated_time": "Chegada prevista: %{time}",
+        "estimated_time_range": "Hora estimada: %{min_time}-%{max_time}",
+        "subscription_local_delivery": "Assinatura com entrega local",
+        "subscription_pickup": "Subscrição com cancelamento",
+        "delivery_today": "Entrega no mesmo dia %{time}",
+        "delivery_tomorrow": "Entrega no dia seguinte %{time}",
+        "two_day_delivery": "Entrega em dois dias a %{time}",
+        "delivery": "Entrega às %{time}",
+        "duties_and_taxes_title": "Direitos aduaneiros e impostos",
+        "shipping_information_required_notice": "A informação de envio é obrigatória. {{link}}.",
+        "shipping_information_redirect_link": "Introduza a sua informação aqui",
+        "loading_progressive_rates": "A procurar mais tarifas...",
+        "no_other_methods_available": "Não há outros métodos de envio disponíveis",
+        "duties_and_taxes_options": {
+          "ddu_title": "Pagar no momento da entrega",
+          "ddu_caption": "Podem ser aplicadas cobranças adicionais",
+          "ddp_title": "Pagar agora",
+          "ddp_caption": "Não há custos adicionais pela entrega"
+        },
+        "shipping_method_combinations": {
+          "combination": "%{rest} e %{current}"
+        },
+        "shipping_used_as_billing_notice": "Também será utilizada como morada de faturação para esta encomenda.",
+        "address_update": "Modificar morada",
+        "shipping_address_title": "Enviar para",
+        "add_address": "Usar um endereço diferente",
+        "add_delivery_instructions": "Agregar instruções de entrega",
+        "edit": "Editar",
+        "delete": "Eliminar",
+        "address_more": "Mais ações para este endereço",
+        "address_edit": "Editar endereço",
+        "address_delete": "Eliminar morada",
+        "address_confirm": "Confirmas que desejas eliminar este endereço da conta?"
       },
       "payment": {
         "payment_method_incompatible_with_payment_terms": "A forma de pagamento não é compatível com as condições de pagamento.",
