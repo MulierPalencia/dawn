@@ -456,7 +456,9 @@
   "shopify": {
     "checkout": {
       "shipping": {
-        "unbranded_default_description": "Pronto per la spedizione"
+        "unbranded_default_description": "Pronto per la spedizione",
+        "third_party_address_timeout": "Impossibile caricare gli indirizzi. Riprova o usa un altro indirizzo.",
+        "third_party_address_error": "Si è verificato un errore durante il caricamento della selezione dell'indirizzo. Inserisci il tuo indirizzo manualmente qui sotto."
       },
       "payment": {
         "payment_method_incompatible_with_payment_terms": "La modalità di pagamento non è compatibile con le condizioni di pagamento.",

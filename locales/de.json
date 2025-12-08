@@ -593,7 +593,9 @@
         "shipping_method_recurring_shipments_group_title": {
           "many": "Wiederkehrende Lieferungen"
         },
-        "unbranded_default_description": "Versandfertig"
+        "unbranded_default_description": "Versandfertig",
+        "third_party_address_timeout": "Die Adressen konnten nicht geladen werden. Bitte versuche es erneut oder verwende eine andere Adresse.",
+        "third_party_address_error": "Beim Laden der Adressauswahl ist ein Fehler aufgetreten. Bitte gib deine Adresse unten manuell ein."
       },
       "payment": {
         "order_covered_by_gift_cards_notice": {
@@ -611,6 +613,9 @@
         "payment_method_incompatible_with_payment_terms": "Die Zahlungsart ist mit den Zahlungsbedingungen nicht kompatibel.",
         "discount_show_more_warnings": {
           "many": "Zeige %{count} mehr"
+        },
+        "discount_codes_removed_summary": {
+          "many": "Es wurden %{count} Rabattcodes entfernt"
         }
       },
       "shipping_errors": {
@@ -619,6 +624,9 @@
         },
         "shipping_method_not_available_updated": {
           "many": "Ein oder mehrere von Ihnen hinzugefügte Artikel können nicht an Ihren Standort versendet werden. Löschen Sie sie, um die Zahlung abzuschließen, oder wenden Sie sich an das Geschäft."
+        },
+        "must_use_address_banner": {
+          "many": "Deine Bestellung kann nur an eine dieser Adressen versendet werden."
         }
       },
       "processing": {
