@@ -490,7 +490,87 @@
         "local_delivery": "Entrega local",
         "subscription_shipping": "Envio por subscrição",
         "shipping_method_one_time_purchase_group_title": "Compra única",
-        "shipping_method_subscription_group_title": "Subscrição"
+        "shipping_method_subscription_group_title": "Subscrição",
+        "subscription_delivery_description": {
+          "prepaid_delivery_frequency": {
+            "one": "para %{count} entrega",
+            "other": "para %{count} entregas",
+            "many": "para %{count} entregas"
+          },
+          "subscription_delivery_frequency": {
+            "day": {
+              "one": "cada dia",
+              "other": "cada %{count} dias",
+              "many": "cada %{count} dias"
+            },
+            "week": {
+              "one": "cada semana",
+              "other": "a cada %{count} semanas",
+              "many": "a cada %{count} semanas"
+            },
+            "month": {
+              "one": "cada mês",
+              "other": "a cada %{count} meses",
+              "many": "a cada %{count} meses"
+            },
+            "year": {
+              "one": "cada ano",
+              "other": "cada %{count} anos",
+              "many": "cada %{count} anos"
+            }
+          },
+          "multiple_subscriptions_shipping_price_label": "%{shipping_price} por entrega",
+          "prepaid_shipping_price_label": "%{shipping_price} por entrega x %{delivery_interval_count}",
+          "initial_order_discounted": "Custo do primeiro envio %{discounted_shipping_cost}, depois %{frequency_description}",
+          "prepaid_initial_order_discounted": "Custo do primeiro envio %{discounted_shipping_price} %{prepaid_delivery_frequency}",
+          "prepaid_initial_order_discounted_with_per_delivery_price": "Custo do primeiro envio %{discounted_shipping_price} %{prepaid_delivery_frequency} (%{discounted_cost_per_delivery})",
+          "prepaid_initial_order_discounted_with_renewal": "Custo do primeiro envio %{discounted_shipping_price} %{prepaid_delivery_frequency}, depois %{shipping_price} %{billing_cycle}",
+          "prepaid_initial_order_discounted_with_per_delivery_price_and_renewal": "Custo do primeiro envio %{discounted_shipping_price} %{prepaid_delivery_frequency} (%{discounted_cost_per_delivery}), depois %{shipping_price} %{billing_cycle}",
+          "shipping_price_included": "Incluído",
+          "recurring_order_shipping_price": "seguido de %{recurring_order_shipping_price}",
+          "first_order_shipping_price_included": "Primeiro pedido incluído, seguido de %{recurring_order_shipping_price}",
+          "first_order_different_shipping_price": "%{first_order_shipping_price} (%{per_delivery_price} por entrega), seguido de %{recurring_order_shipping_price}",
+          "first_n_order_free": {
+            "one": "Primeiro pedido grátis",
+            "other": "Primeiros %{count} pedidos grátis",
+            "many": "Primeiros %{count} pedidos grátis"
+          },
+          "free_for_first_n_order": {
+            "one": "Para a primeira encomenda",
+            "other": "Para as primeiras %{count} encomendas",
+            "many": "Para as primeiras %{count} encomendas"
+          },
+          "subscription_free_with_frequency_label": "Envio grátis %{delivery_frequency}",
+          "free_shipping_cycles": {
+            "one": "Envio grátis para %{count} entrega mais",
+            "other": "Envio grátis para mais %{count} entregas",
+            "many": "Envio grátis para mais %{count} entregas"
+          },
+          "free_shipping_cycles_delivery_not_included": {
+            "one": "Envio grátis para %{count} entrega",
+            "other": "Envio grátis para %{count} entregas",
+            "many": "Envio grátis para %{count} entregas"
+          },
+          "first_n_order_free_with_cycle": {
+            "one": "Envio grátis para %{count} entrega adicional e depois por %{recurring_order_shipping_price}",
+            "other": "Envio grátis para mais %{count} entregas e depois por %{recurring_order_shipping_price}",
+            "many": "Envio grátis para mais %{count} entregas e depois por %{recurring_order_shipping_price}"
+          },
+          "first_n_order_free_with_cycle_delivery_not_included": {
+            "one": "Envio grátis para %{count} entrega e depois por %{recurring_order_shipping_price}",
+            "other": "Envio grátis para %{count} entregas e depois por %{recurring_order_shipping_price}",
+            "many": "Envio grátis para %{count} entregas e depois por %{recurring_order_shipping_price}"
+          },
+          "max_cycles_base_shipping": {
+            "one": "%{count} entrega mais por %{shipping_price}",
+            "other": "%{count} entregas mais por %{shipping_price} cada uma",
+            "many": "%{count} entregas mais por %{shipping_price} cada uma"
+          },
+          "max_cycles_base_shipping_delivery_not_included": {
+            "one": "%{count} entrega por %{shipping_price}",
+            "other": "%{count} entregas mais por %{shipping_price} cada uma"
+          }
+        }
       },
       "payment": {
         "payment_method_incompatible_with_payment_terms": "A forma de pagamento não é compatível com as condições de pagamento.",
