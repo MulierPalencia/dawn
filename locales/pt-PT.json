@@ -4275,6 +4275,76 @@
           "show_less_orders_in_review": "Mostrar menos pedidos na revisão"
         }
       }
+    },
+    "errors": {
+      "load_paypal_error": {
+        "description": "Ocorreu um problema ao carregar o PayPal. Por favor, tente novamente."
+      },
+      "load_extension_error": {
+        "title": "Erro",
+        "description": "Actualize esta página ou tente novamente daqui a alguns minutos.",
+        "refresh_button": "Atualizar página"
+      },
+      "logout_everywhere": {
+        "description": "Ocorreu um erro durante o encerramento da sessão. Por favor, tente novamente."
+      },
+      "resend_link": {
+        "too_many_requests": "Demasiados pedidos. Tente novamente mais tarde.",
+        "generic": "Pedido falhado"
+      },
+      "profile_name_update_error": {
+        "description": "Houve um problema ao atualizar o teu nome. Tenta atualizar esta página ou verifica a tua ligação à internet."
+      },
+      "load_address_form_error": {
+        "title": "Não é possível carregar o formulário de endereço",
+        "description": "Não foi possível carregar o formulário de endereço.",
+        "refresh_button": "Atualizar página"
+      }
+    },
+    "payment_methods": {
+      "title": "Formas de pagamento",
+      "add_payment_method_button": "Agregar forma de pagamento",
+      "payment_details": {
+        "title": "Detalhes da forma de pagamento",
+        "payment_method_expiring_on": "Expira a {{expiryDate}}",
+        "preauthorized_payments": "Pagamentos pré-autorizados",
+        "close_payment_modal": "Fechar",
+        "close_payment_modal_accessibility_label": "Fechar modal de detalhes da forma de pagamento",
+        "payment_method_not_found_error": "Não foi encontrada a forma de pagamento",
+        "payment_details_loading": "A carregar detalhes da forma de pagamento",
+        "pre_authorized_payments": "Pagamentos pré-autorizados",
+        "total_amount_of_subscription_line_items_left": "e {{total}} mais",
+        "total_amount_of_subscription_line_items_left_accessibility_label": "Há um total de {{totalItems}} artigos. Estão a ser mostrados {{totalItemsToDisplay}}.",
+        "next_payment_due": "O próximo pagamento vence a {{dueDateInMonthDayYear}}",
+        "edit_payment_method_button": "Editar",
+        "edit_payment_method_button_accessibility_label": "Editar forma de pagamento que termina em {{lastDigits}}",
+        "credit_card_details_accessibility_label": "acabada em {{lastDigits}}",
+        "billing_title": "Morada de faturação",
+        "card_info_title": "Informação do cartão",
+        "payment_method_expired_on": "Expirou a {{expiryDate}}",
+        "loading_shop_pay": "A carregar Shop Pay",
+        "invalid_payment_method": "Forma de pagamento não válida",
+        "invalid_payment_method_message": "Use outro cartão de crédito para continuar a receber futuras encomendas.",
+        "replace_payment_method": "Substituir forma de pagamento",
+        "checkout_card_banner": "Esta forma de pagamento só pode ser usada para pagamentos pré-autorizados. Esta forma de pagamento só pode ser usada para pagamentos pré-autorizados. Não aparecerá na página de pagamento se tiveres iniciado sessão nesta loja. Não aparecerá na página de pagamento se tiveres iniciado sessão nesta loja.",
+        "default_checkbox": "Definir como predefinida",
+        "default_checkbox_accessibility_label": "Definir esta forma de pagamento como predefinida",
+        "replace_payment_method_button": "Substituir"
+      },
+      "delete_payment_method_button": "Eliminar",
+      "delete_payment_method_button_accessibility_label": "Eliminar {{paymentMethodName}}",
+      "back_button": "Atrás",
+      "back_button_accessibility_label": "Voltar a {{paymentMethodStepTitle}}",
+      "generic_card": "Cartão",
+      "payment_delete": {
+        "title": "Eliminar forma de pagamento",
+        "description_without_replacement": "Esta forma de pagamento já não estará disponível para futuras compras.",
+        "description_with_replacement": "Eliminar esta forma de pagamento afetará os pagamentos pré-autorizados. Pode substituí-la por outra forma de pagamento para continuar a receber as próximas encomendas.",
+        "payment_method_selector_placeholder": "Seleciona uma forma de pagamento de substituição (opcional)",
+        "replace_method_with_new_method_description": "O teu {{currentPaymentMethodName}} será eliminado e substituído pelo teu {{newPaymentMethodName}}.",
+        "error_when_deleting": "Desculpa, mas ocorreu um erro e não foi possível eliminar esta forma de pagamento. Tenta novamente mais tarde ou atualiza a página.",
+        "delete_and_replace_button": "Eliminar e substituir"
+      }
     }
   }
 }
