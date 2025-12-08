@@ -2800,7 +2800,79 @@
             "permission_denied": "Não foi possível obter a tua localização. Tenta novamente."
           }
         },
-        "no_business_hours": "Não há horário comercial disponível."
+        "no_business_hours": "Não há horário comercial disponível.",
+        "open_twenty_four_hours": "Aberto 24 horas, 7 dias por semana",
+        "address_label": "Direção",
+        "pickup_unavailable_banner_title": {
+          "one": "Não há pontos de recolha disponíveis para o seu artigo",
+          "other": "Não há pontos de recolha disponíveis para os teus artigos",
+          "many": "Não há pontos de recolha disponíveis para os teus artigos"
+        }
+      },
+      "error_page": {
+        "terminal": {
+          "title": "Houve um problema com o nosso ecrã de pagamento",
+          "message": "Actualize esta página ou tente novamente daqui a alguns minutos",
+          "action": {
+            "cta": "Actualizar a página"
+          },
+          "request_id": "Identificação do pedido: {{requestId}}"
+        },
+        "embed_errors": {
+          "storefront_password_required": "Esta loja está protegida por palavra-passe",
+          "customer_account_required": "É necessária uma conta de cliente para completar o pagamento",
+          "cart_completed": "Este pagamento já foi concluído",
+          "invalid_cart": "O carrinho já não é válido",
+          "not_authorized": "A autenticação do pagamento falhou. Verifica as tuas credenciais da aplicação",
+          "killswitch_enabled": "O pagamento não está disponível temporariamente",
+          "policy_violation": "Não foi possível completar o pagamento devido a restrições na configuração da política",
+          "unrecoverable_failure": "Não foi possível carregar o pagamento. Tente novamente"
+        }
+      },
+      "notice_banner": {
+        "return_to_cart_link_text": "Voltar ao carrinho",
+        "return_to_cart_to_update_quantities": "%{return_to_cart_link_text} para modificar as quantidades",
+        "subscription_changed": "Uma das suas subscrições foi alterada.",
+        "company_location_changed": "O carrinho foi atualizado. Verifique a sua encomenda antes de a finalizar.",
+        "violations_title": "Falta {{violation}} ou tem um valor inválido",
+        "individual_violations_title": {
+          "DeliveryViolations": "Morada de envio",
+          "PaymentViolations": "Morada de faturação",
+          "OtherViolations": "Informação sobre encomendas",
+          "UnhandledViolations": "Informação da encomenda"
+        },
+        "all_violations_content": "Ligue para nós através do {{emailLink}} para atualizar esta informação e completar a encomenda:",
+        "all_violations_email_link": "envie-nos um e-mail",
+        "editable_shipping_address_violations_message_title": "Agrega esta informação para completar a tua encomenda:",
+        "editable_shipping_address_violations_message_footer": "Para modificar permanentemente o endereço para esta sucursal, {{emailLink}}.",
+        "editable_shipping_address_violations_email_link": "contacta connosco",
+        "company_location_changed_product_removed": "O carrinho foi modificado porque alguns produtos não estão disponíveis nesta sucursal. Verifique a encomenda antes de a enviar.",
+        "shipping_address_incomplete_title": "O endereço de envio está incompleto",
+        "calculating_shipping": "Ainda estamos a calcular o envio. Tente novamente daqui a alguns segundos. Não foi cobrado.",
+        "calculating_taxes": "Os impostos ainda estão a ser calculados. Tente novamente daqui a alguns segundos. Não foi cobrado nenhum valor.",
+        "generic_processing_error": {
+          "title": "Ocorreu um problema ao processar a encomenda",
+          "body": "Não foi cobrado. Tente novamente ou utilize outro método de pagamento."
+        },
+        "contact_information": {
+          "title": "A informação de contacto não é válida",
+          "header": "Para atualizar a tua informação, {{emailLink}}.",
+          "email_link": "contacta connosco"
+        },
+        "payment_method_not_available_with_payment_terms": "A forma de pagamento selecionada já não está disponível porque o pagamento deste pedido é agora a {{paymentTerms}} dias",
+        "payment_method_not_available_with_fulfillment_terms": "A forma de pagamento selecionada já não está disponível porque o pagamento deste pedido agora vence na preparação do pedido",
+        "payment_method_not_available_with_fixed_terms": "A forma de pagamento selecionada já não está disponível porque o pagamento deste pedido vence mais tarde",
+        "payment_method_not_available_with_review_requirement": "A forma de pagamento que selecionaste já não está disponível porque o pagamento vencerá assim que a tua encomenda for confirmada."
+      },
+      "review_address_modal": {
+        "title": "Revisar morada",
+        "subtitle": {
+          "one": "Este pedido será enviado para o endereço fornecido por {{merchant}}.",
+          "other": "Este pedido será enviado para um endereço fornecido por {{merchant}}. Seleciona um endereço de envio.",
+          "many": "Este pedido será enviado para um endereço fornecido por {{merchant}}. Seleciona um endereço de envio."
+        },
+        "subtitle_no_match": "Este endereço não corresponde a nenhum dos teus endereços guardados.",
+        "subtitle_must_use": "O teu pedido será enviado para este endereço."
       }
     },
     "sentence": {
