@@ -1008,7 +1008,67 @@
         "shop_pay_ideal_unavailable_error": "A opção iDEAL não está disponível para este pedido. Escolha outra forma de pagamento.",
         "paypal_disconnect": "Desligar",
         "paypal_wallet_label": "Carteira PayPal",
-        "payment_method_update_failed": "Erro ao tentar atualizar a forma de pagamento."
+        "payment_method_update_failed": "Erro ao tentar atualizar a forma de pagamento.",
+        "alternative_payment_currency_total_manual_payment_notice": "Nota: O total após a conversão é %{amount_due}.",
+        "gift_cards_unavailable": "O seu cartão de oferta já não pode ser aplicado a esta encomenda, por isso foi removido",
+        "network_card_payment_options": "Escolha uma rede de cartões",
+        "payment_flexibility_terms_id_mismatch": "Erro de correspondência na identificação dos termos de flexibilidade de pagamentos",
+        "offsite_gateway_review_page_redirect_hint": "Depois de reveres a encomenda, serás redirecionado para %{gateway_label} para completar a tua compra de forma segura.",
+        "przelewy24_label": "Przelewy24",
+        "twint_label": "TWINT",
+        "gift_card_checkbox_label": "Aplicar cartão de oferta",
+        "blik_label": "Blik",
+        "simulated_express_checkout": "As carteiras não estão disponíveis na pré-visualização do editor devido à tua região ou navegador",
+        "vipps_label": "Vipps",
+        "grabpay_label": "GrabPay",
+        "kcp_creditcard_label": "Cartão de crédito KCP",
+        "offsite_gateway_redirect_hint_no_button_label": "Após continuar, serás redirecionado para %{gateway_label} para completar a tua compra de forma segura.",
+        "swish_label": "Swish",
+        "network_card_persistence_description": "A rede selecionada será guardada com a tua forma de pagamento para futuras transações.",
+        "usdc_label": "USDC",
+        "payment_option": {
+          "accessibility_label": "Escolha uma opção de pagamento"
+        },
+        "billing_address_rollup_accessibility_label": "Opções de morada de faturação",
+        "payment_method_rollup_accessibility_label": "Opções de forma de pagamento",
+        "crypto_modal": {
+          "header": "Paga a %{shop_name} %{total_price} USDC",
+          "error": {
+            "refresh": "Atualizar",
+            "close": "fechar",
+            "sandbox_error": "Algo correu mal",
+            "web_component_error": "Ocorreu um problema ao carregar esta página"
+          }
+        },
+        "bank_account_type": {
+          "checking": "Corrente",
+          "savings": "Poupança"
+        },
+        "bank_account_choose": "Escolha uma conta para completar a sua compra de forma segura",
+        "bank_account_connect_another": "Ligar outra conta bancária",
+        "bank_account_connect": "Conecta uma conta bancária",
+        "crypto_payment_method": {
+          "description": "Conecta a tua carteira digital de forma segura à rede Base",
+          "tooltip": "O saldo da tua carteira digital e o teu endereço não serão partilhados e só pode ser deduzido o montante solicitado"
+        },
+        "bank_account_missing": "Deve ligar uma conta bancária",
+        "usdc_cashback_title": "Reembolso de 1%",
+        "usdc_cashback_additional_info": "Obtém um reembolso de 1% em USDC diretamente na tua carteira digital.",
+        "usdc_cashback_terms": "Aplicam-se termos",
+        "markets_pro_disclaimer_label_express_checkout": "Ao efetuar a compra, aceitas os %{markets_pro_terms} e a %{privacy_policy} da Global-e, o nosso fornecedor de serviços internacional",
+        "markets_pro_disclaimer_express_terms_and_conditions": "Termos",
+        "markets_pro_disclaimer_express_privacy_policy": "Política de privacidade",
+        "discount_show_more_warnings": {
+          "one": "Mostrar mais %{count}",
+          "other": "Mostrar mais %{count}",
+          "many": "Mostrar mais %{count}"
+        },
+        "separate_payments_label": "Os seus artigos são de mais de uma loja. Será cobrado em %{separate_payments_link}.",
+        "separate_payments_text": "pagamentos separados",
+        "payments": "Pagamentos",
+        "business_customer_with_bank_account_vaulting_payment_label": "Guarda esta forma de pagamento ao finalizar o processo de pagamento e autoriza a %{company} a utilizá-la para futuras compras nesta loja até que a canceles. Todos os contactos atribuídos a esta loja podem usar a forma de pagamento.",
+        "new_bank_account_disclaimer": "Ao completar a tua encomenda, autorizas %{shop_name} a debitar da seguinte conta através da ACH pelo montante e na data indicados.",
+        "bank_account_disclaimer": "Os pagamentos ACH (Câmara de Compensação Automatizada) podem demorar até quatro dias úteis a serem processados."
       },
       "review": {
         "blocks": {
