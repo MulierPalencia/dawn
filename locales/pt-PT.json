@@ -3385,8 +3385,66 @@
           "error": "Erro"
         },
         "cancel_reason": {
-          "declined": "Pagamento recusado"
-        }
+          "declined": "Pagamento recusado",
+          "inventory": "Artigos indisponíveis",
+          "fraud": "Pedido fraudulento",
+          "customer": "O cliente alterou/cancelou o pedido",
+          "other": "Outro",
+          "many": "Outro",
+          "staff": "Erro de um empregado"
+        },
+        "cash_on_delivery": "Pagamento contra entrega"
+      },
+      "cart": {
+        "only_n_items_available": "Só podes adicionar %{count} %{name} ao carrinho.",
+        "too_many_items_in_cart": "Não podes adicionar mais %{name} ao carrinho.",
+        "all_items_in_cart": "O teu carrinho contém: %{count} %{name}.",
+        "empty_update": "Não é possível atualizar um carrinho vazio",
+        "missing_parameters": "Identificação ou parâmetro linear inválidos",
+        "generic_error": "Erro no carrinho",
+        "too_many_line_items_error": "O carrinho não pode conter mais de %{max} artigos.",
+        "link_expired": "O link expirou",
+        "link_no_longer_exists": "O link já não existe.",
+        "stock_problems_html": "Um ou mais artigos já não estão disponíveis. Atualizámos o teu <a href='%{link}'>carrinho</a>.",
+        "changed": "O carrinho foi modificado",
+        "items_changed": "Foi alterado um ou mais artigos.",
+        "product_sold_out": "O artigo '%{name}' já está esgotado.",
+        "variant_not_found": "Variante não encontrada",
+        "variant_requires_selling_plan": "A variante só pode ser comprada com um plano de vendas.",
+        "shipping_address_not_required": "Este carrinho não requer envio",
+        "shipping_address_invalid": "Houve um problema ao calcular as suas tarifas de envio. Continue para o pagamento para selecionar uma tarifa de envio antes de concluir a sua encomenda.",
+        "selling_plan_not_applicable": "Não é possível aplicar o plano de venda à variante",
+        "selling_plan_not_available_for_company_locations": "Só são aceites compras únicas para encomendas B2B.",
+        "digital_product_not_available_for_company_locations": "Este artigo não pode ser adicionado a uma encomenda B2B",
+        "product_not_available": "O produto não está disponível",
+        "less_than_minimum": "Este artigo tem um mínimo de %{min}.",
+        "more_than_maximum": "Este artigo tem um máximo de %{max}.",
+        "not_respect_step": "Só podes adicionar este artigo em incrementos de %{step}.",
+        "bundle_requires_components": "O produto %{name} do pacote não pode ser adicionado ao carrinho.",
+        "gift_card_with_components_not_supported": "O produto %{name} do pacote não pode ser adicionado ao carrinho.",
+        "view_lines_limit_reached": "Só é permitido um máximo de %{limit} linhas",
+        "merchandise_line_transformers": {
+          "run_error": "Ocorreu um erro no teu carrinho."
+        },
+        "gift_card_price_must_be_greater_than_zero": "O produto %{name} do pacote não pode ser adicionado ao carrinho.",
+        "cart_too_large": "O carrinho é demasiado grande.",
+        "gift_card_recipient_validation_error": "O cartão de oferta especificado não é válido",
+        "invalid_input": "O parâmetro %{parameter} não é válido.",
+        "buyer_cannot_purchase_for_company_locations": "Não é possível comprar para esta sucursal",
+        "only_one_added_to_cart": "Devido à disponibilidade, apenas foi adicionado um artigo ao carrinho.",
+        "only_n_added_to_cart": "Devido à disponibilidade, foram adicionados apenas %{quantity} artigos ao carrinho.",
+        "maximum_available_quantity_reached": "O teu carrinho já tem a quantidade máxima deste artigo.",
+        "cart_attributes_error": "Os atributos do carrinho incluem dados inválidos.",
+        "merchandise_not_applicable": "Não é possível comprar o artigo com esta configuração."
+      },
+      "storefront": {
+        "invalid_password": "Palavra-passe incorreta, por favor tente novamente."
+      },
+      "tags": {
+        "add_articles": "Refinar a pesquisa aos artigos que também têm a etiqueta %{tag}",
+        "add_products": "Refinar seleção aos produtos que correspondem à etiqueta %{tag}",
+        "remove_articles": "Ampliar pesquisa aos artigos que não estão etiquetados com %{tag}",
+        "remove_products": "Eliminar etiqueta %{tag}"
       }
     }
   },
