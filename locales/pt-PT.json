@@ -1082,7 +1082,8 @@
       "review": {
         "blocks": {
           "company_location": "Localização da empresa"
-        }
+        },
+        "title": "Revisar"
       },
       "memberships": {
         "delivery_promise_unfulfillable": "O endereço não é compatível com a associação atual."
@@ -2311,7 +2312,124 @@
         "failed_pending_payment_page_title": "Há um problema com o teu pagamento",
         "thank_you_title_payments_app_pending_default": "O pagamento está a ser processado.",
         "thank_you_title_payments_app_pending_buyer_action_required": "O teu pedido foi recebido",
-        "thank_you_title_payments_app_failed_pending_payment": "O seu pagamento não pôde ser processado"
+        "thank_you_title_payments_app_failed_pending_payment": "O seu pagamento não pôde ser processado",
+        "thank_you_payments_app_failed_pending_payment": "Não foi cobrado o pedido. Volte ao carrinho para rever o pedido e pagar novamente.",
+        "order_status_payments_app_pending_payment_description_default_with_email_and_phone": "Em breve receberás um e-mail de confirmação. Acompanha a tua encomenda usando a aplicação Shop.",
+        "order_status_payments_app_pending_payment_description_default_with_email": "Em breve receberás um e-mail de confirmação. Acompanha a tua encomenda usando a aplicação Shop.",
+        "order_status_payments_app_pending_payment_description_default_with_phone": "Em breve receberás um SMS de confirmação. Acompanha a tua encomenda usando a aplicação Shop.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone": "Após completar o pagamento, receberás um e-mail de confirmação. Acompanha a tua encomenda usando a aplicação Shop.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_email": "Após completar o pagamento, receberás um e-mail de confirmação. Acompanha a tua encomenda usando a aplicação Shop.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_phone": "Após completar o pagamento, receberás um SMS de confirmação. Acompanha a tua encomenda usando a aplicação Shop.",
+        "order_status_payments_app_failed_pending_payment": "Não foi cobrado o pedido. Volte ao carrinho para rever o pedido e pagar novamente.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_email_pick_up": "Após completar o pagamento, receberás um e-mail de confirmação. Acompanha a tua encomenda usando a aplicação Shop.",
+        "thank_you_confirmed_order_with_missing_payment": "Contacte-nos por e-mail ou por telefone para receber uma confirmação da encomenda.",
+        "thank_you_confirmed_order_with_missing_pick_up": "Contacte-nos por e-mail ou por telefone para receber uma confirmação da encomenda.",
+        "thank_you_confirmed_order_with_draft_payment": "Entraremos em contacto contigo se precisarmos de mais informações ou assim que a encomenda for confirmada.",
+        "thank_you_confirmed_order_with_draft_pick_up": "Entraremos em contacto contigo se precisarmos de mais informações ou assim que a encomenda for confirmada.",
+        "thank_you_payments_app_failed_pending_payment_payment": "Não foi cobrado o pedido. Volte ao carrinho para rever o pedido e pagar novamente.",
+        "thank_you_payments_app_failed_pending_payment_pick_up": "Não foi cobrado o pedido. Volte ao carrinho para rever o pedido e pagar novamente.",
+        "order_status_payments_app_pending_payment_description_default_with_missing": "Contacte-nos por e-mail ou por telefone para receber uma confirmação da encomenda.",
+        "order_status_payments_app_pending_payment_description_default_with_missing_payment": "Contacte-nos por e-mail ou por telefone para receber uma confirmação da encomenda.",
+        "order_status_payments_app_pending_payment_description_default_with_missing_pick_up": "Contacte-nos por e-mail ou por telefone para receber uma confirmação da encomenda.",
+        "order_status_payments_app_pending_payment_description_default_with_email_and_phone_payment": "Em breve receberás um e-mail de confirmação. Acompanha a tua encomenda usando a aplicação Shop.",
+        "order_status_payments_app_pending_payment_description_default_with_email_and_phone_pick_up": "Em breve receberás um e-mail de confirmação. Acompanha a tua encomenda usando a aplicação Shop.",
+        "order_status_payments_app_pending_payment_description_default_with_email_payment": "Em breve receberás um e-mail de confirmação. Acompanha a tua encomenda usando a aplicação Shop.",
+        "order_status_payments_app_pending_payment_description_default_with_email_pick_up": "Em breve receberás um e-mail de confirmação. Acompanha a tua encomenda usando a aplicação Shop.",
+        "order_status_payments_app_pending_payment_description_default_with_phone_payment": "Em breve receberás um SMS de confirmação. Acompanha a tua encomenda usando a aplicação Shop.",
+        "order_status_payments_app_pending_payment_description_default_with_phone_pick_up": "Em breve receberás um SMS de confirmação. Acompanha a tua encomenda usando a aplicação Shop.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_missing": "Contacte-nos por e-mail ou por telefone para receber uma confirmação da encomenda.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_missing_payment": "Contacte-nos por e-mail ou por telefone para receber uma confirmação da encomenda.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_missing_pick_up": "Contacte-nos por e-mail ou por telefone para receber uma confirmação da encomenda.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone_payment": "Após completar o pagamento, receberás um e-mail de confirmação. Acompanha a tua encomenda usando a aplicação Shop.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone_pick_up": "Após completar o pagamento, receberás um e-mail de confirmação. Acompanha a tua encomenda usando a aplicação Shop.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_email_payment": "Após completar o pagamento, receberás um e-mail de confirmação. Acompanha a tua encomenda usando a aplicação Shop.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_phone_payment": "Após completar o pagamento, receberás um SMS de confirmação. Acompanha a tua encomenda usando a aplicação Shop.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_phone_pick_up": "Após completar o pagamento, receberás um SMS de confirmação. Acompanha a tua encomenda usando a aplicação Shop.",
+        "order_status_payments_app_failed_pending_payment_payment": "Não foi cobrado o pedido. Volte ao carrinho para rever o pedido e pagar novamente.",
+        "order_status_payments_app_failed_pending_payment_pick_up": "Não foi cobrado o pedido. Volte ao carrinho para rever o pedido e pagar novamente.",
+        "order_status_confirmed_order_local_pick_up": "Estamos a preparar a tua encomenda.",
+        "order_status_confirmed_order_local_payment": "Estamos a preparar a tua encomenda.",
+        "thank_you_payments_app_pending_payment_description_default_with_missing": "Contacte-nos por e-mail ou por telefone para receber uma confirmação da encomenda.",
+        "thank_you_payments_app_pending_payment_description_default_with_missing_payment": "Contacte-nos por e-mail ou por telefone para receber uma confirmação da encomenda.",
+        "thank_you_payments_app_pending_payment_description_default_with_missing_pick_up": "Contacte-nos por e-mail ou por telefone para receber uma confirmação da encomenda.",
+        "thank_you_payments_app_pending_payment_description_default_with_email_and_phone": "Receberás em breve um e-mail de confirmação com o número da encomenda.",
+        "thank_you_payments_app_pending_payment_description_default_with_email_and_phone_payment": "Receberás em breve um e-mail de confirmação com o número da encomenda.",
+        "thank_you_payments_app_pending_payment_description_default_with_email_and_phone_pick_up": "Receberás em breve um e-mail de confirmação com o número da encomenda.",
+        "thank_you_payments_app_pending_payment_description_default_with_email": "Receberás em breve um e-mail de confirmação com o número da encomenda.",
+        "thank_you_payments_app_pending_payment_description_default_with_email_payment": "Receberás em breve um e-mail de confirmação com o número da encomenda.",
+        "thank_you_payments_app_pending_payment_description_default_with_email_pick_up": "Receberás em breve um e-mail de confirmação com o número da encomenda.",
+        "thank_you_payments_app_pending_payment_description_default_with_phone": "Receberás em breve uma mensagem de texto de confirmação com o teu número de encomenda.",
+        "thank_you_payments_app_pending_payment_description_default_with_phone_payment": "Receberás em breve uma mensagem de texto de confirmação com o teu número de encomenda.",
+        "thank_you_payments_app_pending_payment_description_default_with_phone_pick_up": "Receberás em breve uma mensagem de texto de confirmação com o teu número de encomenda.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_missing": "Contacte-nos por e-mail ou por telefone para receber uma confirmação da encomenda.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_missing_payment": "Contacte-nos por e-mail ou por telefone para receber uma confirmação da encomenda.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_missing_pick_up": "Contacte-nos por e-mail ou por telefone para receber uma confirmação da encomenda.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone": "Após completar o pagamento, receberás um e-mail de confirmação com o teu número de pedido.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone_payment": "Após completar o pagamento, receberás um e-mail de confirmação com o teu número de pedido.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone_pick_up": "Após completar o pagamento, receberás um e-mail de confirmação com o teu número de pedido.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email": "Após completar o pagamento, receberás um e-mail de confirmação com o teu número de pedido.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_payment": "Após completar o pagamento, receberás um e-mail de confirmação com o teu número de pedido.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_pick_up": "Após completar o pagamento, receberás um e-mail de confirmação com o teu número de pedido.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_phone": "Após completar o pagamento, receberás uma mensagem de texto de confirmação com o teu número de pedido.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_phone_payment": "Após completar o pagamento, receberás uma mensagem de texto de confirmação com o teu número de pedido.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_phone_pick_up": "Após completar o pagamento, receberás uma mensagem de texto de confirmação com o teu número de pedido.",
+        "vat_invoices": {
+          "title": "Facturas com IVA"
+        },
+        "thank_you_payments_app_pending_payment_description_provider_action_required_default": "O pagamento está a ser processado. Receberás um e-mail quando o pagamento for confirmado.",
+        "verify_shop_account_title": "Verifica a tua conta de Shop",
+        "verify_shop_account_message": "As suas informações foram guardadas na Shop. Verifique a sua conta para a utilizar automaticamente em milhões de lojas.",
+        "verify_shop_account_cta": "Verificar conta",
+        "verify_shop_account_confirmation": "A informação de pagamento foi guardada",
+        "company_location_section_title": "Empresa e sucursal",
+        "announcement": {
+          "close": "Fechar",
+          "expand": "Expandir",
+          "collapse": "Contrair"
+        },
+        "confirmed_items_count": "%{confirmed_count} de %{total_count} artigos estão confirmados",
+        "thank_you_confirmed_orders_with_email": "Pronto receberás e-mails de confirmação separados com os teus números de encomenda",
+        "thank_you_confirmed_orders_with_phone": "Em breve receberás mensagens de texto de confirmação separadas com os teus números de encomenda",
+        "thank_you_confirmed_orders_with_email_and_phone": "Pronto receberás e-mails de confirmação separados com os teus números de encomenda",
+        "track_your_order_link_text": "Acompanhar a encomenda",
+        "checkout_on_remote_shop_link_text": "Pagar em %{remoteShopName}",
+        "confirmed_orders_title": "Os seus pedidos estão confirmados",
+        "thank_you_unconfirmed_items_heading": {
+          "one": "1 artigo não está confirmado",
+          "other": "Alguns artigos não estão confirmados",
+          "many": "Alguns artigos não estão confirmados"
+        },
+        "thank_you_unconfirmed_items_description": {
+          "one": "O artigo não foi cobrado a si",
+          "other": "Os artigos não te foram cobrados",
+          "many": "Os artigos não te foram cobrados"
+        },
+        "thank_you_item_label": {
+          "one": "%{count} artigo",
+          "other": "%{count} artigos",
+          "many": "%{count} artigos"
+        },
+        "payment_method_not_charged": "Não cobrado",
+        "thank_you_from_shop": "De %{shop_name}",
+        "items_fulfilled_by_store": {
+          "one": "Os artigos que compraste provêm de %{remote_shop_name}.",
+          "other": "Os artigos que compraste virão de outras lojas.",
+          "many": "Os artigos que compraste virão de outras lojas."
+        },
+        "thank_you_from_other_store": "De outra loja",
+        "checkout_on_another_store": "Pagar noutra loja",
+        "thank_you_confirmed_with_email_description": {
+          "single_store": "Em breve receberás um e-mail de confirmação",
+          "multi_store": "Em breve receberás e-mails de confirmação de cada loja separadamente"
+        },
+        "thank_you_confirmed_with_phone_description": {
+          "single_store": "Em breve receberás uma mensagem de texto de confirmação",
+          "multi_store": "Em breve receberás mensagens de texto de confirmação de cada loja separadamente"
+        },
+        "thank_you_confirmed_with_email_and_phone_description": {
+          "single_store": "Em breve receberás um e-mail de confirmação",
+          "multi_store": "Em breve receberás e-mails de confirmação de cada loja separadamente"
+        }
       }
     },
     "sentence": {
