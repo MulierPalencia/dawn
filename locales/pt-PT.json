@@ -4332,7 +4332,85 @@
         "other": "Grupo de {{number}} marcadores",
         "many": "Grupo de {{number}} marcadores"
       },
-      "expandSheet": "Expandir"
+      "expandSheet": "Expandir",
+      "qrCode": "Código QR",
+      "addFile": "Agregar arquivo",
+      "dropzoneInvalidFileType": "O tipo de ficheiro não é compatível.",
+      "dropzoneDraggedOver": "Solte o ficheiro para o carregar",
+      "clipboardCopied": "Copiado",
+      "clipboardFailedToCopy": "Erro ao copiar",
+      "clear": "Apagar"
+    },
+    "profile_preview_bar": {
+      "customize_button": "Personalizar",
+      "hide_bar": "Ocultar barra",
+      "navigate_to_admin": "Navegar até ao painel de controlo",
+      "previewing": "Pré-visualização de:",
+      "saved_at": "Guardado em {{date}} às {{time}}",
+      "viewing": "Estás a ver:",
+      "not_available": "Dados do perfil não disponíveis",
+      "close_preview": "Fechar pré-visualização",
+      "actions_button": "Ações"
+    },
+    "settings": {
+      "loading_accessibility_message": "A carregar página de configuração",
+      "title": "Configuração",
+      "log_out_everywhere": {
+        "title": "Fechar todas as sessões",
+        "description": "Se perdeu um dispositivo ou tem preocupações relacionadas com a segurança, encerre todas as sessões para garantir a segurança da sua conta.",
+        "button": "Fechar todas as sessões",
+        "warning_message": "Também será encerrada a tua sessão neste dispositivo."
+      }
+    },
+    "date": {
+      "humanize": {
+        "lessThanOneYearAgo": "{{date}} às {{time}}",
+        "lessThanOneMinuteAgo": "Agora",
+        "lessThanOneWeekAgo": "{{weekday}} às {{time}}",
+        "yesterday": "Ontem às {{time}}",
+        "today": "Hoje às {{time}}",
+        "tomorrow": "Amanhã às {{time}}",
+        "lessThanOneWeekAway": "{{weekday}} às {{time}}",
+        "lessThanOneYearAway": "{{date}} às {{time}}",
+        "lessThanOneHourAgo": {
+          "one": "Há {{count}} minuto",
+          "other": "Há {{count}} minutos",
+          "many": "Há {{count}} minutos"
+        }
+      }
+    },
+    "active_inspector": {
+      "extension": {
+        "select": "Selecciona a extensão chamada \"{{extensionName}}\"",
+        "unselect": "Remove a seleção da extensão chamada \"{{extensionName}}\"",
+        "move_down": "Move a extensão para a próxima posição",
+        "move_up": "Move a extensão para a posição anterior",
+        "remove": "Elimina a extensão",
+        "move_down_tooltip": "Mover para a posição seguinte",
+        "move_up_tooltip": "Mover para a posição anterior",
+        "remove_tooltip": "Eliminar"
+      }
+    },
+    "editor": {
+      "link_new_tab_confirmation": "Este link não pode ser aberto dentro do editor. Será aberto numa nova janela ({{resolved_to_link}}). Clique em Aceitar para continuar."
+    },
+    "throttle": {
+      "too_many_attempts": {
+        "message": "Demasiadas tentativas",
+        "description": "Tente novamente daqui a alguns minutos"
+      }
+    },
+    "shop_ads": {
+      "title": "Ofertas exclusivas da Shop",
+      "subtitle": "Disponível por tempo limitado",
+      "button": "Explora na Shop",
+      "previous_button": "Anterior",
+      "next_button": "Seguinte"
+    },
+    "knowledge_base": {
+      "self_serve_returns": {
+        "enabled": "Os clientes podem solicitar e gerir as devoluções diretamente."
+      }
     }
   }
 }
