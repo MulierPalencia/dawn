@@ -1099,7 +1099,67 @@
         "calculating_shipping": "A calcular…",
         "estimated_taxes_label": "Impostos estimados",
         "information_estimated_taxes_label": "Impostos (estimativa)",
-        "gift_card_ending": "Cartão de presente que termina em %{last_characters}"
+        "gift_card_ending": "Cartão de presente que termina em %{last_characters}",
+        "estimated_tax_label": "Imposto estimado",
+        "multiple_shipping_lines_label": "Total de envio",
+        "applied_free_shipping_discount_label": "Aplicado",
+        "original_price": "Preço original",
+        "sale_price": "Preço promocional",
+        "recurring_subtotal_label": "Subtotal recorrente",
+        "recurring_total_label": "Total recorrente",
+        "recurring_total_tooltip": "Não inclui envio, impostos, taxas alfandegárias nem descontos aplicáveis.",
+        "gift_card_subscriptions_notice": "Os cartões presente só serão aplicados ao teu primeiro pagamento",
+        "confirmation_number_label": "Confirmação N°%{confirmation_number}",
+        "estimated_taxes_finalization_tooltip_content": "O valor exato dos impostos e o total definitivo serão confirmados por correio eletrónico ou mensagem de texto após a realização da encomenda.",
+        "deferred_payment_info": {
+          "title": "O pagamento de %{amount_due} vence a %{due_at}",
+          "description_html": "Se tiver alguma pergunta sobre a sua encomenda, %{contact_us}.",
+          "paid_today": "Total pago hoje",
+          "due_on_fulfillment_title": "O pagamento de %{amount_due} deve ser concluído ao preparar a encomenda.",
+          "due_on_receipt_title": "O total a pagar após a receção é de %{amount_due}",
+          "paid_today_next": "Pago hoje"
+        },
+        "percent_off_shipping": "%{percent} % de desconto no envio",
+        "amount_off_shipping": "%{amount} de desconto no envio",
+        "payment_terms_totals": {
+          "due_today": "Total a pagar hoje",
+          "due_later": "Total a pagar em %{due_at}",
+          "due_later_checkout_to_draft": "Total a pagar mais tarde",
+          "due_on_fulfillment": "Total a pagar ao preparar a encomenda",
+          "due_on_receipt": "Pagamento total após a receção",
+          "total_paid": "Total pago",
+          "due_today_next": "Vence hoje",
+          "due_on_fulfillment_next": "A pagar na preparação da encomenda"
+        },
+        "higher_value_discount_applied": "<strong style=\"text-transform:uppercase\">%{code}</strong> não pôde ser usado com os descontos existentes.",
+        "maximum_discount_code_limit_reached": "Alcançaste o número máximo de códigos de desconto. Remove um código existente para poderes usar <strong style=\"text-transform:uppercase\">%{code}</strong>.",
+        "order_total_label": "Total da encomenda",
+        "discount_code_application_failed": "<strong style=\"text-transform:uppercase\">%{code}</strong> não funciona neste momento. Contacte-nos para obter ajuda.",
+        "due_on_fulfillment": "Pagável ao preparar a encomenda",
+        "subscriptions": "Assinaturas",
+        "duties_label": "Taxas alfandegárias",
+        "duties_and_taxes_label": "Direitos aduaneiros e impostos",
+        "error_duties_tooltip": "Este pedido é enviado de outro país, pelo que podem ser cobradas taxas e impostos no momento da entrega.",
+        "may_be_charged_on_delivery": "Pode pagar na entrega",
+        "total_updated_label_with_price": "Preço total atualizado: %{totalPrice}",
+        "recurring_payments": "Pagamentos recorrentes",
+        "recurring_total_multiple_label": "Este pedido tem um encargo recorrente para vários artigos.",
+        "deferred_total_due_date_label": "Total a pagar em {{date}}",
+        "full_price": "Preço regular: %{price}",
+        "custom_discount": "Desconto personalizado",
+        "expand_component_information": {
+          "one": "Mostrar %{count} artigo",
+          "other": "Mostrar %{count} artigos",
+          "many": "Mostrar %{count} artigos"
+        },
+        "collapse_component_information": {
+          "one": "Ocultar %{count} artigo",
+          "other": "Ocultar %{count} artigos",
+          "many": "Ocultar %{count} artigos"
+        },
+        "discount_discovery": {
+          "add_code": "Aplicar desconto"
+        }
       }
     },
     "sentence": {
