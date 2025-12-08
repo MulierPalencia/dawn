@@ -939,8 +939,76 @@
         "order_edit_banner_multiple_items_returned": "Foi devolvido {{amount}}.",
         "shop_pay_installments_label": "Cuotas do Shop Pay",
         "add_credit_card_modal": {
-          "title": "Agregar cartão"
-        }
+          "title": "Agregar cartão",
+          "cancel": "Cancelar",
+          "save": "Guardar"
+        },
+        "delete_credit_card_modal": {
+          "title": "Eliminar cartão",
+          "confirmation": "Confirmas que desejas eliminar a {{brandName}} que termina em {{lastDigits}}?",
+          "cancel": "Cancelar",
+          "delete": "Eliminar"
+        },
+        "order_edit_banner_items_added": {
+          "one": "Adicionado",
+          "other": "Foi adicionado %{count}.",
+          "many": "Foi adicionado %{count}."
+        },
+        "order_edit_banner_items_removed": {
+          "in_full": "Eliminado",
+          "with_quantities": "Foram eliminados {{delta}} de {{quantity}}."
+        },
+        "order_edit_banner_items_returned": {
+          "in_full": "Foram devolvidos {{quantity}}",
+          "with_quantities": "Foram devolvidos {{delta}} de {{quantity}}."
+        },
+        "saved_credit_card_actions": {
+          "edit": "Editar",
+          "delete": "Eliminar"
+        },
+        "edit_credit_card_modal": {
+          "title": "Editar cartão",
+          "done": "Pronto",
+          "cancel": "Cancelar",
+          "description": "Só podes modificar o endereço de faturação do teu cartão.",
+          "fields": {
+            "default": "Definir como predefinido",
+            "card_number": "Número de cartão",
+            "expiry": "Data de validade",
+            "security_code": "Código de segurança",
+            "name": "Nome do titular do cartão",
+            "billing": "Faturar a"
+          }
+        },
+        "payment_method": "Forma de pagamento",
+        "expired_payment_method": "A forma de pagamento selecionada expirou.",
+        "subscription_heading": "Acordo de subscrição",
+        "use_order_billing_address_label": "Usar o endereço de faturação da encomenda",
+        "use_location_billing_address_label": "Usar o endereço de faturação da sucursal",
+        "use_location_shipping_address_label": "Usar o endereço de envio da sucursal",
+        "purchase_options_agreement_label_wallets": "Ao continuar com o pagamento, aceitas os encargos futuros indicados nesta página e a política de cancelação.",
+        "gift_card_store_credit": {
+          "add_label": "Adicionar um cartão de oferta ou crédito na loja",
+          "manage_label": "Gerir cartões de oferta ou crédito na loja"
+        },
+        "saved_credit_card_cvv_verification": "Para fins de verificação, introduz o código de segurança do teu cartão.",
+        "order_edit_banner_updated_order_label": "Encomenda atualizada",
+        "afterpay_label": "Afterpay",
+        "cashapppay_label": "Cash App Pay",
+        "card_nickname_label": "Apelido (opcional)",
+        "order_edit_banner_items_return_line_item_removed": {
+          "in_full": "Foi eliminado do reembolso",
+          "with_quantities": "Foi eliminado {{delta}} do reembolso."
+        },
+        "order_edit_banner_single_item_return_line_item_removed": "Foi eliminado do reembolso",
+        "order_edit_banner_multiple_items_return_line_item_removed": "Foi deduzido {{amount}} do reembolso.",
+        "proposed_gateway_unavailable": "A passarela de pagamento proposta não está disponível.",
+        "pay_in_installments_split_pay_short": "Quatro pagamentos de %{amount}",
+        "payment_method_not_available_for_shipping_address_error": "A forma de pagamento não está disponível para o endereço de envio selecionado. Escolha outra forma de pagamento.",
+        "shop_pay_ideal_unavailable_error": "A opção iDEAL não está disponível para este pedido. Escolha outra forma de pagamento.",
+        "paypal_disconnect": "Desligar",
+        "paypal_wallet_label": "Carteira PayPal",
+        "payment_method_update_failed": "Erro ao tentar atualizar a forma de pagamento."
       },
       "review": {
         "blocks": {
