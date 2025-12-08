@@ -3540,6 +3540,48 @@
         "resend_link_and_login": "Para ver a informação da encomenda, inicia sessão ou envia um novo link para o e-mail ou número de telefone utilizado no pagamento.",
         "resend_link_only": "Para ver a informação da encomenda, envie um novo link para o e-mail ou número de telefone utilizado no pagamento.",
         "resend_link": "Enviar novo link"
+      },
+      "addresses_section_title": "Faturação e envio",
+      "billing_address": "Morada de faturação",
+      "card_ending_with": "que termina em {{lastDigits}}",
+      "contact": "Contacto",
+      "hide_items": "Ocultar artigos",
+      "loading": "A carregar detalhes da encomenda",
+      "loading_finished_accessibility_message": "Os detalhes da encomenda foram carregados.",
+      "payment": {
+        "status_in_review": "Vencimento do pagamento após a revisão",
+        "status_unpaid": "Vencimento do pagamento em {{date}}",
+        "title": "Pagamento",
+        "card_payment_details": "acabada em {{lastDigits}} - {{formattedTransactionAmount}}",
+        "shop_pay_installments": {
+          "paid_in_installments": "Pago com Prestações Shop Pay",
+          "view_schedule": "Ver cronograma"
+        },
+        "gift_card_payment_details": "acabada em {{lastDigits}} - {{formattedTransactionAmount}}",
+        "manual_payment_methods": {
+          "money_order": "Giro postal: {{formattedTransactionAmount}}",
+          "cash_on_delivery": "Pagamento contra entrega (COD): {{formattedTransactionAmount}}",
+          "bank_deposit": "Depósito bancário: {{formattedTransactionAmount}}",
+          "manual": "Manual - {{formattedTransactionAmount}}"
+        },
+        "store_credit_payment_details": "Crédito na loja: {{formattedTransactionAmount}}",
+        "transactions": {
+          "show_all": "Mostrar tudo",
+          "show_less": "Mostrar menos",
+          "details": "Detalhes",
+          "payment_details": "Detalhes de pagamento"
+        },
+        "emv_details": {
+          "auth": "AUTENTICAÇÃO:",
+          "aid": "AID:",
+          "source": "Por favor, insira o seu nome de utilizador e palavra-passe para iniciar sessão. Se ainda não tem uma conta, clique em Registar para criar uma."
+        },
+        "payment_type": {
+          "gift_card": "Cartão de oferta",
+          "store_credit": "Crédito na loja",
+          "money_order": "Giro postal",
+          "cash_on_delivery": "Pagamento contra entrega"
+        }
       }
     },
     "account_information": {
@@ -3899,9 +3941,31 @@
           }
         },
         "tracking_number": {
-          "one": "Número de seguimento"
-        }
-      }
+          "one": "Número de seguimento",
+          "other": "Números de rastreamento",
+          "many": "Números de rastreamento"
+        },
+        "gift_card_resend_button": {
+          "one": "Reenviar cartão de oferta",
+          "other": "Reenviar cartões de oferta",
+          "many": "Reenviar cartões de oferta"
+        },
+        "expected_by": "Prevista para {{date}}",
+        "was_expected_by": "Estava prevista para {{date}}"
+      },
+      "status_mark_as_delivered": "Marcar como entregue",
+      "buy_again": "Voltar a comprar",
+      "buy_again_accessibility_label": "Comprar novamente para a encomenda {{orderId}}",
+      "manage": "Gerir",
+      "manage_accessiblity_label": "Gerir pedido {{orderId}}",
+      "fulfillment_status_title": "Estado de preparação da encomenda: {{status}}",
+      "list_title_with_pending_orders": "Pedidos:",
+      "list_title_confirmed_orders_accessibility_label": "Pedidos: confirmados",
+      "list_title_pending_orders_accessibility_label": "Pedidos: pendentes",
+      "switch_order_type_pending_orders_accessibility_label": "Altera o tipo de pedido. Atualmente estão a ser mostrados os pedidos pendentes.",
+      "switch_order_type_confirmed_orders_accessibility_label": "Altera o tipo de pedido. Atualmente estão a ser mostrados os pedidos confirmados.",
+      "group_title_label": "Parte de: {{groupTitle}}",
+      "group_title_label_with_parent": "Para: {{groupTitle}}"
     }
   }
 }
