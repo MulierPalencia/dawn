@@ -3558,8 +3558,72 @@
         "description": "O correio eletrónico foi atualizado com sucesso. A redirecionar para iniciar sessão."
       },
       "profile_card": {
-        "invalid_email_format": "Introduza um endereço de e-mail válido"
-      }
+        "invalid_email_format": "Introduza um endereço de e-mail válido",
+        "cancel": "Cancelar",
+        "cancel_accessibility_label": "Cancelar edição do perfil",
+        "edit": "Editar",
+        "edit_accessibility_label": "Editar perfil",
+        "email_help_text": "O endereço de email não pode ser editado",
+        "first_name": "Nome",
+        "last_name": "Apelido",
+        "phone_number_help_text": "Não é possível editar o número de telefone",
+        "save": "Guardar",
+        "save_accessibility_label": "Guardar perfil",
+        "title": "Perfil",
+        "no_name_provided_accessibility_label": "Não foi adicionado nenhum nome.",
+        "email": "Correio eletrónico",
+        "errors": {
+          "name_too_long": "{{fieldName}} é demasiado longo (máximo 255 caracteres)",
+          "name_cannot_contain_url": "{{fieldName}} não pode incluir uma URL",
+          "name_cannot_contain_html_tags": "{{fieldName}} não pode conter etiquetas HTML",
+          "email_cant_be_blank": "O endereço de email não pode estar em branco",
+          "invalid_email_format": "Introduza um endereço de email válido"
+        },
+        "editable_email_help_text": "Este e-mail é usado para iniciar sessão e atualizar encomendas."
+      },
+      "loading_accessibility_message": "A carregar informações da conta",
+      "loading_finished_accessibility_message": "A informação da conta foi carregada.",
+      "profile_update_confirmation_message": "Perfil atualizado",
+      "title": "Perfil",
+      "people": {
+        "pagination": {
+          "load_more": "Carregar mais",
+          "load_more_accessibility_label": "Carregar mais pessoas",
+          "loading_accessibility_label": "A carregar pessoas"
+        }
+      },
+      "add_button": "Adicionar",
+      "verify_new_email_modal": {
+        "title": "Verificar e-mail",
+        "description": "Introduza o código enviado para {{email}}",
+        "one_time_password_label": "Código de seis dígitos",
+        "email_resend_button": "Reenviar o código",
+        "email_resend_button_accessibility_label": "Reenviar código de verificação",
+        "verify_button": "Verificar",
+        "verify_button_accessibility_label": "Verificar palavra-passe de uso único",
+        "cancel_button": "Cancelar",
+        "cancel_button_accessibility_label": "Cancelar edição do e-mail",
+        "email_resend_button_success_toast_message": "Código de verificação enviado",
+        "email_resend_button_error_banner_message": "Não foi possível enviar o código de verificação"
+      },
+      "email_update_success_modal": {
+        "title": "Verificar e-mail",
+        "description": "Correio eletrónico atualizado corretamente. A redirecionar para iniciar sessão."
+      },
+      "email_update_confirmation_message": "Correio eletrónico atualizado para {{email}}"
+    },
+    "navigation_and_structure": {
+      "switch_location": "Mudar localização",
+      "view_details": "Ver informação",
+      "company_location": "Localização da empresa",
+      "no_countries_found": "Nenhum país encontrado",
+      "no_locations_found": "Não foram encontradas sucursais",
+      "try_new_search": "Tentar uma nova pesquisa",
+      "skip_to_content": "Ir diretamente para o conteúdo",
+      "loading_policy_content_accessibility_label": "A carregar conteúdo da política"
+    },
+    "orders": {
+      "list_layout_accessibility_label": "Opções de design"
     }
   }
 }
