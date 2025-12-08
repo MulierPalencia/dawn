@@ -3762,7 +3762,145 @@
         "canceled_label": "Cancelado",
         "canceled_title": "O teu pedido foi cancelado",
         "come_back": "Volte a esta página para receber atualizações sobre o estado do envio.",
-        "company_tracking_number": "Número de rastreio da {{company}}:"
+        "company_tracking_number": "Número de rastreio da {{company}}:",
+        "confirmed_label": "Confirmado",
+        "confirmed_title": "O teu pedido está confirmado",
+        "delivered_label": "Entregue",
+        "estimated_delivery": "Estima-se para {{date}}",
+        "in_review_label": "Em revisão",
+        "in_review_title": "A encomenda está a ser revista",
+        "no_tracking_number": "Não há nenhum número de rastreamento para este envio.",
+        "on_its_way_label": "A caminho",
+        "out_for_delivery_label": "Enviado ao destinatário",
+        "resume_tracking": "Retomar acompanhamento",
+        "submitted_label": "Enviado",
+        "track_shipment": "Fazer o acompanhamento da expedição",
+        "request_return": "Solicitar devolução",
+        "attempted_delivery_label": "Tentativa de entrega",
+        "preparing_for_shipping_label": "Em preparação para o envio",
+        "ready_for_pickup_label": "Pronto para a reforma",
+        "ready_for_pickup_description": "Estes artigos estão prontos para levantamento. Traga a confirmação da encomenda quando vier levantá-los.",
+        "picked_up_label": "Retirado",
+        "submitted_description": "Revise os detalhes da encomenda e o pagamento.",
+        "last_updated": "Última atualização em {{date}}",
+        "multiple_shipments_label": "Vários envios",
+        "view_order_for_details": "Ver a encomenda para obter informações",
+        "confirmed_description_digital": "Receberás um e-mail quando a encomenda estiver pronta.",
+        "delivered_description_gift_card": {
+          "one": "O cartão de oferta foi enviado por e-mail.",
+          "other": "Os cartões-presente foram enviados por correio eletrónico.",
+          "many": "Os cartões-presente foram enviados por correio eletrónico."
+        },
+        "gift_card_label": {
+          "one": "Cartão de oferta",
+          "other": "Cartões de oferta",
+          "many": "Cartões de oferta"
+        },
+        "ready_for_pickup_location": "O seu pedido está pronto para levantamento na loja",
+        "confirmed_description_pickup": "Receberás um e-mail quando a tua encomenda estiver pronta para levantamento.",
+        "confirmed_gift_card_additional_description": {
+          "one": "O cartão de oferta será enviado num e-mail diferente.",
+          "other": "Cada cartão de oferta será enviado num e-mail separado.",
+          "many": "Cada cartão de oferta será enviado num e-mail separado."
+        },
+        "confirmed_description_gift_card_text": "Receberás uma mensagem de texto quando a tua encomenda estiver pronta.",
+        "delivered_description_gift_card_text": {
+          "one": "O cartão de oferta foi enviado por mensagem de texto.",
+          "other": "Os cartões-presente foram enviados por mensagem de texto.",
+          "many": "Os cartões-presente foram enviados por mensagem de texto."
+        },
+        "confirmed_gift_card_additional_description_text": {
+          "one": "O cartão de oferta será enviado numa mensagem de texto diferente.",
+          "other": "Cada cartão de oferta será enviado numa mensagem de texto separada.",
+          "many": "Cada cartão de oferta será enviado numa mensagem de texto separada."
+        },
+        "gift_resend_success": {
+          "one": "Cartão de oferta reenviado",
+          "other": "Cartões-presente reenviados",
+          "many": "Cartões-presente reenviados"
+        },
+        "gift_resend_failure": {
+          "one": "Houve um problema ao reenviar o seu cartão de oferta. Tente novamente ou contacte-nos.",
+          "other": "Houve um problema ao reenviar os teus cartões de oferta. Tenta novamente ou contacta-nos.",
+          "many": "Houve um problema ao reenviar os teus cartões de oferta. Tenta novamente ou contacta-nos."
+        },
+        "amazon_buy_with_prime": {
+          "order_tracking_link": {
+            "text": "Gerir com a Amazon",
+            "new_window_disclaimer": "(abre uma nova janela)"
+          }
+        },
+        "attempted_to_deliver_label": "Foi feita uma tentativa de entrega.",
+        "there_was_a_problem_label": "Houve um problema",
+        "buy_with_prime_logo_accessibility_label": "Logótipo da Amazon Buy with Prime",
+        "delivered": "Chegou a {{date}}",
+        "complete_label": "Concluído",
+        "multiple_statuses_label": "Estados de vários pedidos",
+        "status_timestamp": "Atualizado em {{date}}",
+        "delivery_promise": {
+          "promise_line": {
+            "single_brand_label": "Entrega respaldada por",
+            "mixed_brands_label": "Entrega garantida",
+            "not_delivered_by_label": "Ainda não entregue em {{date}}",
+            "modal_accessibility_button_label": "Informação sobre a promessa de entrega"
+          },
+          "claim_shop_cash_cta": {
+            "has_shop_app_label": "Reclamar o teu Shop Cash",
+            "no_shop_app_label": "{{appDownloadLink}} para reclamar Shop Cash",
+            "download_shop_app_label": "Descarregar Shop"
+          },
+          "details_modal": {
+            "title": "Entrega respaldada por",
+            "modal_accessiblity_label": "Informação sobre a promessa de entrega",
+            "delivery_by_label": "Entrega para {{date}}",
+            "delivery_guaranteed_by_label": "Data de entrega garantida para {{date}}",
+            "shop_cash_claim": {
+              "may_be_eligible_label": "Shop Promise garante uma entrega rápida e fiável. Solicita Shop Cash se a tua encomenda chegar com atraso.",
+              "may_be_eligible_not_authorized_label": "É possível que seja elegível para reclamar Shop Cash porque esta encomenda chegou com atraso. Inicie sessão para ver toda a informação.",
+              "redeemed_label": "Já reclamaste Shop Cash porque este pedido chegou atrasado.",
+              "expired_label": "Este pedido não cumpre os requisitos para a reclamação por entrega atrasada porque a garantia de 30 dias expirou.",
+              "no_shop_cash_label": "Este pedido não cumpre os requisitos para a reclamação de entrega atrasada porque não foi pago com Shop Pay.",
+              "no_longer_guaranteed_label": "Estes artigos já não contam com a garantia de entrega.",
+              "claim_shop_cash_title": "Escaneie para reclamar {{amount}} em Shop Cash",
+              "claim_shop_cash_description": "Podes usar o teu Shop Cash em compras futuras na aplicação Shop."
+            },
+            "delivery_guarantee_label": "Garantia de entrega"
+          }
+        },
+        "external_promise_manage_button_label": {
+          "buy_with_prime": "Gerir na Amazon"
+        },
+        "delivery_promise_v2": {
+          "promise_line": {
+            "shop_promise_brand_label": "Entrega garantida por",
+            "external_promise_brand_label": "Entrega antes de",
+            "not_delivered_by_label": "Entregue após {{date}}",
+            "delivery_guarantee_expired_label": "A garantia de entrega expirou",
+            "modal_accessibility_button_label": "Informação sobre a promessa de entrega",
+            "download_shop_app_button_label": "Descarregar Shop para fazer acompanhamento",
+            "track_with_shop_button_label": "Acompanhar com a Loja",
+            "claim_shop_cash_button_label": "Reclamar Shop Cash"
+          },
+          "details_modal": {
+            "title": "Garantia de entrega",
+            "active_delivery_guarantee_label": "Entrega para {{date}}",
+            "expired_delivery_guarantee_description": "A garantia de 30 dias do Shop Promise para este pedido expirou.",
+            "expired_badge_label": "Vencido",
+            "order_includes_guarantees_label": "O teu pedido inclui {{deliveryAgreementsCount}} garantias",
+            "order_includes_guarantees_description": "A Shop Promise garante uma entrega rápida e fiável. Reivindique Shop Cash se a sua encomenda chegar depois de {{date}}.",
+            "delivered_after_label": "Entregue após {{date}}",
+            "delivered_after_description": "Como o teu pedido chegou com atraso, és elegível para reclamar {{amount}} de Shop Cash.",
+            "claimed_shop_cash_description": "Como este pedido chegou com atraso, reclamaste {{amount}} de Shop Cash.",
+            "eligible_to_claim_shop_cash_description": "Como o teu pedido chegou com atraso, és elegível para reclamar {{amount}} de Shop Cash.",
+            "learn_more_button_label": "Mais informações",
+            "claim_shop_cash_button_label": "Reclamar Shop Cash",
+            "view_balance_in_shop_button_label": "Ver saldo na Shop",
+            "scan_to_claim_shop_cash_label": "Escaneie para reclamar {{amount}} em Shop Cash"
+          }
+        },
+        "tracking_number": {
+          "one": "Número de seguimento"
+        }
       }
     }
   }
