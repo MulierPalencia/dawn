@@ -3250,7 +3250,67 @@
         "az": "Alfabeticamente, A-Z",
         "za": "Alfabeticamente, Z-A",
         "price_ascending": "Preço, do menor para o maior",
-        "price_descending": "Preço, do maior para o menor"
+        "price_descending": "Preço, do maior para o menor",
+        "date_ascending": "Data: do mais antigo ao mais recente",
+        "date_descending": "Data: mais recente para mais antigo(a)"
+      }
+    },
+    "errors": {
+      "blank": "não pode estar em branco",
+      "credit_card_session_expired": "A autorização do cartão de crédito expirou. Por favor, insere a tua informação de pagamento mais uma vez. Não foi efetuada qualquer cobrança no teu cartão.",
+      "empty": "não pode ficar vazio",
+      "invalid_email": "Deve ser um endereço de correio eletrónico válido",
+      "discount_disabled": "Este desconto foi desativado",
+      "discount_expired": "Este desconto já não é válido",
+      "discount_limit_reached": "Este desconto atingiu o limite do seu uso",
+      "discount_not_found": "Não foi possível encontrar um desconto válido que corresponda ao código introduzido",
+      "customer_already_used_once_per_customer_discount_notice": "Este desconto atingiu o limite do seu uso",
+      "gift_card_already_applied": "O código já foi aplicado ao teu pedido",
+      "gift_card_code_invalid": "Código inválido",
+      "gift_card_currency_mismatch": "O seu cartão de oferta está em %{gift_card_currency}. Contacte-nos para que o possamos reemitir em %{checkout_currency}.",
+      "gift_card_depleted": "Não há fundos disponíveis neste cartão de oferta",
+      "gift_card_disabled": "O cartão de oferta está desativado",
+      "gift_card_expired": "O cartão de oferta expirou",
+      "invalid": "inválido",
+      "bad_domain": "contém um nome de domínio inválido",
+      "taken": "já foi tomado",
+      "contains_html_tags": "não pode conter etiquetas HTML",
+      "too_short": "é demasiado curto (deve conter um mínimo de %{count} caracteres)",
+      "too_long": "é demasiado longo (o máximo são %{count} caracteres)",
+      "password_mismatch": "deve coincidir com a palavra-passe fornecida",
+      "contains_spaces": "começa ou termina com espaços.",
+      "invalid_for_country": "não é válido para %{country}",
+      "invalid_for_country_and_province": "não é válido para %{province} e %{country}",
+      "invalid_province_in_country": "não é uma província válida em %{country}",
+      "invalid_state_in_country": "não é um estado válido em %{country}",
+      "invalid_region_in_country": "não é uma região válida em %{country}",
+      "less_than_or_equal_to": "deve ser menor ou igual a %{count}",
+      "not_supported": "não é compatível",
+      "full_name_required": "Introduza um nome e apelido",
+      "invalid_for_card_type": "não é válido para este tipo de cartão",
+      "invalid_type": "Lamentamos, não aceitamos cartões deste tipo",
+      "invalid_format": "não é um número de cartão de crédito",
+      "expired": "O cartão de crédito expirou",
+      "invalid_start_date_or_issue_number_for_debit": "É necessária uma data de início ou um número de expedição válidos",
+      "invalid_expiry_year": "não é um ano de validade válido",
+      "reset_password_html": "Este endereço de e‑mail já está associado a uma conta. Se a conta for sua, pode <a href=\"/account/login#recover\">redefinir a sua palavra-passe aqui</a>",
+      "verify_email": "Enviámos um e-mail para %{customer_email}, por favor clique no link incluído para verificar o seu endereço de e-mail.",
+      "blocked_address": "Esta localização não é permitida",
+      "product_not_available": "o produto não aparece publicado para este cliente.",
+      "shop_404": {
+        "title": "Crie um site de ecommerce e venda online! Software de Ecommerce feito pela Shopify",
+        "heros": {
+          "store_unavailable": "Lamentamos, atualmente esta loja não está disponível.",
+          "store_not_exist": "Esta loja não existe.",
+          "no_storefront": "Esta loja ainda não tem site."
+        },
+        "links": {
+          "explore_other_stores": "Explorar outras lojas",
+          "start_free_trial": "Começar um teste gratuito"
+        },
+        "owner_ctas": {
+          "header": "És o proprietário da loja?"
+        }
       }
     }
   },
