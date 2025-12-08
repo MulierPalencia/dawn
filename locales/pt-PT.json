@@ -1110,7 +1110,9 @@
         "unavailable_selected_address": "Não há envio disponível para o endereço selecionado",
         "unavailable_selected_address_for_region": "Não há serviço de envio disponível para {{region}}. Seleciona um endereço diferente para continuar",
         "must_use_address_banner": {
-          "one": "O seu pedido só pode ser enviado para o endereço de %{name}."
+          "one": "O seu pedido só pode ser enviado para o endereço de %{name}.",
+          "other": "O seu pedido só pode ser enviado para um destes endereços.",
+          "many": "O seu pedido só pode ser enviado para um destes endereços."
         }
       },
       "local_pickup": {
@@ -2066,6 +2068,70 @@
         "must_use_available_delivery_address": "O endereço de entrega deve ser selecionado entre os endereços de entrega disponíveis.",
         "must_use_available_shipping_rate": "A tarifa de envio deve ser selecionada entre as tarifas de envio disponíveis.",
         "shipping_method_invalid_phone_number": "Modifique o número de telefone na sua morada de entrega para ver os métodos de envio disponíveis."
+      },
+      "alternative_payment_method_banner": {
+        "express_checkout": "Pagamento expresso",
+        "or": "O",
+        "show_more_options": "Mostrar mais opções",
+        "hide_more_options": "Ocultar mais opções",
+        "or_pay_another_way": "Paga de outra maneira",
+        "or_check_out_another_way": "Ou completa o processo de pagamento de outra forma",
+        "or_pay_with_credit_card": "Paga com cartão de crédito"
+      },
+      "processing": {
+        "redirecting_page_title": "A redirecionar…",
+        "redirecting_title": "A redirecionar…",
+        "redirecting_notice": "Espera enquanto te redirecionamos.",
+        "complete_your_purchase_title": "Completar a tua compra.",
+        "continue_to_payment_gateway_notice": "Continua com o ecrã de pagamento para adicionar a tua informação de pagamento.",
+        "continue_to_payment_gateway_button_label": "Continuar com o pagamento",
+        "complete_your_purchase_title_error": "Corrigir a tua informação de pagamento",
+        "continue_to_payment_gateway_notice_error": "Não foi possível verificar a tua informação de pagamento.",
+        "continue_to_payment_gateway_button_label_error": "Atualize a informação de pagamento",
+        "page_title": "Processamento da encomenda",
+        "title": "Processamento da encomenda",
+        "your_order_has_been_received_title": "Obrigado pela sua encomenda",
+        "you_will_receive_confirmation": "Estamos a receber muitas encomendas neste momento. Deverá receber a confirmação por correio eletrónico ou mensagem de texto em breve. Se não a receber antes de uma hora, contacte-nos.",
+        "wait": {
+          "short": "O seu pedido está a ser processado.",
+          "medium": {
+            "one": "O seu pedido está a ser processado. O tempo de espera estimado é de %{count} minuto.",
+            "other": "O seu pedido está a ser processado. O tempo de espera estimado é de %{count} minutos.",
+            "many": "O seu pedido está a ser processado. O tempo de espera estimado é de %{count} minutos."
+          },
+          "long": "Receberás um e-mail quando a tua encomenda for processada. Atualmente, há um elevado volume de encomendas.",
+          "no_auto_refresh_html": "Se não for redirecionado automaticamente, %{link}.",
+          "refresh_this_page": "recarregar esta página"
+        },
+        "you_will_not_be_charged": "Ainda não será cobrado a si",
+        "action_required": "Medida necessária",
+        "redirecting_to_bank": "Redirecionar para {{bank}}",
+        "modal_notice": "Estamos a ligar-nos com {{paymentMethod}}",
+        "remote_shops_payments_processing": "A processar pagamentos",
+        "remote_checkout_count": "%{current} de %{total}"
+      },
+      "failed_payment": {
+        "page_title": "Não foi possível processar o pagamento",
+        "title": "Não foi possível processar o pagamento",
+        "payment_not_processed_title": "O seu pagamento não pôde ser processado",
+        "payment_not_processed_text": "Não foi cobrado. Volte ao seu carrinho para finalizar a transação.",
+        "return_to_cart_button_label": "Voltar ao carrinho"
+      },
+      "payment_gateway": {
+        "credit_card_label": "Cartão de crédito",
+        "bank_deposit_label": "Depósito Bancário",
+        "cash_on_delivery_label": "Pagamento contra entrega",
+        "money_order_label": "Giro Postal",
+        "debit_card_label": "Cartão de débito",
+        "deferred_payment_label": "Escolher a forma de pagamento mais tarde",
+        "generic_payment_terms": "Estás sob os termos de {{translatedName}}. O teu pagamento vencerá a {{dueDate}}.",
+        "login_prompt": {
+          "no_access": {
+            "message": "{{logIn}} numa conta com acesso a esta agência para adicionar ou usar formas de pagamento guardadas.",
+            "link": "Iniciar sessão"
+          }
+        },
+        "direct_payment_terms": "Estás sob os termos de {{translatedName}}. Será efetuada a cobrança no teu cartão no dia {{dueDate}}."
       }
     },
     "sentence": {
