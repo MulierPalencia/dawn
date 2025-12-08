@@ -661,8 +661,138 @@
             "shop_cash_unsupported_checkout_source": "Shop Cash não admite este ecrã de pagamento.",
             "shop_cash_gift_card_not_allowed": "A Shop Cash não permite a compra de cartões de oferta.",
             "shop_cash_not_enabled": "O Shop Cash não está ativado para esta loja.",
-            "shop_cash_unsupported_subscriptions": "Shop Cash não admite subscrições."
+            "shop_cash_unsupported_subscriptions": "Shop Cash não admite subscrições.",
+            "shop_cash_unsupported_shipping": "Shop Cash não aceita mercadoria promocional sem envio.",
+            "invalid_address_type": "O tipo de direção fornecido não é válido para esta forma de pagamento.",
+            "missing_retail_attributions": "As atribuições nas lojas físicas são obrigatórias para pagamentos com cartão de crédito inseridos manualmente.",
+            "unexpected_retail_attributions": "As atribuições de vendas a retalho foram fornecidas inesperadamente para o pagamento com cartão de crédito.",
+            "invalid_card_source": "Esta sessão não tem permissão para usar este emissor de cartão.",
+            "wallet_content_missing": "Falta o conteúdo da carteira.",
+            "payment_instrument_not_found": "Não foi possível encontrar a forma de pagamento.",
+            "unauthorized_capture_method": "Não é permitido configurar a forma de captura do pagamento.",
+            "saved_payment_methods_not_allowed": "Não são permitidas formas de pagamento guardadas.",
+            "saved_payment_methods_not_enabled": "As formas de pagamento guardadas não estão ativadas para esta loja.",
+            "store_credit_not_enabled": "O crédito na loja não está ativado para esta loja.",
+            "store_credit_account_not_found": "Conta de crédito na loja não encontrada.",
+            "store_credit_account_mismatch": "A conta de crédito na loja não corresponde à identidade do comprador.",
+            "store_credit_mismatched_currency": "A moeda da conta de crédito na loja não coincide com a da tela de pagamento.",
+            "store_credit_insufficient_funds": "Não há fundos suficientes na conta de crédito na loja.",
+            "store_credit_buying_gift_card": "Não podes utilizar o crédito na loja para comprar um cartão-presente.",
+            "gift_cards_not_allowed_for_b2b": "Não são permitidos cartões de oferta nas lojas B2B.",
+            "method_required": "Deve ser proposta uma forma de pagamento.",
+            "paypal_express_address_invalid": "O PayPal mostrou um endereço inválido.",
+            "shop_cash_unsupported_currency": "Shop Cash não admite esta moeda.",
+            "saved_payment_methods_cvv_verification_disabled": "A forma de pagamento selecionada requer verificação através de código de segurança (CVV) e esta função não está ativada para esta loja. Seleciona uma forma de pagamento diferente.",
+            "shop_cash_not_available": "O Shop Cash não é compatível com este ecrã de pagamento.",
+            "shop_cash_not_found": "Não foi encontrado Shop Cash."
+          },
+          "tip": {
+            "not_accepted_by_shop": "A loja não aceita gorjetas.",
+            "only_one_tip_line_allowed": "Não são permitidas várias linhas de gorjetas.",
+            "tips_not_allowed_for_b2b": "Não são permitidas gorjetas nas lojas B2B.",
+            "currency_change_reset": "A gorjeta foi restabelecida devido a uma alteração na moeda.",
+            "tips_not_allowed_for_deferred_purchase_options": "Ainda não são aceites gorjetas para as opções de compra diferida."
+          },
+          "sale_attribution": {
+            "draft_order_not_exist": "Este pedido preliminar não existe na loja atual.",
+            "staff_member_not_exist": "Este funcionário não existe na loja atual.",
+            "location_not_exist": "Esta sucursal não existe na loja atual.",
+            "point_of_sale_device_not_exist": "Este dispositivo de ponto de venda não existe na loja atual.",
+            "unresolvable_target_merchandise_lines": "As atribuições de venda propostas não podem ser resolvidas dado o contexto atual de negociação."
+          },
+          "non_negotiable": {
+            "missing_non_negotiable_terms": "A proposta do comprador não deve conter non-negotiable_terms.",
+            "invalid_signature": "A assinatura para {{target_terms}} não é válida."
+          },
+          "inventory": {
+            "missing_quantity_value": "Falta o campo Quantidade nas linhas de inventário do comprador.",
+            "changing_behavior_not_allowed": "Este cliente não tem permissão para alterar o comportamento do inventário.",
+            "only_one_inventory_behavior_allowed": "Atualmente, só é permitido um comportamento de inventário por pagamento."
+          },
+          "optional_duties": {
+            "optional_duties_not_permitted": "Não é permitido recusar as taxas para este ecrã de pagamento."
+          },
+          "attribution": {
+            "retail_attribution_not_allowed": "Não é permitida a atribuição de vendas a retalho para este ecrã de pagamento.",
+            "retail_attribution_required": "A atribuição de vendas a retalho é obrigatória para este ecrã de pagamento."
+          },
+          "captcha": {
+            "metadata_missing": "Completar o captcha é obrigatório para este ecrã de pagamento.",
+            "metadata_mismatch": "O fornecedor e o tipo de captcha indicados não coincidem com os valores esperados.",
+            "token_missing": "Deve ser fornecido um token de captcha para completar este pagamento.",
+            "job_enqueue_failed": "Ocorreu um erro ao enfileirar o trabalho de validação do captcha.",
+            "job_already_queued": "A validação para este token de captcha já foi colocada na fila.",
+            "token_expired": "O token de captcha fornecido expirou. Complete um novo captcha para continuar com o pagamento.",
+            "token_invalid": "O token de captcha fornecido não era válido. Complete um novo captcha para continuar com o pagamento.",
+            "token_not_valid_for_session": "O captcha fornecido não pode ser usado com este ecrã de pagamento."
+          },
+          "fx_reconciliation_override": {
+            "shop_currency_mismatch": "O montante recebido deve estar na moeda da loja."
+          },
+          "checkout_source": {
+            "revoked": "Este ecrã de pagamento já não está disponível."
           }
+        },
+        "full_price": "Preço regular:",
+        "title": "Ecrã de pagamento - {{shopName}}",
+        "full_title": "{{pageTitle}} - {{shopName}} - Ecrã de pagamento",
+        "loading_title": "Ecrã de pagamento - {{shopName}}",
+        "google_map_title": "Mapa do Google",
+        "submit_order_button_label": "Enviar pedido",
+        "submit_for_review_button_label": "Enviar para revisão",
+        "submit_for_review_notice_label": "O pagamento não vencerá até que a encomenda seja revista.",
+        "continue_to_payment_plans_button_label": "Continuar para planos de pagamento",
+        "back_button_label": "Devolução",
+        "choose_delivery_strategy": "Escolha uma forma de entrega",
+        "autocomplete_zero_item": "Não há nenhum artigo disponível.",
+        "autocomplete_powered_by_google": "Tecnologia {{brandName}}",
+        "submit": "Enviar",
+        "processing": "Em processo...",
+        "stepper": {
+          "increase": "Aumentar {{type}}",
+          "decrease": "Reduzir {{type}}",
+          "minimum_reached": "Mínimo de {{value}} alcançado",
+          "maximum_reached": "Máximo de {{value}} alcançado"
+        },
+        "remove_item": "Eliminar %{label}",
+        "remove_tag": "Eliminar etiqueta",
+        "dates": {
+          "weekdays": {
+            "monday": "segunda-feira",
+            "tuesday": "terça-feira",
+            "wednesday": "quarta-feira",
+            "thursday": "quinta-feira",
+            "friday": "sexta-feira",
+            "saturday": "sábado",
+            "sunday": "domingo"
+          },
+          "weekdays_abbreviation": {
+            "monday": "LU",
+            "tuesday": "MA",
+            "wednesday": "MI",
+            "thursday": "JU",
+            "friday": "VI",
+            "saturday": "SA",
+            "sunday": "FAZER"
+          },
+          "months": {
+            "january": "janeiro",
+            "february": "fevereiro",
+            "march": "março",
+            "april": "abril",
+            "may": "maio",
+            "june": "junho",
+            "july": "julho",
+            "august": "agosto",
+            "september": "setembro",
+            "october": "outubro",
+            "november": "novembro",
+            "december": "dezembro"
+          }
+        },
+        "datepicker": {
+          "show_previous_month": "Mostrar o mês anterior, {{month}} {{year}}",
+          "show_next_month": "Mostrar o próximo mês, {{month}} {{year}}"
         }
       }
     },
