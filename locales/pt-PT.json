@@ -10,7 +10,7 @@
 {
   "general": {
     "password_page": {
-      "login_form_heading": "Entre na loja usando a palavra-passe:",
+      "login_form_heading": "Entrar na loja usando palavra-passe:",
       "login_password_button": "Entre usando a palavra-passe",
       "login_form_password_label": "Palavra-passe",
       "login_form_password_placeholder": "A sua palavra-passe",
@@ -4409,8 +4409,85 @@
     },
     "knowledge_base": {
       "self_serve_returns": {
-        "enabled": "Os clientes podem solicitar e gerir as devoluções diretamente."
+        "enabled": "Os clientes podem solicitar e gerir as devoluções diretamente.",
+        "disabled": "Os clientes devem contactar o comerciante para solicitar uma devolução."
       }
+    },
+    "privacy_banner": {
+      "cookie_preferences_link": "Preferências de cookies"
+    },
+    "announcement_bar": {
+      "expand_label": "Expandir barra de anúncios",
+      "collapse_label": "Recolher barra de anúncios",
+      "close_label": "Fechar barra de anúncios"
+    },
+    "subscriptions": {
+      "update_payment_instrument": {
+        "title": "Substituir forma de pagamento",
+        "loading": "A carregar formas de pagamento",
+        "no_payment_methods_available": "Não há nenhuma forma de pagamento disponível",
+        "select_new_payment_method": "Seleciona uma nova forma de pagamento",
+        "current_method": "Atual",
+        "cancel": "Cancelar",
+        "save": "Guardar",
+        "success": "Forma de pagamento atualizada",
+        "use_new_payment_method": "+ Utilizar nova forma de pagamento"
+      },
+      "subscription_contracts": {
+        "title": "Usa forma de pagamento para as encomendas recorrentes",
+        "subscription_contracts_updated": "Foram atualizadas {{succeeded}} de {{total}} subscrições",
+        "product_details": "Detalhes do produto",
+        "load_more": "Carregar mais",
+        "more_items": {
+          "one": "{{count}} produto mais",
+          "other": "{{count}} produtos mais",
+          "many": "{{count}} produtos mais"
+        },
+        "product_count": {
+          "one": "{{count}} produto",
+          "other": "{{count}} produtos",
+          "many": "{{count}} produtos"
+        }
+      },
+      "contracts_update_failed": "Não foi possível atualizar alguns contratos de subscrição",
+      "updating_contracts": {
+        "one": "A atualizar {{count}} contrato de subscrição...",
+        "other": "A atualizar {{count}} contratos de subscrição...",
+        "many": "A atualizar {{count}} contratos de subscrição..."
+      },
+      "contracts_updated": {
+        "one": "Foram atualizados corretamente {{count}} contratos de subscrição",
+        "other": "Foram atualizados corretamente {{count}} contratos de subscrição",
+        "many": "Foram atualizados corretamente {{count}} contratos de subscrição"
+      },
+      "invalid_wallet_type_error": "Tipo de carteira não válido."
+    },
+    "sign_in": {
+      "brand_logo_alt_text": "Logótipo de %{shop_name}",
+      "step_one": {
+        "page_title": "Iniciar sessão - %{shop_name}",
+        "heading": "Iniciar sessão",
+        "subheading": "Introduza o seu endereço de email e enviaremos um código de verificação",
+        "input_field_label": "Correio eletrónico",
+        "button": "Continuar",
+        "subheading_with_sign_in_options": "Inicia sessão ou cria uma conta",
+        "or": "o"
+      },
+      "step_two": {
+        "page_title": "Introduzir código - %{shop_name}",
+        "heading": "Introduzir código",
+        "subheading": "Enviado para %{email}",
+        "restart_link": "Iniciar sessão com outro e-mail",
+        "input_field_label": "Código de seis dígitos",
+        "button": "Enviar"
+      },
+      "error": {
+        "invalid": {
+          "invalid_email": "Introduza um endereço de correio eletrónico válido",
+          "invalid_code": "Introduza o código correto de 6 dígitos"
+        }
+      },
+      "processing": "A processar…"
     }
   }
 }
