@@ -3623,7 +3623,79 @@
       "loading_policy_content_accessibility_label": "A carregar conteúdo da política"
     },
     "orders": {
-      "list_layout_accessibility_label": "Opções de design"
+      "list_layout_accessibility_label": "Opções de design",
+      "list_title": "Encomendas",
+      "order_list": {
+        "column_headers": {
+          "total": "Total",
+          "order": "Pedido",
+          "actions_accessibility_label": "Ações",
+          "products_accessibility_label": "Produtos"
+        },
+        "delivered": "Data de entrega: {{date}}",
+        "empty_state_order_source_description": "Aqui só serão mostrados os pedidos realizados por {{email}}.",
+        "empty_state_subtitle": "Vai à loja para fazer uma encomenda.",
+        "empty_state_title": "Ainda não tens nenhuma encomenda",
+        "estimated_delivery": "Estima-se para {{date}}",
+        "items": {
+          "one": "{{count}} artigo",
+          "other": "{{count}} artigos",
+          "many": "{{count}} artigos"
+        },
+        "order_link": "Ver a encomenda {{name}}",
+        "order_number": "Pedido {{name}}",
+        "orders_title": "Confirmado",
+        "pagination": {
+          "nav_accessibility_label": "Botões de navegação das encomendas",
+          "next": "Seguinte",
+          "next_accessibility_label": "Pedidos seguintes",
+          "previous": "Anterior",
+          "previous_accessibility_label": "Pedidos anteriores",
+          "load_more": "Carregar mais",
+          "load_more_accessibility_label": "Carregar mais pedidos"
+        },
+        "sort_by": "Ordenar por {{option}}",
+        "sort_hide_options_accessibility_label": "Ocultar as opções de ordenação para as encomendas confirmadas.",
+        "sort_show_options_accessibility_label": "Mostrar as opções de ordenação para as encomendas confirmadas.",
+        "sort_title": "Ordenar",
+        "sort": {
+          "date": {
+            "newest": "Do mais recente para o mais antigo",
+            "oldest": "Do mais antigo ao mais recente"
+          },
+          "location": {
+            "ascending": "Sucursal (A-Z)",
+            "descending": "Sucursal (Z-A)"
+          },
+          "order_number": {
+            "ascending": "Número de pedido (do menor para o maior)",
+            "descending": "Número de pedido (do maior para o menor)"
+          },
+          "order_total": {
+            "ascending": "Total da encomenda (do menor para o maior)",
+            "descending": "Total da encomenda (do maior para o menor)"
+          }
+        },
+        "one_images_accessibility_label": "O pedido inclui {{lineItemName1}}.",
+        "two_images_accessibility_label": "A encomenda inclui {{lineItemName1}} e {{lineItemName2}}.",
+        "three_images_accessibility_label": "O pedido inclui {{lineItemName1}}, {{lineItemName2}} e {{lineItemName3}}.",
+        "four_images_accessibility_label": "O pedido inclui {{lineItemName1}}, {{lineItemName2}}, {{lineItemName3}} e {{lineItemName4}}.",
+        "no_filtered_results_description": "Remover ou ajustar os filtros para ver as encomendas",
+        "no_filtered_results_title": "Não há nenhum resultado filtrado",
+        "estimated_shortform": "Por volta de {{date}}.",
+        "payment_status": {
+          "list_view": {
+            "overdue": "Atrasado",
+            "due": "Vence a {{date}}",
+            "due_today": "Vence hoje",
+            "due_without_date": "Vencido",
+            "due_on_fulfillment": "Vence no momento da preparação da encomenda",
+            "pay_to_confirm": "Pagar para confirmar",
+            "payment_not_due": "Ainda não vencido",
+            "paid": "Pago"
+          }
+        }
+      }
     }
   }
 }
