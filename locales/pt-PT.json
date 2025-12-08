@@ -366,66 +366,66 @@
       "email": "Correio eletrónico",
       "forgot_password": "Esqueceste a tua palavra-passe?",
       "guest_continue": "Continuar",
-      "guest_title": "Continuar como visitante",
+      "guest_title": "Continuar como convidado",
       "password": "Palavra-passe",
-      "title": "Iniciar sessão",
+      "title": "Início de sessão",
       "sign_in": "Iniciar sessão",
-      "submit": "Submeter"
+      "submit": "Enviar"
     },
     "order": {
-      "title": "Encomenda {{ name }}",
-      "date_html": "Efetuado a {{ date }}",
-      "cancelled_html": "Encomenda cancelada em {{ date }}",
+      "title": "Pedido {{ name }}",
+      "date_html": "Realizado em {{ date }}",
+      "cancelled_html": "Pedido cancelado em {{ date }}",
       "cancelled_reason": "Motivo: {{ reason }}",
-      "billing_address": "Endereço de faturação",
+      "billing_address": "Morada de faturação",
       "payment_status": "Estado do pagamento",
-      "shipping_address": "Endereço de envio",
-      "fulfillment_status": "Estado de processamento",
+      "shipping_address": "Morada de envio",
+      "fulfillment_status": "Estado de preparação da encomenda",
       "discount": "Desconto",
       "shipping": "Envio",
-      "tax": "Taxa",
+      "tax": "Imposto",
       "product": "Produto",
       "sku": "SKU",
       "price": "Preço",
       "quantity": "Quantidade",
       "total": "Total",
-      "fulfilled_at_html": "Concluído em {{ date }}",
-      "track_shipment": "Rastrear encomenda",
-      "tracking_url": "Ligação de rastreio",
-      "tracking_company": "Transportadora",
-      "tracking_number": "Número de rastreio",
+      "fulfilled_at_html": "Preparado em {{ date }}",
+      "track_shipment": "Acompanhar a expedição",
+      "tracking_url": "Enlace de seguimento",
+      "tracking_company": "Empresa de transporte",
+      "tracking_number": "Número de seguimento",
       "subtotal": "Subtotal",
-      "total_duties": "Encargos"
+      "total_duties": "Taxas alfandegárias"
     },
     "orders": {
       "title": "Histórico de encomendas",
-      "order_number": "Encomenda",
-      "order_number_link": "Número da encomenda {{ number }}",
+      "order_number": "Pedido",
+      "order_number_link": "Número de pedido {{ number }}",
       "date": "Data",
       "payment_status": "Estado do pagamento",
-      "fulfillment_status": "Estado de processamento",
+      "fulfillment_status": "Estado de preparação da encomenda",
       "total": "Total",
-      "none": "Ainda não efetuou nenhuma encomenda."
+      "none": "Ainda não realizou nenhuma encomenda."
     },
     "recover_password": {
-      "title": "Repor palavra-passe",
-      "subtext": "Vamos enviar-lhe um e-mail para repor a sua palavra-passe",
-      "success": "Enviámos-lhe um e-mail com uma ligação para atualizar a sua palavra-passe."
+      "title": "Redefinir a sua palavra-passe",
+      "subtext": "Enviaremos um e-mail para redefinir a tua palavra-passe",
+      "success": "Enviámos-te um e-mail com um link para atualizares a tua palavra-passe."
     },
     "register": {
       "title": "Criar conta",
-      "first_name": "Nome próprio",
+      "first_name": "Nome",
       "last_name": "Apelido",
-      "email": "E-mail",
+      "email": "Correio eletrónico",
       "password": "Palavra-passe",
       "submit": "Criar"
     },
     "reset_password": {
-      "title": "Repor palavra-passe da conta",
-      "subtext": "Insira uma nova palavra-passe",
+      "title": "Restabelecer palavra-passe da conta",
+      "subtext": "Introduza uma nova palavra-passe.",
       "password": "Palavra-passe",
       "password_confirm": "Confirmar palavra-passe",
-      "submit": "Repor palavra-passe"
+      "submit": "Restabelecer palavra-passe"
     }
   },
   "gift_cards": {
