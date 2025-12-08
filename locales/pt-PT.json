@@ -3642,7 +3642,75 @@
       "show_order_summary": "Mostrar o resumo da encomenda",
       "hide_order_summary": "Ocultar o resumo da encomenda",
       "company": "Empresa",
-      "no_data_provided_accessibility_label": "{{fieldName}} está vazio"
+      "no_data_provided_accessibility_label": "{{fieldName}} está vazio",
+      "marketing_section_title": "Notícias e ofertas",
+      "marketing_description": "Receberás e-mails de marketing. Podes cancelar a subscrição a qualquer momento.",
+      "marketing_checkbox_label": "Enviar-me novidades e ofertas por correio eletrónico",
+      "marketing_checkmark_label": "Estás subscrito para receber notícias e ofertas por correio eletrónico",
+      "image_gallery": {
+        "product_name_and_quantity": "A quantidade de {{productName}} é {{quantity}}",
+        "next": "Mostrar artigos seguintes",
+        "previous": "Mostrar artigos anteriores",
+        "load_more_items": {
+          "one": "Carregar mais {{count}} artigos",
+          "other": "Carregar mais {{count}} artigos",
+          "many": "Carregar mais {{count}} artigos"
+        }
+      },
+      "shop_order_tracking": {
+        "download_shop_to_track": "Descarga Shop para fazer o acompanhamento da encomenda",
+        "track_order_with_shop": "Acompanhar a encomenda com Shop",
+        "title_header": "Digitaliza com o teu telemóvel",
+        "real_time_delivery_updates": "A Shop enviar-te-á informações em tempo real sobre a entrega quando a tua encomenda for enviada."
+      },
+      "shop_pay": {
+        "order_completed_with": "Pedido concluído com",
+        "learn_more": "Mais informações"
+      },
+      "edit_summary": {
+        "added": "Adicionado",
+        "added_with_quantity": "Foram adicionados {{quantity}}.",
+        "removed": "Eliminado",
+        "removed_with_quantity": "Foram eliminados {{quantity}}.",
+        "updated_at": "O teu pedido foi atualizado em {{date}}",
+        "returned": "Devolvido",
+        "returned_with_quantities": "Foram devolvidos {{delta}} de {{total}}.",
+        "removed_with_quantities": "Foram eliminados {{delta}} de {{total}}.",
+        "return_line_item_removed": "Foi eliminado do reembolso.",
+        "return_line_item_removed_with_quantities": "Foi eliminado {{delta}} do reembolso."
+      },
+      "pickup": {
+        "pickup": "Levantamento",
+        "pickup_location": "Local de levantamento",
+        "pickup_point": "Ponto de recolha"
+      },
+      "paid_with_shop_pay_installments_card": {
+        "paid_with_shop_pay_installments": "Pago com Prestações Shop Pay",
+        "description": "Mantenha-se a par do seu calendário de pagamentos com os lembretes da aplicação Shop.",
+        "payment_reminders_button": "Receber lembretes de pagamentos",
+        "desktop_qr_code_content": {
+          "title": "Digitalizar para receber lembretes",
+          "description": "Recebe lembretes das tuas quotas com a Shop."
+        }
+      },
+      "order_details": "Detalhes da encomenda",
+      "contact_information": "Informação de contacto",
+      "login_to_view_all_order_details": "Inicie sessão para ver toda a informação da encomenda.",
+      "log_in": "Iniciar sessão",
+      "paid_amount": "Pago",
+      "remaining_amount": "Restante",
+      "order_details_skeleton_accessibility_label": "Inicie sessão para ver toda a informação da encomenda.",
+      "tip": "Propina",
+      "logged_in_account_no_permission_to_order": "Iniciaste sessão como {{email}}. Esta conta não dispõe das permissões necessárias para gerir esta encomenda.",
+      "log_in_to_a_different_account": "Inicia sessão noutra conta",
+      "duties": "Taxas alfandegárias",
+      "ok_duties_tooltip": "Este pedido será enviado a partir de outro país, pelo que foram adicionadas taxas alfandegárias ao total da sua encomenda.",
+      "error_duties_tooltip": "Este pedido será enviado a partir de outro país, pelo que é possível que sejam cobradas taxas e impostos no momento da entrega.",
+      "zero_duties_tooltip": "Este pedido será enviado a partir de outro país. Não são cobradas taxas alfandegárias em encomendas deste valor.",
+      "group_title_label": "Parte de: {{groupTitle}}",
+      "fees": {
+        "restocking_fee": "Custo por reposição"
+      }
     },
     "account_information": {
       "one_time_password_card": {
