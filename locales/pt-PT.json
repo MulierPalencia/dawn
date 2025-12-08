@@ -2629,8 +2629,178 @@
             "one": "semana",
             "other": "%{count} semanas",
             "many": "%{count} semanas"
+          },
+          "month": {
+            "one": "mês",
+            "other": "%{count} meses",
+            "many": "%{count} meses"
+          },
+          "year": {
+            "one": "ano",
+            "other": "%{count} anos",
+            "many": "%{count} anos"
+          }
+        },
+        "recurring_totals_with_initial_order_shipping_discount": "Primeiro pagamento %{total_price_with_discount}, depois %{recurring_total}",
+        "recurring_totals_with_initial_order_shipping_discount_with_policies": {
+          "first_cycles": {
+            "one": ", depois %{count} pagamento de %{total_price}",
+            "other": ", depois %{count} pagamentos de %{total_price} cada um",
+            "many": ", depois %{count} pagamentos de %{total_price} cada um"
           }
         }
+      },
+      "customer_payment_methods": {
+        "page_title": "Formas de pagamento",
+        "title": "Formas de pagamento",
+        "update_card_button_label": "Actualizar cartão",
+        "delete_customer_mandate": {
+          "generic_error": "Ocorreu um erro ao processar o seu pedido.",
+          "success_message": "A sua forma de pagamento foi eliminada com sucesso."
+        }
+      },
+      "mor_policies": {
+        "terms_and_conditions": "Termos e condições do responsável pelo processamento de pagamentos",
+        "privacy_policy": "Política de privacidade do responsável pelo processamento de pagamentos"
+      },
+      "contextual_availability": {
+        "title": {
+          "one": "Produto não disponível",
+          "other": "Produtos indisponíveis",
+          "many": "Produtos indisponíveis"
+        },
+        "products_not_available": {
+          "one": "Este produto será removido do seu carrinho porque não está disponível no seu país ou região.",
+          "other": "Estes produtos serão removidos do teu carrinho porque não estão disponíveis no teu país ou região.",
+          "many": "Estes produtos serão removidos do teu carrinho porque não estão disponíveis no teu país ou região."
+        },
+        "all_products_in_cart_unavailable": {
+          "one": "Este produto não está disponível no seu país ou região.",
+          "other": "Estes produtos não estão disponíveis no teu país ou região.",
+          "many": "Estes produtos não estão disponíveis no teu país ou região."
+        },
+        "unavailable_label": "Não disponível"
+      },
+      "change_cart_localization": {
+        "verify_shipping_address": "O seu país ou região foi alterado. Introduza o seu endereço de envio para continuar com o pagamento."
+      },
+      "throttle": {
+        "line_to_check_out": "Estás na fila para pagar",
+        "cart_summary_heading": "O teu carrinho",
+        "merchandise": {
+          "sold_out": "Esgotado",
+          "available": "Disponível"
+        },
+        "inventory": {
+          "partial_inventory_banner": "Alguns artigos no teu carrinho estão esgotados e não estarão disponíveis na página de pagamento.",
+          "sold_out": {
+            "heading": "Os artigos no teu carrinho estão esgotados",
+            "storefront_body": "Voltar à loja para continuar a comprar",
+            "no_storefront_body": "Lamentavelmente, o artigo que desejas comprar já não está disponível.",
+            "link": "Voltar à loja"
+          }
+        },
+        "title": "Lista de espera",
+        "time_to_checkout_title": "Hora de pagar - {{shopName}}",
+        "estimated_wait_time": {
+          "calculating": "Calculando tempo de espera estimado",
+          "less_than_one": "Tempo de espera estimado: menos de um minuto",
+          "one": "Tempo de espera estimado: {{count}} minuto",
+          "other": "Tempo de espera estimado: {{count}} minutos",
+          "many": "Tempo de espera estimado: {{count}} minutos"
+        },
+        "last_checked": "(Verificado pela última vez: {{time}})",
+        "footer": {
+          "heading": "Não atualize a página; ela será atualizada automaticamente.",
+          "body": "Os artigos no teu carrinho não ficam reservados até completares o processo de pagamento."
+        },
+        "too_many_attempts": {
+          "message": "Demasiadas tentativas.",
+          "description": "Tente novamente em 30 minutos"
+        }
+      },
+      "cart_checkout_validation": {
+        "runtime_error": "Houve um problema ao processar o seu pedido. Contacte o proprietário da loja."
+      },
+      "deliverability": {
+        "not_deliverable": {
+          "title": {
+            "one": "Não há entrega disponível para %{count} artigo",
+            "other": "Não há entrega disponível para %{count} artigos",
+            "many": "Não há entrega disponível para %{count} artigos"
+          },
+          "message": {
+            "one": "Este artigo será removido do carrinho porque não há formas de entrega disponíveis para o seu endereço.",
+            "other": "Estes artigos serão removidos do carrinho porque não existem formas de entrega disponíveis para o teu endereço.",
+            "many": "Estes artigos serão removidos do carrinho porque não existem formas de entrega disponíveis para o teu endereço."
+          },
+          "label": "Sem entrega"
+        }
+      },
+      "no_address_location": {
+        "title": "Sucursal sem morada",
+        "header": "Não tens nenhum endereço de envio para esta sucursal",
+        "message": "Entre em contacto connosco para adicionar um endereço a esta sucursal e assim poder concluir o pagamento.",
+        "email_us_button_label": "Envia-nos um correio eletrónico",
+        "alt_header": "Falta o endereço de envio"
+      },
+      "order_errors": {
+        "creation_failure": "Houve um problema ao criar a tua encomenda. Tenta novamente ou contacta-nos para saber mais detalhes.",
+        "network_failure": "O pedido não pôde ser enviado devido a um erro de rede. Verifica a tua ligação e tenta novamente.",
+        "inventory_reservation_failure": "Alguns artigos já não estão disponíveis."
+      },
+      "session_errors": {
+        "session_not_unique": "Ocorreu um problema ao processar a encomenda. Atualize esta página para voltar à loja.",
+        "session_already_finished": "Este pedido já foi enviado. Podes voltar à loja para iniciar um novo pedido."
+      },
+      "pickup_point": {
+        "location_is_currently_closed": "Fechado",
+        "business_hours": "Horário da loja",
+        "title": "Ponto de recolha",
+        "or": "o",
+        "search_button": "Pesquisa",
+        "selector_tabs": "Seletor de pontos de recolha",
+        "selector_tab_map": "Mapa",
+        "selector_tab_list": "Lista",
+        "could_not_resolve_address": "Endereço não encontrado. Tente novamente ou use outro endereço.",
+        "no_pickup_points_near_you": "Não foi encontrado nenhum ponto de recolha perto do endereço selecionado",
+        "no_pickup_points_near_location": "Não foi encontrado nenhum ponto de recolha perto da tua localização",
+        "no_pickup_points_found": "Não foram encontrados pontos de levantamento",
+        "paginator": {
+          "next_accessibility_label": "Página seguinte",
+          "previous_accessibility_label": "Página anterior",
+          "header": {
+            "one": "Mostrando %{first} - %{last} de %{count} pontos",
+            "other": "Mostrando %{first} - %{last} de %{count} pontos",
+            "many": "Mostrando %{first} - %{last} de %{count} pontos"
+          },
+          "selected_pickup_point_label": {
+            "one": "%{pickup_point_index} de %{count} ponto",
+            "other": "%{pickup_point_index} de %{count} pontos",
+            "many": "%{pickup_point_index} de %{count} pontos"
+          },
+          "selected_page": {
+            "one": "%{first} - %{last} de %{count} ponto",
+            "other": "%{first} - %{last} de %{count} pontos",
+            "many": "%{first} - %{last} de %{count} pontos"
+          }
+        },
+        "number_of_pickup_points_near_location": {
+          "one": "%{count} ponto de recolha perto da tua localização",
+          "other": "%{count} pontos de levantamento perto da tua localização",
+          "many": "%{count} pontos de levantamento perto da tua localização"
+        },
+        "change": "Mudar localização",
+        "waiting_on_pickup_point_location_notice": "A procurar pontos de levantamento…",
+        "geolocation": {
+          "shared_location_button": "Usar a minha localização",
+          "errors": {
+            "unsuported_by_browser": "O navegador não suporta geolocalização. Tente novamente ou use outro navegador.",
+            "permission_not_allowed": "Permite partilhar a tua localização.",
+            "permission_denied": "Não foi possível obter a tua localização. Tenta novamente."
+          }
+        },
+        "no_business_hours": "Não há horário comercial disponível."
       }
     },
     "sentence": {
