@@ -3580,9 +3580,69 @@
           "gift_card": "Cartão de oferta",
           "store_credit": "Crédito na loja",
           "money_order": "Giro postal",
-          "cash_on_delivery": "Pagamento contra entrega"
+          "cash_on_delivery": "Pagamento contra entrega",
+          "bank_deposit": "Depósito bancário",
+          "manual": "Manual"
         }
-      }
+      },
+      "shipping": {
+        "address": "Morada de envio",
+        "address_map_marker": "Morada de envio",
+        "method": "Método de envio",
+        "summary": "Envio",
+        "free": "Grátis",
+        "free_shipping_discount": "Envio grátis",
+        "one_time": "Envio único",
+        "subscription": "Envio por subscrição"
+      },
+      "show_items": "Mostrar artigos",
+      "subtitle": "Data de confirmação: {{date}}",
+      "subtotal": "Subtotal",
+      "summary_list_title_accessibility_label": "Artigos da encomenda",
+      "summary_title": "Resumo da encomenda",
+      "summary_totals_title_accessibility_label": "Totais da encomenda",
+      "taxes": "Impostos",
+      "title": "Pedido {{name}}",
+      "total": "Total",
+      "unit_price": "{{price}}/unidade",
+      "location": "Filial",
+      "not_applicable": "N. a.",
+      "fully_refunded_label": "REEMBOLSADO",
+      "partially_refunded_label": "PARCIALMENTE REEMBOLSADA",
+      "refunded_amount": "Reembolsado",
+      "discount": "Desconto",
+      "no_data": "Nenhum",
+      "pagination": {
+        "load_more": "Carregar mais",
+        "load_more_accessibility_label": "Carregar mais artigos",
+        "loading_accessibility_label": "A carregar artigos"
+      },
+      "returns": {
+        "expand_events_label": "Mostrar detalhes",
+        "hide_events_label": "Ocultar detalhes",
+        "print_shipping_label": "Imprimir etiqueta de envio",
+        "tracking_number": "Número de seguimento:",
+        "return_and_refund_modal_header": "Política de reembolso",
+        "ineligible_return_message": "Nenhum artigo deste pedido cumpre os requisitos para devolução.",
+        "ineligible_return_message_when_returned": "Nenhum outro artigo deste pedido cumpre os requisitos para devolução.",
+        "exchange_header": "Alterar artigos",
+        "exchange_subheader": "Os artigos de troca serão adicionados à encomenda assim que a devolução estiver concluída."
+      },
+      "request_return_failed": "Ocorreu um erro ao processar o seu pedido. Por favor, tente novamente.",
+      "mobile_summary_toggle_button": {
+        "open": "Mostrar resumo da encomenda",
+        "closed": "Ocultar resumo da encomenda"
+      },
+      "shipment_timeline": {
+        "expand_events_label": "Mostrar detalhes",
+        "expand_events_accessibility_label": "Mostrar os detalhes do envio da encomenda",
+        "hide_events_label": "Ocultar detalhes",
+        "hide_events_accessibility_label": "Ocultar os detalhes do envio da encomenda"
+      },
+      "show_order_summary": "Mostrar o resumo da encomenda",
+      "hide_order_summary": "Ocultar o resumo da encomenda",
+      "company": "Empresa",
+      "no_data_provided_accessibility_label": "{{fieldName}} está vazio"
     },
     "account_information": {
       "one_time_password_card": {
