@@ -3445,6 +3445,92 @@
         "add_products": "Refinar seleção aos produtos que correspondem à etiqueta %{tag}",
         "remove_articles": "Ampliar pesquisa aos artigos que não estão etiquetados com %{tag}",
         "remove_products": "Eliminar etiqueta %{tag}"
+      },
+      "line_item": {
+        "item_status": {
+          "add_variant": "Foi adicionado %{delta}",
+          "increment_item": "Foi adicionado %{delta}",
+          "decrement_item": "Foram eliminados %{delta} de %{total}",
+          "decrement_fulfilled_line_item": "Foi devolvido %{delta} de %{total}",
+          "decrement_return_line_item": "Foi eliminado %{delta} do reembolso"
+        }
+      }
+    },
+    "page_titles": {
+      "products": "Produtos",
+      "shopping_cart": "O teu carrinho",
+      "account": "Conta",
+      "create_account": "Criar conta",
+      "reset_account": "Restabelecer conta",
+      "addresses": "Direções",
+      "order": "Pedido%{name}",
+      "search": "Procurar",
+      "collections": "Colecções",
+      "not_found": "404 Não encontrado",
+      "challenge": "Desafio",
+      "checkpoint": "Ponto de controlo",
+      "search_results": {
+        "one": "Pesquisa: %{count} resultado encontrado para \"%{terms}\"",
+        "other": "Pesquisa: %{count} resultados encontrados para \"%{terms}\"",
+        "many": "Pesquisa: %{count} resultados encontrados para \"%{terms}\""
+      },
+      "blog_or_article_with_error": "Erro: %{title}"
+    },
+    "cart": {
+      "discounts_with_count": "foram aplicados %{count} descontos"
+    },
+    "challenge": {
+      "message": "Para continuar, indica-nos que não és um robô.",
+      "error": "A tua resposta não foi correta, por favor tenta novamente.",
+      "submit_button_text": "Enviar"
+    },
+    "checkpoint": {
+      "message": "Resolva o Captcha para continuar",
+      "error": "A validação do Captcha falhou",
+      "submit_button_text": "Enviar"
+    },
+    "email_marketing": {
+      "subscribed": {
+        "confirmation": "Obrigado por subscrever a nossa lista de distribuição.",
+        "disclaimer": "Podes cancelar a subscrição a qualquer momento.",
+        "unsubscribe": "Cancelar subscrição"
+      },
+      "unsubscribed": {
+        "confirmation": "Cancelaste a tua subscrição da nossa lista de distribuição.",
+        "disclaimer": "Não te enviaremos mais notícias de marketing. Podes subscrever novamente a qualquer momento.",
+        "preview": "Estás a rever a pré-visualização do que os clientes verão quando se cancelarem."
+      },
+      "open_tracking": {
+        "opt_in": {
+          "opted_in_html": "<b>Subscreveste o acompanhamento de emails abertos.</b>",
+          "visibility": "As taxas de emails abertos serão reportadas de forma anónima. Apenas veremos se abriu um email como parte de uma taxa agregada de emails abertos.",
+          "opt_out_html": "Podes <a style='text-decoration:underline;' href='%{link}'>cancelar a subscrição</a> do acompanhamento de emails abertos se não quiseres partilhar esta informação.",
+          "preview_bar": "Estás a rever a pré-visualização do que os clientes verão quando subscreverem o acompanhamento de emails abertos."
+        },
+        "opt_out": {
+          "opted_out_html": "<b>Cancelaste a subscrição do acompanhamento de e-mails abertos.</b>",
+          "visibility": "Não saberemos se abriste os nossos e-mails.",
+          "opt_in_html": "<a style='text-decoration:underline;' href='%{link}'>Aceita</a> o rastreio de emails abertos.",
+          "preview_bar": "Estás a rever a pré-visualização do que os clientes verão quando cancelarem a subscrição do acompanhamento de aberturas de emails."
+        },
+        "no_longer_track": {
+          "status_html": "<b>Já não fazemos o rastreio de e-mails abertos.</b>",
+          "privacy_policy": "Após o envio deste e-mail, atualizámos a nossa política de privacidade e deixámos de fazer o rastreio das aberturas."
+        },
+        "track": {
+          "status_html": "<b>O acompanhamento de e-mails abertos é informado.</b>",
+          "visibility": "Só veremos se abriste o e-mail como parte da taxa total de e-mails abertos."
+        },
+        "updated_policy": {
+          "status_html": "<b>O acompanhamento de e-mails abertos é informado.</b>",
+          "visibility": "Atualizámos a nossa política e agora fazemos o rastreio de emails abertos. As taxas de emails abertos serão reportadas de forma anónima. Apenas saberemos se abriu um email como parte da taxa total de emails abertos.",
+          "opt_out_html": "Se não desejares partilhar esta informação, podes <a style='text-decoration:underline;' href='%{link}'>cancelar a subscrição</a>."
+        }
+      }
+    },
+    "store_availability": {
+      "pick_up_time": {
+        "one_hour": "Normalmente está pronto em 1 hora"
       }
     }
   },
