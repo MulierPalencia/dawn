@@ -4211,7 +4211,69 @@
         "tax_details_title": "Informação fiscal",
         "tax_id": "Identificação fiscal",
         "tax_exemptions": "Isenções fiscais",
-        "multiple_tax_exemptions": "{{taxExemptionsCount}} mais"
+        "multiple_tax_exemptions": "{{taxExemptionsCount}} mais",
+        "multiple_tax_exemptions_and": "e",
+        "tax_exemptions_modal_close": "Fechar",
+        "taxes_none": "Nenhum",
+        "tax_exemption_not_applicable": "N/D",
+        "tax_exemptions_modal_button_accessibility_label": "Ver todas as isenções fiscais",
+        "pagination": {
+          "load_more": "Carregar mais",
+          "load_more_accessibility_label": "Carregar mais sucursais"
+        },
+        "own_role_contact_name": "Tu",
+        "staff_and_permissions_title": "Empregados e permissões",
+        "location_picker_accessibility_label": "Nome da filial: {{locationName}}",
+        "deposit_percentage": "Depósito de {{percentage}}"
+      },
+      "location_selection": {
+        "description": "Se já tem artigos no carrinho, a alteração da loja pode afetar os preços e as quantidades do carrinho.",
+        "list_accessibility_label": "Lista de sucursais",
+        "list_item_without_address_accessibility_label": "{{name}}: sem morada",
+        "list_loading_accessibility_message": "A carregar lista de sucursais",
+        "list_loading_address_accessibility_message": "A carregar endereço para {{locationName}}",
+        "list_loading_finished_accessibility_message": "A lista de sucursais foi carregada.",
+        "loading_store_accessibility_message": "Ir à loja",
+        "selection_cancel_button": "Cancelar",
+        "selection_confirmation_button": "Escolher agência",
+        "title": "Para que agência compras?",
+        "continue_to_store": "Continuar para a loja",
+        "no_location_title": "Apenas pedidos pessoais",
+        "no_location_description": "Já não tem permissão para fazer encomendas para {{company}}. Ainda pode fazer encomendas pessoais.",
+        "no_locations_found": "Não foi encontrada nenhuma sucursal",
+        "search": "Buscar sucursais",
+        "clear_search": "Limpar pesquisa",
+        "try_new_search": "Tentar uma nova pesquisa",
+        "search_location_title": "Selecionar uma filial",
+        "selection_continue_button": "Continuar",
+        "description_switch_later": "Podes mudá-la mais tarde",
+        "title_choose_location": "Seleciona uma filial"
+      },
+      "addresses": {
+        "add_billing_address_button": "Adicionar morada de faturação",
+        "add_billing_address_section_accessibility_label": "Adicionar morada de faturação",
+        "add_shipping_address_button": "Adicionar morada de envio",
+        "add_shipping_address_section_accessibility_label": "Adicionar morada de envio",
+        "billing_address_card_title": "Morada de faturação",
+        "cancel_adding_billing_address_accessibility_label": "Cancelar adição de morada de faturação",
+        "cancel_adding_shipping_address_accessibility_label": "Cancelar adição de morada de envio",
+        "save_new_billing_address_accessibility_label": "Guardar morada de faturação",
+        "save_new_shipping_address_accessibility_label": "Guardar morada de envio",
+        "shipping_address_card_title": "Morada de envio"
+      },
+      "orders": {
+        "draft_order_list": {
+          "hide_all": "Ocultar tudo",
+          "show_all": "Mostrar tudo",
+          "hide_all_accessibility_label": "Ocultar todas as encomendas da revisão",
+          "show_all_accessibility_label": "Mostrar todas as encomendas da revisão",
+          "title": "Pendente",
+          "pagination": {
+            "nav_accessibility_label": "Botões de navegação de pedidos em revisão"
+          },
+          "show_all_orders_in_review": "Mostrar todas as encomendas em revisão",
+          "show_less_orders_in_review": "Mostrar menos pedidos na revisão"
+        }
       }
     }
   }
