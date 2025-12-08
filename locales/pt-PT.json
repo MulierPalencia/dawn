@@ -1153,7 +1153,46 @@
           "one": "Há %{count} sucursal com existências perto de ti",
           "other": "Há %{count} sucursais com stock perto de ti",
           "many": "Há %{count} sucursais com stock perto de ti"
-        }
+        },
+        "location_information": {
+          "one": "Há %{count} sucursal com existências perto de ti",
+          "other": "Há %{count} sucursais com stock perto de ti",
+          "many": "Há %{count} sucursais com stock perto de ti"
+        },
+        "toggle_location": "Mudar de lugar",
+        "or": "O",
+        "cancel": "Cancelar",
+        "your_location": "a tua localização",
+        "search_button": "Buscar lojas",
+        "no_stores_found": "Não foram encontradas lojas",
+        "could_not_resolve_address": "Endereço não encontrado. Tente novamente ou use outro endereço",
+        "paginator": {
+          "accessibility_label": "Paginação de levantamento na loja",
+          "previous": "Página anterior",
+          "next": "Página seguinte",
+          "label": {
+            "one": "%{first} - %{last} de %{count} loja",
+            "other": "%{first} - %{last} de %{count} lojas",
+            "many": "%{first} - %{last} de %{count} lojas"
+          }
+        },
+        "reveal_more_label": {
+          "one": "Mostrar mais %{count} sucursais",
+          "other": "Mostrar mais %{count} sucursais",
+          "many": "Mostrar mais %{count} sucursais"
+        },
+        "location_address_search_label": "Direção",
+        "all_stores_far_away": {
+          "title": "As sucursais mais próximas estão a mais de %{distance} de distância",
+          "description": "Seleciona uma filial ou %{ship_to_address_link}",
+          "ship_to_address_link": "enviar para o endereço"
+        },
+        "selected_pickup_option_no_longer_available": {
+          "title": "As sucursais selecionadas previamente já não estão disponíveis",
+          "description": "Seleciona uma nova filial ou %{ship_to_address_link}",
+          "ship_to_address_link": "enviar para um endereço"
+        },
+        "location_address_search_placeholder": "%{postal_code_label} ou morada"
       },
       "one": {
         "errors": {
@@ -2872,7 +2911,48 @@
           "many": "Este pedido será enviado para um endereço fornecido por {{merchant}}. Seleciona um endereço de envio."
         },
         "subtitle_no_match": "Este endereço não corresponde a nenhum dos teus endereços guardados.",
-        "subtitle_must_use": "O teu pedido será enviado para este endereço."
+        "subtitle_must_use": "O teu pedido será enviado para este endereço.",
+        "continue": "Continuar com este endereço",
+        "use_saved_address": "Usar um endereço diferente",
+        "return_to_cart": "Voltar ao carrinho"
+      },
+      "marketplaces": {
+        "legal_notice": {
+          "legal_text": "Revisar os",
+          "link_label": "termos e condições de {{partnerDisplayName}}"
+        }
+      },
+      "online_store_chat": {
+        "title": "Tens alguma pergunta? Chateia connosco"
+      },
+      "captcha": {
+        "title": "Complete o CAPTCHA para continuar",
+        "errors": {
+          "not_solved": "Complete o CAPTCHA para continuar"
+        }
+      },
+      "discount_errors": {
+        "generic_error": "O teu pedido não pôde ser processado porque o código de desconto já não está disponível. Verifica o total do teu pedido e tenta novamente."
+      },
+      "wallets": {
+        "return_to_store": "Voltar à loja",
+        "redirect_hint": "Serás solicitado a iniciar sessão no {{walletName}}.",
+        "logged_in": "Ligado a {{email}}",
+        "shipping_line_label": "Envio",
+        "connect_shipping_methods": "{{method1}} e {{method2}}",
+        "payment_in_progress_title": "Pagamento em curso",
+        "payment_in_progress_body": "O pagamento está a ser processado. A encomenda será concluída em breve.",
+        "call_to_action": "Pagar com {{walletName}}",
+        "errors": {
+          "unavailable": {
+            "title": "{{walletName}} não está disponível",
+            "description": "{{walletName}} não estava disponível. Use um método de pagamento diferente ou tente novamente mais tarde.",
+            "instructions": "Ocorreu um erro com {{walletName}}. Volte à loja para tentar novamente ou pague de outra forma.",
+            "unavailable_for_country": "{{walletName}} não está disponível em {{countryName}}. Seleciona uma forma de pagamento diferente para completar a tua compra."
+          },
+          "generic": "Houve um problema com {{walletName}}. Tente novamente ou utilize outro método de pagamento.",
+          "terminal": "Houve um problema com {{walletName}}. Por favor, utilize outro método de pagamento."
+        }
       }
     },
     "sentence": {
