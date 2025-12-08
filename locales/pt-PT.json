@@ -1118,7 +1118,8 @@
         "account_more_actions": "Mais ações para esta conta"
       },
       "memberships": {
-        "delivery_promise_unfulfillable": "O endereço não é compatível com a associação atual."
+        "delivery_promise_unfulfillable": "O endereço não é compatível com a subscrição atual.",
+        "items_split_across_locations_unsupported": "A entrega com Prime não está disponível para a tua encomenda. As tuas opções de envio foram atualizadas."
       },
       "shipping_errors": {
         "unavailable_addresses_only_countries": "O seu pedido só pode ser enviado para {{countriesList}}. Para continuar, adicione um novo endereço.",
@@ -3101,7 +3102,75 @@
         },
         "external": {
           "instructions": "Confirme o pagamento na sua aplicação para completar esta compra"
+        },
+        "close": "Fechar o desafio",
+        "open_app_text": "Abrir a aplicação {{paymentMethod}}"
+      },
+      "artifact_errors": {
+        "artifact_dissatisfaction_without_violation": "Houve um problema ao processar a encomenda. Tente novamente daqui a alguns minutos."
+      },
+      "merchant_instruction_errors": {
+        "empty_stable_id": "A instrução de mercadoria promocional %{position} %{name} contém uma identificação de estabelecimento vazia.",
+        "invalid_stable_id_target": "A instrução de mercadoria promocional %{position} %{name} refere-se à identificação estável %{stable_id}, mas essa identificação estável não está nas linhas de mercadoria promocional.",
+        "duplicate_variant_id": "A instrução de mercadoria promocional %{position} %{name} contém uma identificação de variante %{variant_id} duplicada.",
+        "invalid_variant_id_target": "A instrução de mercadoria promocional %{name} refere-se à identificação da variante %{variant_id}, mas essa variante não se encontra nas linhas de mercadoria promocional.",
+        "invalid_price_override_target": "O preço anula a instrução da mercadoria promocional para a linha de artigo %{stable_id} e não é válido porque é um componente de um pacote."
+      },
+      "merchandise_unavailable_in_buyer_location": {
+        "banner_title": {
+          "some_products_one": "A entrega deste produto não está disponível para %{location_name}.",
+          "some_products_other": "A entrega destes produtos não está disponível para %{location_name}.",
+          "all_products_one": "A entrega do produto do carrinho não está disponível para %{location_name}.",
+          "all_products_other": "A entrega dos produtos do carrinho não está disponível para %{location_name}."
+        },
+        "missing_country_fallback": "teu país",
+        "indeterminate_location_fallback": "a tua localização",
+        "cart_updated": "O carrinho foi atualizado.",
+        "change_address_only": "Altere o endereço de entrega para continuar.",
+        "change_address_or_remove": "Altere o endereço de entrega ou %{remove_action}.",
+        "empty_cart_action": "esvazia o carrinho e volta à loja",
+        "remove_items_action": {
+          "one": "elimina o artigo não disponível",
+          "other": "elimina os artigos não disponíveis",
+          "many": "elimina os artigos não disponíveis"
         }
+      },
+      "b2b_errors": {
+        "lost_b2b_purchasing_permissions": "Já não tem permissão para fazer pedidos B2B. %{logout_url} para fazer um pedido pessoal.",
+        "log_out_link_text": "Terminar sessão",
+        "lost_permissions_subtitle": "Já não tem permissão para fazer pedidos B2B. Termine a sessão para fazer um pedido pessoal.",
+        "lost_permissions_title": "Não há permissões de sucursal"
+      },
+      "units": {
+        "milligram": "mg",
+        "gram": "g",
+        "kilogram": "kg",
+        "milliliter": "ml",
+        "centiliter": "cl",
+        "cubic_meter": "m³",
+        "millimeter": "mm",
+        "centimeter": "cm",
+        "meter": "m",
+        "square_meter": "m²",
+        "ounce": "oz",
+        "pound": "lb",
+        "fluid_ounce": "fl oz",
+        "pint": "pt",
+        "quart": "qt",
+        "gallon": "gal",
+        "inch": "em",
+        "foot": "pés",
+        "yard": "yd",
+        "square_foot": "pés²",
+        "item": "artigo"
+      },
+      "editor": {
+        "navigation": {
+          "store_logo_accessibility_label": "Ir para a loja online"
+        }
+      },
+      "tooltip": {
+        "accessibility_label_context": "Mais informações sobre %{context}"
       }
     },
     "sentence": {
