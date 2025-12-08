@@ -634,7 +634,68 @@
         "address_more": "Mais ações para este endereço",
         "address_edit": "Editar endereço",
         "address_delete": "Eliminar morada",
-        "address_confirm": "Confirmas que desejas eliminar este endereço da conta?"
+        "address_confirm": "Confirmas que desejas eliminar este endereço da conta?",
+        "address_form": {
+          "add_address": "Agregar endereço",
+          "save": "Guardar",
+          "cancel": "Cancelar",
+          "generic_error": "Ocorreu um problema ao guardar o endereço. Tente novamente.",
+          "one_time_address_subtitle": "Usar um endereço uma única vez para este pedido",
+          "edit": "Editar endereço",
+          "update": "Guardar alterações",
+          "max_address": "Foi atingido o limite de {{max_addresses}} endereços. Elimine um endereço para adicionar um novo."
+        },
+        "different_shipping_method_summary": "Introduza um endereço de envio diferente para ver os métodos de envio disponíveis.",
+        "invalid_shipping_method_summary": "Introduza um endereço de envio válido para ver os métodos de envio disponíveis",
+        "method_summary": {
+          "incomplete_address_entered": "Introduza um endereço de envio completo para ver os métodos de envio disponíveis.",
+          "incomplete_address_selected": "Selecione um endereço de envio completo para ver os métodos de envio disponíveis."
+        },
+        "local_pickup": {
+          "search_address": "Procurar o endereço",
+          "rollup_title": "Local de levantamento",
+          "rollup_accessibility_label": "Opções de local de levantamento"
+        },
+        "missing_shipping_address": "Falta o endereço de envio.",
+        "delivery_title": "Entrega",
+        "shipping_method_first_shipment_group_title": {
+          "one": "Primeira entrega",
+          "other": "Primeiros envios",
+          "many": "Primeiros envios"
+        },
+        "shipping_method_recurring_shipments_group_title": {
+          "one": "Envio recorrente",
+          "other": "Envios recorrentes",
+          "many": "Envios recorrentes"
+        },
+        "address_default": "Definir como predefinida",
+        "split_shipping_merchandise_quantity_label_standard": "%{quantity} artigos",
+        "split_shipping_merchandise_quantity_label_additional": "+%{quantity} mais",
+        "split_shipping_merchandise_shipment_number": "Envio %{number} de %{total}",
+        "pre_order_ships_now": "Envia-se agora",
+        "pre_order_ships_later": "Enviado mais tarde",
+        "pre_order_ships_date": "Enviado em %{date}",
+        "split_shipping_shipped_by_shop": "Envio realizado por %{shop_name}",
+        "split_shipping_multiple_shipment_label": "Vários envios",
+        "split_shipping_shipping_label": "Método",
+        "split_shipping_multiple_shipment_quantity_label": "%{quantity} envios",
+        "split_shipping_multiple_shipment_notice": "O teu pedido chegará em várias entregas",
+        "split_shipping_multiple_shipment_notice_one_time_purchase": "O teu pedido chegará em %{quantity} envios",
+        "split_shipping_more_shipping_options": "Mais opções de envio",
+        "split_shipping_shipment_number": "Envio %{number}",
+        "split_shipping_merchandise_quantity_label_inline_primary": "Quantidade: %{quantity}",
+        "split_shipping_merchandise_quantity_label_inline": "%{merchandise_title} x%{quantity}",
+        "split_shipping_option_free": "Envio grátis",
+        "split_shipping_option_lowest_price": "Preço mais baixo",
+        "split_shipping_option_fastest": "Envio mais rápido",
+        "split_shipping_option_recommended": "Recomendado",
+        "split_shipping_option_custom": "Personalizado",
+        "default_description": "Enviado num dia útil",
+        "split_shipping_shipment_notice": "O teu pedido chegará em %{quantity_shipments}",
+        "prime_not_available": {
+          "default": "A entrega com Prime não está disponível para a tua encomenda. As tuas opções de envio foram atualizadas."
+        },
+        "split_shipping_first_shipment_notice": "A tua primeira encomenda chegará em %{quantity_shipments}"
       },
       "payment": {
         "payment_method_incompatible_with_payment_terms": "A forma de pagamento não é compatível com as condições de pagamento.",
