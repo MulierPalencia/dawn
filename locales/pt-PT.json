@@ -2951,7 +2951,73 @@
             "unavailable_for_country": "{{walletName}} não está disponível em {{countryName}}. Seleciona uma forma de pagamento diferente para completar a tua compra."
           },
           "generic": "Houve um problema com {{walletName}}. Tente novamente ou utilize outro método de pagamento.",
-          "terminal": "Houve um problema com {{walletName}}. Por favor, utilize outro método de pagamento."
+          "terminal": "Houve um problema com {{walletName}}. Por favor, utilize outro método de pagamento.",
+          "detour": {
+            "stock_problems": "Alguns artigos já não estão disponíveis. Fecha {{walletName}} e tenta novamente.",
+            "price_change": "Os preços de alguns artigos mudaram. Fecha {{walletName}} para rever a tua encomenda e tenta novamente.",
+            "queue": "Foi colocado numa lista de espera para proceder ao pagamento. Feche {{walletName}} para continuar.",
+            "currency_change": "Não podes usar um endereço diferente com {{walletName}}. Utiliza o endereço original ou tenta com outro método de pagamento."
+          },
+          "unsupported": {
+            "address": "O comerciante não pode realizar entregas no endereço de envio selecionado.",
+            "postal_code": "Esta sucursal não é aceite",
+            "wallet_is_unavailable": "{{walletName}} não pode ser usado com este endereço. Escolha um endereço diferente ou feche {{walletName}} para completar a sua compra."
+          },
+          "outdated": {
+            "shipping_method": "As opções de envio da encomenda foram alteradas. Verifique a seleção.",
+            "payment_terms": "As condições de pagamento mudaram. Verifica a tua encomenda"
+          },
+          "invalid": {
+            "shipping_address": "Introduza um endereço de envio válido",
+            "billing_address": "Introduza um endereço de faturação válido",
+            "shipping_option": "Selecionar uma opção de envio válida",
+            "email": "Introduza um endereço de email válido",
+            "zone": "Introduza um estado ou província válidos",
+            "postal_code": "Introduza um código postal válido",
+            "reduction_code": "Introduza um código de desconto ou cartão de oferta válidos",
+            "billing_must_match_shipping": "Deve coincidir com o endereço de envio.",
+            "phone": "Introduza um número de telefone válido",
+            "emirate": "Introduzir um emirado válido",
+            "billing_zone": "Introduza um estado ou província válido para o endereço de faturação",
+            "billing_phone": "Introduza um número de telefone válido para o endereço de faturação",
+            "billing_zip": "Introduza um código postal válido para o endereço de faturação"
+          },
+          "missing": {
+            "first_name": "Introduza um nome",
+            "last_name": "Introduza um apelido",
+            "address1": "Introduza um endereço",
+            "address2": "Introduza um apartamento, suite, etc.",
+            "city": "Introduza uma cidade",
+            "province": "Selecciona um estado ou província",
+            "country": "Selecciona um país ou região",
+            "zip": "Introduza um código postal",
+            "phone": "Introduzir um número de telefone",
+            "billing_first_name": "Introduza o nome do endereço de faturação",
+            "billing_address1": "Introduza um endereço de faturação",
+            "billing_address2": "Introduza um apartamento, local, etc. para a morada de faturação",
+            "billing_city": "Introduza a cidade do endereço de faturação",
+            "billing_province": "Selecione um estado ou província para o endereço de faturação",
+            "billing_zip": "Introduza um código postal para o endereço de faturação",
+            "contact_info": "Introduza a informação de contacto"
+          },
+          "formatting": {
+            "name_contains_emojis": "Eliminar emoji do nome",
+            "postal_code_contains_emoji": "Eliminar emoji do código postal",
+            "first_name_too_long": "O nome tem letras a mais",
+            "last_name_too_long": "O apelido tem letras a mais",
+            "address_too_long": "A linha da direção é demasiado longa"
+          },
+          "select_different_shipping_address_to_resolve_errors": "O endereço de envio não é válido. Seleciona outro ou usa um novo.",
+          "unavailable_terminal": {
+            "instructions": "{{walletName}} não está disponível atualmente para o seu pedido. Para continuar com a compra, escolha outro método de pagamento."
+          },
+          "discount_code": "Não é possível aplicar este código de desconto. Verifica o teu código e tenta novamente."
+        },
+        "redirection_notice": "Após clicar em \"{{buttonLabel}}\", serás redirecionado para {{walletName}} para completar a tua compra de forma segura.",
+        "return_to_checkout": "Voltar ao ecrã de pagamento",
+        "scrim": {
+          "continue_purchase_in_window": "Continua a tua compra na janela de {{walletName}}",
+          "and_return_to_checkout": "e voltar à página de pagamento"
         }
       }
     },
