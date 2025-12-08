@@ -241,49 +241,49 @@
   },
   "sections": {
     "header": {
-      "announcement": "Comunicado",
+      "announcement": "Anúncio",
       "menu": "Menu",
       "cart_count": {
-        "one": "{{ count }} item",
-        "other": "{{ count }} itens",
-        "many": "{{ count }} itens"
+        "one": "{{ count }} artigo",
+        "other": "{{ count }} artigos",
+        "many": "{{ count }} artigos"
       }
     },
     "cart": {
-      "title": "O seu carrinho",
-      "caption": "Itens do carrinho",
+      "title": "O teu carrinho",
+      "caption": "Artigos no carrinho",
       "remove_title": "Eliminar {{ title }}",
       "subtotal": "Subtotal",
       "new_subtotal": "Novo subtotal",
-      "note": "Instruções especiais da encomenda",
-      "checkout": "Finalizar a compra",
-      "empty": "O seu carrinho está vazio",
-      "cart_error": "Ocorreu um erro ao atualizar o seu carrinho. Tente novamente.",
-      "cart_quantity_error_html": "É possível adicionar apenas {{ quantity }} unidade(s) deste item ao carrinho.",
-      "taxes_and_shipping_policy_at_checkout_html": "Impostos e <a href=\"{{ link }}\">shipping</a> calculados na finalização da compra",
-      "taxes_included_but_shipping_at_checkout": "Imposto incluído e envio calculado na finalização da compra",
-      "taxes_included_and_shipping_policy_html": "Imposto incluído. <a href=\"{{ link }}\">Envio</a> calculado na finalização da compra.",
-      "taxes_and_shipping_at_checkout": "Impostos e envio calculados na finalização da compra",
+      "note": "Instruções especiais do pedido",
+      "checkout": "Pagar pedido",
+      "empty": "O teu carrinho está vazio",
+      "cart_error": "Ocorreu um erro ao atualizar o teu carrinho de compras. Por favor, tenta novamente.",
+      "cart_quantity_error_html": "Só podes adicionar {{ quantity }} deste artigo ao teu carrinho.",
+      "taxes_and_shipping_policy_at_checkout_html": "Os impostos e <a href=\"{{ link }}\">custos de envio</a> são calculados na página de pagamento",
+      "taxes_included_but_shipping_at_checkout": "Imposto incluído e os custos de envio são calculados no ecrã de pagamento",
+      "taxes_included_and_shipping_policy_html": "Imposto incluído. Os <a href=\"{{ link }}\">custos de envio</a> são calculados na página de pagamento.",
+      "taxes_and_shipping_at_checkout": "Os impostos e os custos de envio são calculados no ecrã de pagamento",
       "headings": {
         "product": "Produto",
         "price": "Preço",
         "total": "Total",
         "quantity": "Quantidade",
-        "image": "Imagem de produto"
+        "image": "Imagem do produto"
       },
       "update": "Atualizar",
       "login": {
-        "title": "Tem uma conta?",
-        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Inicie sessão</a> para finalizar a compra mais rápido."
+        "title": "Tens uma conta?",
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Inicia sessão</a> para finalizar as suas compras mais rapidamente."
       }
     },
     "footer": {
-      "payment": "Métodos de pagamento"
+      "payment": "Formas de pagamento"
     },
     "featured_blog": {
       "view_all": "Ver tudo",
-      "onboarding_title": "Publicação no blogue",
-      "onboarding_content": "Apresente aos clientes um resumo da publicação no blogue"
+      "onboarding_title": "Artigo de blog",
+      "onboarding_content": "Oferece aos teus clientes um resumo do teu artigo de blog"
     },
     "featured_collection": {
       "view_all": "Ver tudo",
@@ -295,19 +295,19 @@
     "collection_template": {
       "title": "Coleção",
       "empty": "Nenhum produto encontrado",
-      "use_fewer_filters_html": "Utilizar menos filtros ou <a class=\"{{ class }}\" href=\"{{ link }}\">remover tudo</a>"
+      "use_fewer_filters_html": "Usa menos filtros ou <a class=\"{{ class }}\" href=\"{{ link }}\">elimina-os todos</a>"
     },
     "video": {
       "load_video": "Carregar vídeo: {{ description }}"
     },
     "slideshow": {
-      "load_slide": "Carregar slide",
-      "previous_slideshow": "Diapositivo anterior",
-      "next_slideshow": "Diapositivo seguinte",
-      "pause_slideshow": "Pausa na apresentação de diapositivos",
-      "play_slideshow": "Reproduzir apresentação de diapositivos",
+      "load_slide": "Carregar diapositiva",
+      "previous_slideshow": "Diapositiva anterior",
+      "next_slideshow": "Slide seguinte",
+      "pause_slideshow": "Pausar a apresentação",
+      "play_slideshow": "Reproduzir a apresentação",
       "carousel": "Carrossel",
-      "slide": "Diapositivo"
+      "slide": "Diapositiva"
     },
     "page": {
       "title": "Título da página"
@@ -431,24 +431,24 @@
   "gift_cards": {
     "issued": {
       "title": "Aqui está o seu cartão de oferta de {{ value }} para {{ shop }}!",
-      "subtext": "O seu cartão de oferta",
-      "gift_card_code": "Código do cartão de oferta",
+      "subtext": "O seu cartão-presente",
+      "gift_card_code": "Código de cartão de oferta",
       "shop_link": "Continuar a comprar",
-      "remaining_html": "{{ balance }} restante",
-      "add_to_apple_wallet": "Adicionar a Apple Wallet",
-      "qr_image_alt": "Código QR - digitalizar para resgatar cartão de oferta",
+      "remaining_html": "Saldo {{ balance }}",
+      "add_to_apple_wallet": "Adicionar à Apple Wallet",
+      "qr_image_alt": "Código QR: escaneie para resgatar o cartão de oferta",
       "copy_code": "Copiar código",
-      "expired": "Expirado",
-      "copy_code_success": "Código copiado com sucesso",
+      "expired": "Vencido",
+      "copy_code_success": "O código foi copiado corretamente",
       "print_gift_card": "Imprimir"
     }
   },
   "structured_data": {
     "breadcrumbs": {
-      "collections": "Coleções",
+      "collections": "Colecções",
       "search": "Buscador de produtos",
       "page": "Página",
-      "cart": "Carrinho",
+      "cart": "Carro de compras",
       "products": "Produtos",
       "tags_html": "Etiquetas"
     }
