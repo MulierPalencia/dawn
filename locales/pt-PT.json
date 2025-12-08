@@ -868,7 +868,79 @@
         "no_working_method_error": "Esta loja não pode aceitar pagamentos neste momento. Atualize a página ou volte mais tarde.",
         "brand_not_available": "Esta loja não aceita {{brand}}. Use um cartão diferente para efetuar o pagamento.",
         "shipping_rate_updated": "Foram atualizados os métodos de envio disponíveis. Confirma a tua escolha antes de iniciares o processo de pagamento.",
-        "billing_address_invalid_phone": "Atualize o número de telefone do seu endereço de faturação para {{label}} {{last_digits}} para continuar."
+        "billing_address_invalid_phone": "Atualize o número de telefone do seu endereço de faturação para {{label}} {{last_digits}} para continuar.",
+        "billing_address_invalid_phone_no_card": "Atualize o número de telefone do seu endereço de faturação para continuar.",
+        "preview_not_available": {
+          "title": "Pré-visualização não disponível",
+          "content": "Não te preocupes, este processo de pagamento expresso funciona para os teus clientes.",
+          "button": "Aceitar"
+        },
+        "card_fields": {
+          "errors": {
+            "required": {
+              "issue_date": "Introduza uma data de emissão válida",
+              "issue_number": "Introduza um número de emissão válido"
+            },
+            "invalid": {
+              "verification_value": "Introduza um código de segurança (CVV) válido"
+            }
+          }
+        },
+        "simulated_checkout": "Vista prévia disponível em breve",
+        "vaulting_agreement_label": "Guarda a minha informação de pagamento com %{company} para acelerar o processo de pagamento.",
+        "business_customer_vaulting_payment_label": "Guarda esta forma de pagamento ao finalizar o processo de pagamento e autoriza a %{company} a utilizá-la para futuras compras nesta loja. Todos os contactos atribuídos a esta loja podem usar a forma de pagamento.",
+        "purchase_options_and_vaulting_agreement_label": "Um ou mais artigos no carrinho são uma compra diferida ou uma subscrição. Ao continuar com o pagamento, aceitas que serão aplicados encargos automaticamente ao teu método de pagamento conforme o preço e a frequência indicados nesta página até que termine ou cancelares. Todas as cancelamentos estão sujeitos à %{cancellation_policy_label}.",
+        "purchase_options_cancellation_policy_label": "política de cancelação",
+        "use_different_credit_card_label": "Usar outro cartão",
+        "saved_credit_card": "O teu cartão de crédito guardado",
+        "saved_credit_card_info": "Últimos quatro dígitos",
+        "saved_credit_cards_modal": {
+          "view_all_label": "Ver todos os cartões guardados",
+          "done": "Pronto",
+          "cancel": "Cancelar"
+        },
+        "expired_cards_info": {
+          "one": "Há %{count} cartão expirado que podes ver e editar na tua conta.",
+          "other": "Há %{count} cartões expirados que podes ver e editar na tua conta.",
+          "many": "Há %{count} cartões expirados que podes ver e editar na tua conta."
+        },
+        "local_payment_method_receiver_notice": "Após efetuar a encomenda, receberás os detalhes do pagamento. Efetua o pagamento num multibanco ou online no prazo de {{dueDays}} dias.",
+        "order_edit_banner_title": "É necessário o pagamento de {{amount_owed}}",
+        "order_edit_banner_subtitle": "O teu pedido {{order_number}} foi atualizado. Verifica as alterações e paga para confirmar o pedido.",
+        "order_edit_banner_single_item_added": "Adicionado",
+        "order_edit_banner_multiple_items_added": "Foi adicionado {{amount}}.",
+        "order_edit_banner_single_item_removed": "Eliminado",
+        "order_edit_banner_multiple_items_removed": "Foram eliminados {{amount}}.",
+        "gift_card_wrapper": {
+          "heading": "Cartão de oferta",
+          "apply_gift_card_label": "Solicitar um cartão de oferta",
+          "payment_tag": "Cartão de oferta",
+          "apply_another_gift_card_label": "Solicitar outro cartão de oferta",
+          "gift_card_label": "Cartão de oferta %{identifier}",
+          "add_label": "Adicionar um cartão de oferta",
+          "manage_label": "Gerir cartões de oferta"
+        },
+        "custom_onsite_payment_method_modal": {
+          "title": "Confirmação de pagamento personalizada no site"
+        },
+        "markets_pro_disclaimer_label": "Ao clicar abaixo e completar a encomenda, aceitas a compra do(s) teu(s) artigo(s) através da Global-e como responsável pelo processamento dos pagamentos da transação, de acordo com os %{markets_pro_terms} e a %{privacy_policy} da Global-e. A Global-e é um fornecedor internacional de serviços de logística da %{shop_name}.",
+        "markets_pro_disclaimer_terms_and_conditions": "Termos e condições",
+        "markets_pro_disclaimer_privacy_policy": "Política de privacidade",
+        "markets_pro_disclaimer_terms_and_conditions_title": "Termos e condições do responsável pelo processamento de pagamentos",
+        "markets_pro_disclaimer_privacy_policy_title": "Política de privacidade do responsável pelo processamento de pagamentos",
+        "purchase_order_number": {
+          "title": "Número de ordem de compra",
+          "label": "Número de ordem de compra (opcional)"
+        },
+        "alternative_payment_currency_total_notice": "Nota: Será cobrado %{amount_due}.",
+        "waiting_on_taxes_message": "Se os seus impostos não forem calculados nos próximos segundos, atualize a página.",
+        "waiting_on_taxes_notice": "Calculando impostos",
+        "order_edit_banner_single_item_returned": "Devolvido",
+        "order_edit_banner_multiple_items_returned": "Foi devolvido {{amount}}.",
+        "shop_pay_installments_label": "Cuotas do Shop Pay",
+        "add_credit_card_modal": {
+          "title": "Agregar cartão"
+        }
       },
       "review": {
         "blocks": {
