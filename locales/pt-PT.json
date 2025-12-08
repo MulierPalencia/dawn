@@ -3309,7 +3309,83 @@
           "start_free_trial": "Começar um teste gratuito"
         },
         "owner_ctas": {
-          "header": "És o proprietário da loja?"
+          "header": "És o proprietário da loja?",
+          "fix_domain": "Para terminar de configurar o teu novo endereço web, vai a %{domain_settings_link}. Clica em \"Connect domain\" (Ligar domínio) e introduz: %{domain}.<br>Se tiveres problemas para aceder à loja, experimenta a página %{forgot_your_store_link}.",
+          "fix_domain_link_text": "a configuração do teu domínio",
+          "forgot_your_store_link_text": "Esqueceste-te da tua loja?",
+          "add_storefront": "Para configurar o teu site, podes configurar o canal da Loja online no %{admin_link}. Se tiveres problemas para aceder à loja, experimenta a página %{forgot_your_store_link}.",
+          "admin_link_text": "painel de controlo"
+        },
+        "ctas": {
+          "sell_in_person": {
+            "header": "Vende em pessoa",
+            "caption": "Obtenha as funcionalidades de que precisa para gerir a sua loja física, quer esteja a começar quer a crescer.",
+            "link_text": "Começar teste gratuito"
+          },
+          "open_a_store": {
+            "header": "Abre uma nova loja Shopify",
+            "caption": "Comece um teste gratuito de 3 dias e continue por $1/mês durante os 3 meses seguintes.",
+            "link_text": "Regista-te agora"
+          },
+          "editions": {
+            "header": "Conheça as Shopify Editions",
+            "caption": "Com mais de 100 atualizações de produtos, podes ser mais produtivo, criativo e poderoso no comércio do que alguma vez imaginaste.",
+            "link_text": "Explorar o mais recente da Editions"
+          },
+          "store_owner": {
+            "header": "És o proprietário da loja?",
+            "caption": "Tem dificuldades em aceder à loja? Experimente a funcionalidade %{forgot_your_store_link}. Se desejar reativar a sua loja, contacte %{shopify_support_link}.",
+            "shopify_support_link_text": "atendimento ao cliente da Shopify"
+          }
+        }
+      }
+    },
+    "notices": {
+      "customer": {
+        "password_reset_error": "Erro ao redefinir a palavra-passe",
+        "no_account_found": "Não foi encontrada nenhuma conta com este endereço de correio eletrónico.",
+        "invalid_credentials": "Correio eletrónico ou palavra-passe incorretos.",
+        "denylisted_reset_password": "Não é possível aceder à tua conta porque a palavra-passe atual não é segura. Irás receber um e-mail para atualizares a tua palavra-passe.",
+        "signup_disabled": "A criação da conta de cliente foi desativada.",
+        "subscribe_error": "Erro de subscrição",
+        "unsubscribe_error": "Erro ao cancelar a subscrição"
+      },
+      "address": {
+        "updated": "Direção atualizada com sucesso.",
+        "error_updating": "Erro ao atualizar o endereço.",
+        "created": "Direção criada com sucesso",
+        "error_creating": "Erro ao criar o endereço.",
+        "deleted": "Endereço eliminado com sucesso.",
+        "error_deleting": "Erro ao eliminar o endereço."
+      },
+      "order": {
+        "not_available": "Este pedido não está disponível.",
+        "financial_status": {
+          "authorized": "Autorizada",
+          "pending": "Pendente",
+          "paid": "Paga",
+          "unpaid": "Não paga",
+          "voided": "Anulada",
+          "partially_paid": "Parcialmente paga",
+          "partially_refunded": "Reembolsada parcialmente",
+          "refunded": "Reembolsada",
+          "expired": "Vencido"
+        },
+        "fulfillment_status": {
+          "fulfilled": "Concluída",
+          "complete": "Completar",
+          "partial": "Parcial",
+          "unfulfilled": "Não realizada",
+          "restocked": "Peça de substituição"
+        },
+        "transaction_status": {
+          "success": "Sucesso",
+          "pending": "Pendente",
+          "failure": "Falha",
+          "error": "Erro"
+        },
+        "cancel_reason": {
+          "declined": "Pagamento recusado"
         }
       }
     }
