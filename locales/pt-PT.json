@@ -3170,12 +3170,88 @@
         }
       },
       "tooltip": {
-        "accessibility_label_context": "Mais informações sobre %{context}"
+        "accessibility_label_context": "Mais informações sobre %{context}",
+        "additional_payment_methods": "Formas de pagamento adicionais"
+      },
+      "remote": {
+        "errors": {
+          "only_remote_merchandise_lines": "O pagamento contém apenas mercadoria promocional de uma loja remota. É necessário um redirecionamento para a loja remota para completar o pagamento.",
+          "currency_mismatch": "Este artigo não pode ser adicionado ao seu carrinho porque é de uma loja que utiliza outra moeda.",
+          "max_remote_shops_exceeded": "Não é possível adicionar este produto porque o seu carrinho já atingiu o máximo permitido em outras lojas.",
+          "currency_mismatch_removal": "Foi removido um artigo do seu carrinho porque pertence a uma loja que utiliza uma moeda diferente."
+        }
+      },
+      "remote_merchandise_only": {
+        "title": "Completa a compra",
+        "remote_only_notice": "Estes artigos são vendidos e enviados por outras lojas. Para completar a compra, deve pagar nas lojas correspondentes.",
+        "return_to_store_label": "Voltar à loja",
+        "checkout_on_shop_label": "Pagar em %{shop_name}",
+        "single_shop_transition": "Está a ser redirecionado para %{advertiser} para completar a sua compra.",
+        "detail_item_label": {
+          "one": "{{count}} artigo",
+          "other": "{{count}} artigos",
+          "many": "{{count}} artigos"
+        }
+      },
+      "remote_policies": {
+        "unavailable_policy": "Não foi fornecida nenhuma %{policy_name} para esta loja. Para mais informações, contacte diretamente %{shop_name}."
+      },
+      "offsite_payment_failed": {
+        "payment_not_processed_title": "Pagamento falhado",
+        "payment_not_processed_text": "Tente escanear o código QR novamente. Se ainda não funcionar, informe a nossa equipa e experimente outro método de pagamento.",
+        "payment_link_expired_title": "O link de pagamento expirou",
+        "payment_link_expired_text": "Tente escanear o código QR novamente.",
+        "title": "Erro no pagamento externo"
       }
     },
     "sentence": {
       "two_words_connector": "e",
       "last_word_connector": ", e"
+    },
+    "pagination": {
+      "previous": "Anterior",
+      "next": "Seguinte"
+    },
+    "links": {
+      "powered_by_shopify": "Tecnologia da Shopify",
+      "learn_more": "Ler mais"
+    },
+    "feed": {
+      "more": "Mais"
+    },
+    "attributes": {
+      "email": "correio eletrónico",
+      "password": "palavra-passe",
+      "password_confirmation": "a confirmação da palavra-passe",
+      "first_name": "Nome",
+      "last_name": "Apelido",
+      "body": "mensagem",
+      "signature": "Direção"
+    },
+    "addresses": {
+      "zip_code": "Código postal",
+      "postal_code": "Código postal",
+      "postcode": "Código postal",
+      "pincode": "Código postal",
+      "region": "Região",
+      "prefecture": "Prefeitura",
+      "province": "Província",
+      "state": "Estado",
+      "state_and_territory": "Estado/Território",
+      "county": "Condado",
+      "emirate": "Emirado",
+      "governorate": "Província",
+      "confirm": "Tem a certeza de que quer eliminar este endereço?"
+    },
+    "collections": {
+      "sorting": {
+        "manual": "Características",
+        "best_selling": "Mais vendidos",
+        "az": "Alfabeticamente, A-Z",
+        "za": "Alfabeticamente, Z-A",
+        "price_ascending": "Preço, do menor para o maior",
+        "price_descending": "Preço, do maior para o menor"
+      }
     }
   },
   "customer_accounts": {
