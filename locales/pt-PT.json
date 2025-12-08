@@ -152,80 +152,80 @@
         "play_video": "Reproduzir vídeo",
         "gallery_viewer": "Visor da galeria",
         "load_image": "Carregar a imagem {{ index }} na vista da galeria",
-        "load_model": "Carregar Modelo 3D {{ index }} na vista de galeria",
-        "load_video": "Reproduzir vídeo {{ index }} na vista de galeria",
-        "image_available": "A imagem {{ index }} está agora disponível na vista de galeria"
+        "load_model": "Carregar o modelo 3D {{ index }} na vista da galeria",
+        "load_video": "Reproduzir o vídeo {{ index }} na vista da galeria",
+        "image_available": "A imagem {{ index }} já está disponível na vista da galeria"
       },
-      "view_full_details": "Ver detalhes completos",
+      "view_full_details": "Ver todos os detalhes",
       "include_taxes": "Imposto incluído.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Envio</a> calculado na finalização da compra.",
-      "choose_options": "Escolher opções",
-      "choose_product_options": "Escolha opções para {{ product_name }}"
+      "shipping_policy_html": "Os <a href=\"{{ link }}\">custos de envio</a> são calculados na página de pagamento.",
+      "choose_options": "Selecionar opções",
+      "choose_product_options": "Escolher opções para {{ product_name }}"
     },
     "modal": {
-      "label": "Galeria de conteúdo multimédia"
+      "label": "Galeria multimédia"
     },
     "facets": {
       "apply": "Aplicar",
-      "clear": "Limpar",
-      "clear_all": "Remover tudo",
+      "clear": "Apagar",
+      "clear_all": "Eliminar todos",
       "from": "De",
       "filter_and_sort": "Filtrar e ordenar",
       "filter_by_label": "Filtrar:",
-      "filter_button": "Filtro",
+      "filter_button": "Filtrar",
       "filters_selected": {
-        "one": "{{ count }} selecionada",
-        "other": "{{ count }} selecionada",
-        "many": "{{ count }} selecionada"
+        "one": "{{ count }} selecionado",
+        "other": "{{ count }} selecionados",
+        "many": "{{ count }} selecionados"
       },
       "max_price": "O preço mais alto é {{ price }}",
       "product_count": {
-        "one": "{{ product_count }} de {{ count }} produto",
-        "other": "{{ product_count }} de {{ count }} produtos",
-        "many": "{{ product_count }} de {{ count }} produtos"
+        "one": "{{ product_count }} produto de um total de {{ count }}",
+        "other": "{{ product_count }} produtos de um total de {{ count }}",
+        "many": "{{ product_count }} produtos de um total de {{ count }}"
       },
       "product_count_simple": {
         "one": "{{ count }} produto",
         "other": "{{ count }} produtos",
         "many": "{{ count }} produtos"
       },
-      "reset": "Repor",
+      "reset": "Restabelecer",
       "sort_button": "Ordenar",
       "sort_by_label": "Ordenar por:",
       "to": "Para",
-      "clear_filter": "Remover filtro",
+      "clear_filter": "Eliminar filtro",
       "filter_selected_accessibility": "{{ type }} ({{ count }} filtros selecionados)",
       "show_more": "Mostrar mais",
       "show_less": "Mostrar menos",
-      "shipping_preorder_html": "O tamanho {{ size }} é um <a href=\"{{ link }}\">produto de pré-venda</a>.",
-      "shipping_preorders_html": "As tamanhos {{ size }} são um <a href=\"{{ link }}\">produto de pré-venda</a>."
+      "shipping_preorder_html": "O tamanho {{ size }} é um <a href=\"{{ link }}\">produto em pré-venda</a>.",
+      "shipping_preorders_html": "Os tamanhos {{ size }} são um <a href=\"{{ link }}\">produto em pré-venda</a>."
     }
   },
   "templates": {
     "search": {
-      "no_results": "Não foram encontrados resultados para \"{{ terms }}\". Verifique a ortografia ou utilize uma palavra ou frase diferente.",
+      "no_results": "Não foram encontrados resultados para “{{ terms }}”. Verifique a ortografia ou utilize uma palavra ou frase diferente.",
       "page": "Página",
       "results_with_count": {
         "one": "{{ count }} resultado",
         "other": "{{ count }} resultados",
         "many": "{{ count }} resultados"
       },
-      "title": "Resultados da pesquisa",
+      "title": "Resultados de pesquisa",
       "products": "Produtos",
-      "search_for": "Procurar por \"{{ terms }}\"",
+      "search_for": "Buscar “{{ terms }}”",
       "results_with_count_and_term": {
-        "one": "{{ count }} resultado encontrado para “{{ terms }}”",
-        "other": "{{ count }} resultado encontrado para “{{ terms }}”",
-        "many": "{{ count }} resultado encontrado para “{{ terms }}”"
+        "one": "Foi encontrado {{ count }} resultado para \"{{ terms }}\"",
+        "other": "Foram encontrados {{ count }} resultados para \"{{ terms }}\"",
+        "many": "Foram encontrados {{ count }} resultados para \"{{ terms }}\""
       }
     },
     "cart": {
-      "cart": "Carrinho"
+      "cart": "Carro de compras"
     },
     "contact": {
       "form": {
         "name": "Nome",
-        "email": "E-mail",
+        "email": "Correio eletrónico",
         "phone": "Número de telefone",
         "comment": "Comentário",
         "send": "Enviar",
