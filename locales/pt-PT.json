@@ -4275,6 +4275,64 @@
           "show_less_orders_in_review": "Mostrar menos pedidos na revisão"
         }
       }
+    },
+    "ui_components": {
+      "closeModal": "Fechar",
+      "submit": "Enviar",
+      "processing": "A processar...",
+      "increase": "Aumentar {{type}}",
+      "decrease": "Reduzir {{type}}",
+      "minimumReached": "Mínimo de {{value}} alcançado",
+      "maximumReached": "Máximo de {{value}} alcançado",
+      "january": "Janeiro",
+      "february": "Fevereiro",
+      "march": "Março",
+      "april": "Abril",
+      "may": "Maio",
+      "june": "Junho",
+      "july": "Julio",
+      "august": "Agosto",
+      "september": "Setembro",
+      "october": "Outubro",
+      "november": "Novembro",
+      "december": "Dezembro",
+      "monday": "Segunda-feira",
+      "tuesday": "terça-feira",
+      "wednesday": "Quarta-feira",
+      "thursday": "Quinta-feira",
+      "friday": "Sexta-feira",
+      "saturday": "Sábado",
+      "sunday": "Domingo",
+      "mondayAbbreviation": "Lu.",
+      "tuesdayAbbreviation": "Sra.",
+      "wednesdayAbbreviation": "Mi.",
+      "thursdayAbbreviation": "Ju.",
+      "fridayAbbreviation": "Vi.",
+      "saturdayAbbreviation": "Sá.",
+      "sundayAbbreviation": "Fazer.",
+      "showNextMonth": "Mostrar o próximo mês, {{month}} {{year}}",
+      "showPreviousMonth": "Mostrar o mês anterior, {{month}} {{year}}",
+      "rangeStart": "Início do intervalo",
+      "inRange": "Dentro do alcance",
+      "rangeEnd": "Fim do intervalo",
+      "autocompleteOptionsAvailable": {
+        "one": "{{count}} artigo disponível",
+        "other": "{{count}} artigos disponíveis",
+        "many": "{{count}} artigos disponíveis"
+      },
+      "removeItem": "Eliminar {{label}}",
+      "removeTag": "Eliminar etiqueta",
+      "month": {
+        "one": "mês",
+        "other": "meses",
+        "many": "meses"
+      },
+      "mapClusterTitle": {
+        "one": "Grupo de {{number}} marcador",
+        "other": "Grupo de {{number}} marcadores",
+        "many": "Grupo de {{number}} marcadores"
+      },
+      "expandSheet": "Expandir"
     }
   }
 }
