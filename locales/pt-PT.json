@@ -2242,8 +2242,76 @@
         "shop_qr_with_sms_upsell": {
           "qr_code": {
             "title": "Digitaliza com o teu telemóvel"
+          },
+          "sms": {
+            "title": "Ou envia um link para o teu telemóvel"
           }
-        }
+        },
+        "estimated_delivery": "Data de entrega estimada atual:",
+        "view_business_customer_account": "Ver conta",
+        "company_location_title": "Filial",
+        "thank_you_title_review": "O seu pedido foi enviado para revisão",
+        "thank_you_confirmed_order_with_draft": "Contactar-émos contigo se precisarmos de mais informações ou uma vez que a encomenda seja confirmada.",
+        "breadcrumbs_submitted": "Enviada",
+        "breadcrumbs_in_review": "Em revisão",
+        "breadcrumbs_confirmed": "Confirmada",
+        "missing_shipping_address_banner": {
+          "title": "A encomenda não tem nenhum endereço de envio",
+          "text_html": "%{contact_us} para adicionar o seu endereço",
+          "contact_us": "contacta-nos"
+        },
+        "order_status_confirmed_with_installments_payment_return": "Volta a concentrar a tua atenção no vendedor.",
+        "order_status_confirmed_with_installments_payment_confirm": "Receberás em breve um e-mail de confirmação com o teu número de encomenda e os detalhes do teu programa de prestações.",
+        "first_payment_complete": "Primeiro pagamento concluído",
+        "in_store_purchase": "Compra em loja física",
+        "choose_payment_method_later": "Escolher a forma de pagamento mais tarde",
+        "purchase_order_number_title": "Ordem de compra n.º %{purchase_order_number}",
+        "thank_you_ready_for_picked_up": "A encomenda foi levantada em %{address}.",
+        "ready_for_delivery": "Pronto para entrega",
+        "order_updates_subscribe_to_email_notifications_failed": "Não podemos armazenar este endereço de email para atualizações. Tente novamente ou use outro endereço de email.",
+        "order_updates_subscribe_to_email_notifications_email_already_exists": "O endereço de email que introduziu já existe.",
+        "subscriptions_management": {
+          "title": "Subscrição",
+          "description": "Continua na tua conta para ver e gerir as tuas subscrições.",
+          "button_label": "Gerir a tua subscrição"
+        },
+        "manage_order_label": "Gerir a tua encomenda",
+        "gift_card_confirmation_by_text_typ": {
+          "one": "Em poucos minutos receberás uma mensagem de texto com o teu cartão de oferta.",
+          "other": "Em alguns minutos receberás uma mensagem de texto com os teus cartões de oferta.",
+          "many": "Em alguns minutos receberás uma mensagem de texto com os teus cartões de oferta."
+        },
+        "gift_card_confirmation_by_email_typ": {
+          "one": "Em poucos minutos receberás um e-mail com o teu cartão de oferta.",
+          "other": "Em poucos minutos receberás um e-mail com os teus cartões de oferta.",
+          "many": "Em poucos minutos receberás um e-mail com os teus cartões de oferta."
+        },
+        "gift_card_email_title": {
+          "one": "Cartão-presente enviado por correio eletrónico",
+          "other": "Cartões-presente enviados por correio eletrónico",
+          "many": "Cartões-presente enviados por correio eletrónico"
+        },
+        "gift_card_text_title": {
+          "one": "Cartão-presente enviado por mensagem de texto",
+          "other": "Cartões-presente enviados por mensagem de texto",
+          "many": "Cartões-presente enviados por mensagem de texto"
+        },
+        "resend_gift_cards_by_email": "Reenviar e-mail",
+        "resend_gift_cards_by_text": "Reenviar mensagem de texto",
+        "gift_card_resent_confirmation": {
+          "one": "O cartão de oferta foi reenviado.",
+          "other": "Os cartões-presente foram reenviados.",
+          "many": "Os cartões-presente foram reenviados."
+        },
+        "gift_card_resend_failure": {
+          "one": "Ocorreu um erro ao reenviar o seu cartão de oferta. Tente novamente ou contacte-nos.",
+          "other": "Ocorreu um erro ao reenviar os teus cartões de oferta. Tenta novamente ou contacta-nos.",
+          "many": "Ocorreu um erro ao reenviar os teus cartões de oferta. Tenta novamente ou contacta-nos."
+        },
+        "failed_pending_payment_page_title": "Há um problema com o teu pagamento",
+        "thank_you_title_payments_app_pending_default": "O pagamento está a ser processado.",
+        "thank_you_title_payments_app_pending_buyer_action_required": "O teu pedido foi recebido",
+        "thank_you_title_payments_app_failed_pending_payment": "O seu pagamento não pôde ser processado"
       }
     },
     "sentence": {
