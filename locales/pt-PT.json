@@ -754,7 +754,7 @@
         },
         "offsite_gateway_redirect_hint": "Após clicar em “%{button_label}”, serás redirecionado para %{gateway_label} para completar a tua compra de forma segura.",
         "offsite_gateway_redirect_hint_multi_currency_html": "%{gateway_label} total %{total_shop_price}",
-        "billing_address_title": "Morada de faturação",
+        "billing_address_title": "Endereço de faturação",
         "billing_address_description": "Selecciona o endereço que corresponda ao teu cartão ou forma de pagamento.",
         "billing_address_description_no_shipping_address": "Introduza o endereço que corresponda ao seu cartão ou forma de pagamento.",
         "no_js_credit_card_fields_redirect_hint": "Serás redirecionado para adicionar a tua informação de pagamento.",
