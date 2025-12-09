@@ -2030,7 +2030,7 @@
         "credit_card_expires_on_notice": "Expira em %{month}/%{year}",
         "express_payment_gateway_label": "Exprés",
         "manual_payment_gateway_label": "Manual",
-        "billing_address_title": "Endereço de faturação",
+        "billing_address_title": "Morada de faturação",
         "free_label": "Grátis"
       },
       "field_errors": {
