@@ -912,9 +912,9 @@
         "order_edit_banner_single_item_removed": "Eliminado",
         "order_edit_banner_multiple_items_removed": "Foram eliminados {{amount}}.",
         "gift_card_wrapper": {
-          "heading": "Cartão-presente",
+          "heading": "Cartão de oferta",
           "apply_gift_card_label": "Solicitar um cartão de oferta",
-          "payment_tag": "Cartão-presente",
+          "payment_tag": "Cartão de oferta",
           "apply_another_gift_card_label": "Solicitar outro cartão de oferta",
           "gift_card_label": "Cartão de oferta %{identifier}",
           "add_label": "Adicionar um cartão de oferta",
