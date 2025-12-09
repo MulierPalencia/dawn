@@ -197,7 +197,7 @@
       "filter_selected_accessibility": "{{ type }} ({{ count }} filtros selecionados)",
       "show_more": "Mostrar mais",
       "show_less": "Mostrar menos",
-      "shipping_preorder_html": "O tamanho {{ size }} é um <a href=\"{{ link }}\">produto em pré-venda</a>.",
+      "shipping_preorder_html": "A talla {{ size }} é um <a href=\"{{ link }}\">produto em pré-venda</a>.",
       "shipping_preorders_html": "Os tamanhos {{ size }} são um <a href=\"{{ link }}\">produto em pré-venda</a>."
     }
   },
