@@ -846,7 +846,7 @@
           "order_contains_subscriptions": "Subscrição",
           "order_contains_fixed_selling_plans": "O total pode não incluir impostos, envio, encargos diferidos e alguns descontos. Continue para o ecrã de pagamento para o montante que vence hoje."
         },
-        "purchase_options_agreement_label_html": "Compreendo que um ou mais artigos no meu carrinho são uma compra diferida ou recorrente. Ao continuar, aceito a\n<a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">política de cancelação</a>\ne autorizo a cobrança no meu método de pagamento de acordo com os preços, a frequência e as datas indicadas nesta página até que a minha encomenda seja preparada ou cancelada, se permitido.",
+        "purchase_options_agreement_label_html": "Compreendo que um ou mais artigos no meu carrinho são uma compra diferida ou recorrente. Ao continuar, aceito a\n<a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">política de cancelamento</a>\ne autorizo a cobrança no meu método de pagamento de acordo com os preços, a frequência e as datas indicadas nesta página até que a minha encomenda seja preparada ou cancelada, se permitido.",
         "payment_method_saved": "Forma de pagamento guardada",
         "card_vaulted_company_location": "Cartão guardado para esta sucursal",
         "order_covered_by_store_credit_notice": "O pedido está coberto pelo teu crédito na loja.",
