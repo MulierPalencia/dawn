@@ -3623,7 +3623,7 @@
         "expand_events_label": "Mostrar detalhes",
         "hide_events_label": "Ocultar detalhes",
         "print_shipping_label": "Imprimir etiqueta de envio",
-        "tracking_number": "Número de seguimento:",
+        "tracking_number": "Número de rastreio:",
         "return_and_refund_modal_header": "Política de reembolso",
         "ineligible_return_message": "Nenhum artigo deste pedido cumpre os requisitos para devolução.",
         "ineligible_return_message_when_returned": "Nenhum outro artigo deste pedido cumpre os requisitos para devolução.",
