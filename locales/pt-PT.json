@@ -3504,7 +3504,7 @@
         "opt_in": {
           "opted_in_html": "<b>Subscreveste o acompanhamento de emails abertos.</b>",
           "visibility": "As taxas de emails abertos serão reportadas de forma anónima. Apenas veremos se abriu um email como parte de uma taxa agregada de emails abertos.",
-          "opt_out_html": "Podes <a style='text-decoration:underline;' href='%{link}'>cancelar a subscrição</a> do acompanhamento de emails abertos se não quiseres partilhar esta informação.",
+          "opt_out_html": "Podes <a style='text-decoration:underline;' href='%{link}'>cancelar a subscrição</a> do rastreio de emails abertos se não quiseres partilhar esta informação.",
           "preview_bar": "Estás a rever a pré-visualização do que os clientes verão quando subscreverem o acompanhamento de emails abertos."
         },
         "opt_out": {
@@ -3524,7 +3524,7 @@
         "updated_policy": {
           "status_html": "<b>O acompanhamento de e-mails abertos é informado.</b>",
           "visibility": "Atualizámos a nossa política e agora fazemos o rastreio de emails abertos. As taxas de emails abertos serão reportadas de forma anónima. Apenas saberemos se abriu um email como parte da taxa total de emails abertos.",
-          "opt_out_html": "Se não deseja partilhar esta informação, pode <a style='text-decoration:underline;' href='%{link}'>cancelar a subscrição</a>."
+          "opt_out_html": "Se não desejares partilhar esta informação, podes <a style='text-decoration:underline;' href='%{link}'>cancelar a subscrição</a>."
         }
       }
     },
