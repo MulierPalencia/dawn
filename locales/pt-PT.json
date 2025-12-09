@@ -4037,7 +4037,7 @@
         "status_timestamp": "Atualizado em {{date}}",
         "delivery_promise": {
           "promise_line": {
-            "single_brand_label": "Entrega respaldada por",
+            "single_brand_label": "Entrega garantida por",
             "mixed_brands_label": "Entrega garantida",
             "not_delivered_by_label": "Ainda não entregue em {{date}}",
             "modal_accessibility_button_label": "Informação sobre a promessa de entrega"
@@ -4048,7 +4048,7 @@
             "download_shop_app_label": "Descarregar Shop"
           },
           "details_modal": {
-            "title": "Entrega respaldada por",
+            "title": "Entrega garantida por",
             "modal_accessiblity_label": "Informação sobre a promessa de entrega",
             "delivery_by_label": "Entrega para {{date}}",
             "delivery_guaranteed_by_label": "Data de entrega garantida para {{date}}",
