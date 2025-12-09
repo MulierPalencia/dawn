@@ -3556,7 +3556,7 @@
         "title": "Pagamento",
         "card_payment_details": "acabada em {{lastDigits}} - {{formattedTransactionAmount}}",
         "shop_pay_installments": {
-          "paid_in_installments": "Pago com Prestações Shop Pay",
+          "paid_in_installments": "Pago com Prestações do Shop Pay",
           "view_schedule": "Ver cronograma"
         },
         "gift_card_payment_details": "acabada em {{lastDigits}} - {{formattedTransactionAmount}}",
@@ -3579,7 +3579,7 @@
           "source": "Por favor, insira o seu nome de utilizador e palavra-passe para iniciar sessão. Se ainda não tem uma conta, clique em Registar para criar uma."
         },
         "payment_type": {
-          "gift_card": "Cartão-presente",
+          "gift_card": "Cartão de oferta",
           "store_credit": "Crédito na loja",
           "money_order": "Giro postal",
           "cash_on_delivery": "Pagamento contra entrega",
