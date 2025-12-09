@@ -4471,7 +4471,7 @@
         "input_field_label": "Correio eletrónico",
         "button": "Continuar",
         "subheading_with_sign_in_options": "Inicia sessão ou cria uma conta",
-        "or": "o"
+        "or": "ou"
       },
       "step_two": {
         "page_title": "Introduzir código - %{shop_name}",
