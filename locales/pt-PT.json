@@ -1083,7 +1083,7 @@
         "blocks": {
           "company_location": "Localização da empresa",
           "contact_method_title": "Contacto",
-          "billing_address_title": "Facturação",
+          "billing_address_title": "Faturação",
           "shipping_address_title": "Enviar para",
           "shipping_method_title": "Método de envio",
           "payment_method_title": "Forma de pagamento",
