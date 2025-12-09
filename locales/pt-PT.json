@@ -2112,7 +2112,7 @@
         "payment_gateway_unsupported_for_deferred_purchase_options": "Esta forma de pagamento não está disponível para as opções de compra diferida.",
         "reduction_code_gift_cards_not_supported_with_deferred_purchase_options": "Os cartões de oferta não são compatíveis com as opções de compra diferida.",
         "delivery_zone_not_found": "Não foi encontrada a zona especificada no país especificado.",
-        "payment_gateway_unsupported_for_development_store_html": "Para fazer uma encomenda de teste, terá de usar uma gateway de pagamento de teste. Saiba mais sobre <a href=\"%{docs_link}\">encomendas de teste em lojas em desenvolvimento</a>.",
+        "payment_gateway_unsupported_for_development_store_html": "Para fazer uma encomenda de teste, terás de usar uma gateway de pagamento de teste. Obtém mais informações sobre <a href=\"%{docs_link}\">encomendas de teste em lojas em desenvolvimento</a>.",
         "payment_gateway_unsupported_for_order_above_maximum_orders_html": "Alcançaste o limite de encomendas numa loja em desenvolvimento com este processador de pagamentos. Para fazer outra encomenda, terás de usar uma gateway de pagamento de teste. Obtém mais informações sobre <a href=\"%{docs_link}\">encomendas de teste em lojas em desenvolvimento</a>.",
         "email_blank": "Introduza um endereço de email",
         "phone_blank": "Introduzir um número de telefone",
