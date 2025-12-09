@@ -2293,7 +2293,7 @@
         "order_status_confirmed_order_local": "Estamos a preparar a tua encomenda para entrega.",
         "delivery_information_label": "Informação de entrega:",
         "gift_card_sent_confirmation": "Cartões-presente enviados",
-        "out_for_delivery_local_title": "O seu pedido está em processo de entrega",
+        "out_for_delivery_local_title": "A sua encomenda está em processo de entrega",
         "out_for_delivery_local_description_html": "O teu pedido está para chegar.",
         "delivered_local_title": "O seu pedido foi entregue",
         "delivered_local_description_html": "Não recebeu a sua encomenda? %{let_us_know}.",
