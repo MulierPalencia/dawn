@@ -3687,7 +3687,7 @@
         "pickup_point": "Ponto de recolha"
       },
       "paid_with_shop_pay_installments_card": {
-        "paid_with_shop_pay_installments": "Pago com Prestações do Shop Pay",
+        "paid_with_shop_pay_installments": "Pago com Prestações Shop Pay",
         "description": "Mantenha-se a par do seu calendário de pagamentos com os lembretes da aplicação Shop.",
         "payment_reminders_button": "Receber lembretes de pagamentos",
         "desktop_qr_code_content": {
