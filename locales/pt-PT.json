@@ -3035,7 +3035,7 @@
         "length_exceeds_maximum": "Reduza o tamanho da nota para 5000 caracteres ou menos."
       },
       "billing": {
-        "billing_address_title": "Faturar para",
+        "billing_address_title": "Faturar a",
         "same_as_shipping": "Igual que o endereço de envio",
         "add_address": "Usar outro endereço",
         "edit": "Editar",
