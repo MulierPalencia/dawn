@@ -789,7 +789,7 @@
         "no_real_orders_dev_store": "Esta loja não pode aceitar encomendas reais nem pagamentos reais.",
         "subscription_agreement_label": "Um ou mais artigos do carrinho são uma compra diferida ou por subscrição. Ao continuar com o pagamento, aceitas que serão aplicados encargos automaticamente ao teu método de pagamento conforme o preço e a frequência indicados nesta página até que termine ou cancelares. Todas as cancelamentos estão sujeitos à %{cancelled}.",
         "subscription_agreement_cancelled": "política de cancelação",
-        "subscription_agreement_label_html": "Reconheço que estou a aceitar uma subscrição. Esta será renovada ao preço e com a frequência indicados até que termine ou se\n<a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">cancele</a>.",
+        "subscription_agreement_label_html": "Reconheço que estou a aceitar uma subscrição. Esta será renovada ao preço e com a frequência indicados até que termine ou seja\n<a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">cancelada</a>.",
         "waiting_on_payment_methods": "A procurar formas de pagamento disponíveis...",
         "apple_pay_payment_error": "Não foi possível completar o seu pagamento. Tente novamente ou utilize outro método de pagamento.",
         "subscription_card_update_agreement_label": "Ao alterar a forma de pagamento, a sua subscrição e os pagamentos recorrentes futuros serão atualizados.",
