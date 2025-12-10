@@ -977,7 +977,7 @@
             "expiry": "Data de validade",
             "security_code": "Código de segurança",
             "name": "Nome do titular do cartão",
-            "billing": "Faturar para"
+            "billing": "Faturar a"
           }
         },
         "payment_method": "Forma de pagamento",
