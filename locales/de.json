@@ -520,6 +520,9 @@
           "limited_window_title_with_final_sale": {
             "many": "Kostenlose Rückgaben während %{count} Tagen, Endangebot ausgeschlossen"
           }
+        },
+        "pickup_unavailable_banner_title_with_country": {
+          "many": "In %{country} sind keine Geschäfte mit deinen Artikeln verfügbar"
         }
       },
       "shipping": {

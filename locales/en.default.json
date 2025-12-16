@@ -544,6 +544,9 @@
           "limited_window_title_with_final_sale": {
             "many": "Free returns for %{count} days, final offer excluded"
           }
+        },
+        "pickup_unavailable_banner_title_with_country": {
+          "many": "There are no stores available in %{country} with your items."
         }
       },
       "shipping": {
