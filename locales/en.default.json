@@ -622,6 +622,9 @@
         },
         "local_pickup": {
           "rollup_title_next": "Place of withdrawal"
+        },
+        "address_form": {
+          "max_address": "The limit of {{max_addresses}} addresses has been reached. Remove an address to add a new one."
         }
       },
       "payment": {
@@ -642,7 +645,9 @@
         },
         "discount_codes_removed_summary": {
           "many": "%{count} discount codes were deleted"
-        }
+        },
+        "saved_addresses": "Saved addresses",
+        "save_this_address": "Save this address"
       },
       "shipping_errors": {
         "shipping_method_not_available_generic": {
@@ -652,7 +657,9 @@
           "many": "One or more items you added cannot be shipped to your location. Remove them to complete the payment, or contact the store."
         },
         "must_use_address_banner": {
-          "many": "Your order can only be shipped to one of these addresses."
+          "many": "Your order can only be shipped to one of these addresses.",
+          "one": "Your order can only be shipped to the address of %{name}.",
+          "other": "Your order can only be shipped to one of these addresses."
         }
       },
       "processing": {
@@ -828,6 +835,12 @@
         "detail_item_label": {
           "many": "{{count}} articles"
         }
+      },
+      "billing": {
+        "update_address_banner": "Update this address to see your delivery options."
+      },
+      "address_management": {
+        "confirm_address_deletion": "Do you confirm that you want to delete the address {{address}}?"
       }
     },
     "notices": {
