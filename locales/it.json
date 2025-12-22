@@ -476,7 +476,8 @@
       "thank_you": {
         "announcement": {
           "close": "Chiudere"
-        }
+        },
+        "checkout_again": "Ritenta il pagamento"
       },
       "review_address_modal": {
         "title": "Controllare indirizzo",

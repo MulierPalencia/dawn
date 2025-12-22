@@ -678,7 +678,8 @@
         },
         "items_fulfilled_by_store": {
           "many": "Die Artikel, die Sie gekauft haben, stammen aus anderen Geschäften."
-        }
+        },
+        "checkout_again": "Erneut bezahlen"
       },
       "order_payment_collection": {
         "changes_summary": {
