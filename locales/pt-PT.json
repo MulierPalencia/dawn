@@ -2504,7 +2504,8 @@
         "thank_you_confirmed_with_email_and_phone_description": {
           "single_store": "Em breve receberás um e-mail de confirmação",
           "multi_store": "Em breve receberás e-mails de confirmação de cada loja separadamente"
-        }
+        },
+        "checkout_again": "Voltar a pagar"
       },
       "marketing": {
         "accept_marketing_checkbox_label": "Enviar-me novidades e ofertas por correio eletrónico",
