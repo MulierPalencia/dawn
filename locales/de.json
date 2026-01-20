@@ -899,7 +899,9 @@
             "banner_due": {
               "many": "Die Zahlung ist in {{count}} Tagen fällig."
             }
-          }
+          },
+          "due_date": "Gültig bis {{date}}",
+          "total_balance": "Gesamtsaldo"
         }
       }
     },

@@ -4275,6 +4275,12 @@
           "show_all_orders_in_review": "Mostrar todas as encomendas em revisão",
           "show_less_orders_in_review": "Mostrar menos pedidos na revisão"
         }
+      },
+      "draft_order_details": {
+        "payment_status": {
+          "due_date": "Vence a {{date}}",
+          "total_balance": "Saldo total"
+        }
       }
     },
     "ui_components": {

@@ -526,6 +526,14 @@
         "title": "Vérifier l'adresse e-mail",
         "description": "L'e-mail a été mis à jour avec succès. Redirection pour se connecter."
       }
+    },
+    "B2B": {
+      "draft_order_details": {
+        "payment_status": {
+          "due_date": "Expire le {{date}}",
+          "total_balance": "Solde total"
+        }
+      }
     }
   }
 }

@@ -547,6 +547,14 @@
         "edit_current_payment_method": "Modifica metodo di pagamento attuale",
         "edit_selected_payment_method": "Modifica metodo di pagamento selezionato"
       }
+    },
+    "B2B": {
+      "draft_order_details": {
+        "payment_status": {
+          "due_date": "Scade il {{date}}",
+          "total_balance": "Saldo totale"
+        }
+      }
     }
   }
 }
