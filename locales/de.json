@@ -810,6 +810,11 @@
       },
       "payment_errors": {
         "captcha_required_without_payment_information": "Lösen Sie das CAPTCHA, um den Kauf abzuschließen."
+      },
+      "remote": {
+        "errors": {
+          "only_remote_merchandise_lines": "Die Zahlung enthält nur Werbewaren aus einem entfernten Geschäft. Eine Weiterleitung zum entfernten Geschäft ist erforderlich, um die Zahlung abzuschließen."
+        }
       }
     },
     "notices": {

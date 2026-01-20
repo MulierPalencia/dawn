@@ -500,6 +500,11 @@
             "signature_mismatch": "La marque des marchandises promotionnelles ne correspond pas à la ligne {{stable_id}}."
           }
         }
+      },
+      "remote": {
+        "errors": {
+          "only_remote_merchandise_lines": "Le paiement ne contient que des marchandises promotionnelles d'un magasin distant. Un redirection vers le magasin distant est nécessaire pour compléter le paiement."
+        }
       }
     }
   },
