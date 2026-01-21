@@ -973,18 +973,32 @@
     "subscriptions": {
       "subscription_contracts": {
         "more_items": {
-          "many": "y {{count}} more products"
+          "many": "y {{count}} more products",
+          "one": "{{count}} more product",
+          "other": "{{count}} more products"
         },
         "product_count": {
-          "many": "{{count}} products"
-        }
+          "many": "{{count}} products",
+          "one": "{{count}} product",
+          "other": "{{count}} products"
+        },
+        "title": "Use payment method for recurring orders",
+        "subscription_contracts_updated": "{{succeeded}} of {{total}} subscriptions were updated",
+        "product_details": "Product details",
+        "load_more": "Load more"
       },
       "updating_contracts": {
-        "many": "Updating {{count}} subscription contracts..."
+        "many": "Updating {{count}} subscription contracts...",
+        "one": "Updating {{count}} subscription contract...",
+        "other": "Updating {{count}} subscription contracts..."
       },
       "contracts_updated": {
-        "many": "{{count}} subscription contracts were successfully updated"
-      }
+        "many": "{{count}} subscription contracts were successfully updated",
+        "one": "{{count}} subscription contract was successfully updated",
+        "other": "{{count}} subscription contracts were successfully updated"
+      },
+      "contracts_update_failed": "Some subscription contracts could not be updated",
+      "invalid_wallet_type_error": "Invalid wallet type."
     }
   }
 }
