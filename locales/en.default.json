@@ -472,7 +472,24 @@
         },
         "errors": {
           "payment": {
-            "market_manager_blocks_wallet_payments": "The market administrator does not accept the payment method."
+            "market_manager_blocks_wallet_payments": "The market administrator does not accept the payment method.",
+            "installments_amount_invalid": "Invalid amount for the transaction with installments.",
+            "installments_test_mode_not_allowed": "Test mode not allowed.",
+            "installments_gift_card_not_allowed": "Installments do not allow the use of gift cards.",
+            "installments_unsupported_currency": "Installments do not accept this currency.",
+            "installments_unsupported_shipping": "Installments do not allow shipping to this address.",
+            "installments_unsupported_billing": "The installments do not accept this billing address.",
+            "installments_unsupported_subscriptions": "Installments do not allow subscriptions.",
+            "installments_ineligible_line_item": "Installments are disabled for an item line in this purchase.",
+            "shop_cash_not_allowed": "Shop Cash not allowed without Shop Pay.",
+            "shop_cash_unsupported_checkout_source": "Shop Cash does not support this payment screen.",
+            "shop_cash_gift_card_not_allowed": "Shop Cash does not allow the purchase of gift cards.",
+            "shop_cash_not_enabled": "Shop Cash is not activated for this store.",
+            "shop_cash_unsupported_subscriptions": "Shop Cash does not support subscriptions.",
+            "shop_cash_unsupported_shipping": "Shop Cash does not accept promotional merchandise without shipping.",
+            "shop_cash_unsupported_currency": "Shop Cash does not support this currency.",
+            "shop_cash_not_available": "Shop Cash is not supported on this checkout screen.",
+            "shop_cash_not_found": "Shop Cash not found."
           }
         }
       },
@@ -841,6 +858,11 @@
       },
       "address_management": {
         "confirm_address_deletion": "Do you confirm that you want to delete the address {{address}}?"
+      },
+      "redeemable_errors": {
+        "shop_cash": {
+          "currency_mismatch": "The currency has changed. Check your Shop Cash and your offers."
+        }
       }
     },
     "notices": {
