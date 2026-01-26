@@ -567,6 +567,36 @@
           "total_balance": "Solde total"
         }
       }
+    },
+    "subscriptions": {
+      "subscription_contracts": {
+        "title": "Utilisez un mode de paiement pour les commandes récurrentes",
+        "subscription_contracts_updated": "{{succeeded}} de {{total}} abonnements ont été mis à jour",
+        "product_details": "Détails du produit",
+        "load_more": "Charger plus",
+        "more_items": {
+          "one": "{{count}} produit de plus",
+          "other": "{{count}} produits de plus",
+          "many": "{{count}} produits de plus"
+        },
+        "product_count": {
+          "one": "{{count}} produit",
+          "other": "{{count}} produits",
+          "many": "{{count}} produits"
+        }
+      },
+      "contracts_update_failed": "Certains contrats d'abonnement n'ont pas pu être mis à jour",
+      "updating_contracts": {
+        "one": "Mise à jour de {{count}} contrat d'abonnement...",
+        "other": "Mise à jour de {{count}} contrats d'abonnement...",
+        "many": "Mise à jour de {{count}} contrats d'abonnement..."
+      },
+      "contracts_updated": {
+        "one": "{{count}} contrat d'abonnement mis à jour avec succès",
+        "other": "{{count}} contrats d'abonnement ont été mis à jour avec succès",
+        "many": "{{count}} contrats d'abonnement ont été mis à jour avec succès"
+      },
+      "invalid_wallet_type_error": "Type de portefeuille non valide."
     }
   }
 }

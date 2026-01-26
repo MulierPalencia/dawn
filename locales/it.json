@@ -514,6 +514,9 @@
       },
       "payment_errors": {
         "captcha_required_without_payment_information": "Risolvi il CAPTCHA per completare l'acquisto."
+      },
+      "shop_policies": {
+        "terms_and_policies": "Termini e politiche"
       }
     }
   },
