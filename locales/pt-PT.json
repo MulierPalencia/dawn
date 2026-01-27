@@ -701,7 +701,13 @@
         "third_party_address_timeout": "Não foi possível carregar os endereços. Tente novamente ou utilize outro endereço.",
         "third_party_address_error": "Ocorreu um erro ao carregar a seleção do endereço. Introduza o seu endereço manualmente abaixo.",
         "back": "Atrás",
-        "invalid_shipping_method_summary_selected": "Selecione um endereço de envio diferente para ver os métodos de envio disponíveis"
+        "invalid_shipping_method_summary_selected": "Selecione um endereço de envio diferente para ver os métodos de envio disponíveis",
+        "unbranded_description_with_fulfillment_days": {
+          "many": "Enviado em %{count} dias úteis"
+        },
+        "unbranded_description_with_fulfillment_weeks": {
+          "many": "Enviado em %{count} semanas"
+        }
       },
       "payment": {
         "payment_method_incompatible_with_payment_terms": "A forma de pagamento não é compatível com as condições de pagamento.",
