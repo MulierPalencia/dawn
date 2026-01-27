@@ -642,6 +642,12 @@
         },
         "address_form": {
           "max_address": "The limit of {{max_addresses}} addresses has been reached. Remove an address to add a new one."
+        },
+        "unbranded_description_with_fulfillment_days": {
+          "many": "Ships in %{count} working days"
+        },
+        "unbranded_description_with_fulfillment_weeks": {
+          "many": "Ships in %{count} weeks"
         }
       },
       "payment": {
