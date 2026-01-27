@@ -615,7 +615,13 @@
         },
         "unbranded_default_description": "Versandfertig",
         "third_party_address_timeout": "Die Adressen konnten nicht geladen werden. Bitte versuche es erneut oder verwende eine andere Adresse.",
-        "third_party_address_error": "Beim Laden der Adressauswahl ist ein Fehler aufgetreten. Bitte gib deine Adresse unten manuell ein."
+        "third_party_address_error": "Beim Laden der Adressauswahl ist ein Fehler aufgetreten. Bitte gib deine Adresse unten manuell ein.",
+        "unbranded_description_with_fulfillment_days": {
+          "many": "Wird in %{count} Werktagen versandt"
+        },
+        "unbranded_description_with_fulfillment_weeks": {
+          "many": "Wird in %{count} Wochen versandt"
+        }
       },
       "payment": {
         "order_covered_by_gift_cards_notice": {
