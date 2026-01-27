@@ -558,6 +558,36 @@
           "total_balance": "Saldo totale"
         }
       }
+    },
+    "subscriptions": {
+      "subscription_contracts": {
+        "title": "Usa il metodo di pagamento per gli ordini ricorrenti",
+        "subscription_contracts_updated": "Sono state aggiornate {{succeeded}} di {{total}} iscrizioni",
+        "product_details": "Dettagli del prodotto",
+        "load_more": "Carica di più",
+        "more_items": {
+          "one": "{{count}} prodotto in più",
+          "other": "{{count}} prodotti in più",
+          "many": "{{count}} prodotti in più"
+        },
+        "product_count": {
+          "one": "{{count}} prodotto",
+          "other": "{{count}} prodotti",
+          "many": "{{count}} prodotti"
+        }
+      },
+      "contracts_update_failed": "Non è stato possibile aggiornare alcuni contratti di abbonamento",
+      "updating_contracts": {
+        "one": "Aggiornamento di {{count}} contratto di abbonamento...",
+        "other": "Aggiornamento di {{count}} contratti di abbonamento...",
+        "many": "Aggiornamento di {{count}} contratti di abbonamento..."
+      },
+      "contracts_updated": {
+        "one": "È stato aggiornato correttamente {{count}} contratto di abbonamento",
+        "other": "Sono stati aggiornati correttamente {{count}} contratti di abbonamento",
+        "many": "Sono stati aggiornati correttamente {{count}} contratti di abbonamento"
+      },
+      "invalid_wallet_type_error": "Tipo di portafoglio non valido."
     }
   }
 }
