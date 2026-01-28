@@ -703,11 +703,16 @@
         "back": "Atrás",
         "invalid_shipping_method_summary_selected": "Selecione um endereço de envio diferente para ver os métodos de envio disponíveis",
         "unbranded_description_with_fulfillment_days": {
-          "many": "Enviado em %{count} dias úteis"
+          "many": "Enviado em %{count} dias úteis",
+          "one": "Envia-se no dia útil seguinte",
+          "other": "Enviado em %{count} dias úteis"
         },
         "unbranded_description_with_fulfillment_weeks": {
-          "many": "Enviado em %{count} semanas"
-        }
+          "many": "Enviado em %{count} semanas",
+          "one": "Envia-se em %{count} semana",
+          "other": "Enviado em %{count} semanas"
+        },
+        "unbranded_description_same_day": "Enviado no mesmo dia útil"
       },
       "payment": {
         "payment_method_incompatible_with_payment_terms": "A forma de pagamento não é compatível com as condições de pagamento.",

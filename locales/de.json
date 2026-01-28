@@ -617,10 +617,14 @@
         "third_party_address_timeout": "Die Adressen konnten nicht geladen werden. Bitte versuche es erneut oder verwende eine andere Adresse.",
         "third_party_address_error": "Beim Laden der Adressauswahl ist ein Fehler aufgetreten. Bitte gib deine Adresse unten manuell ein.",
         "unbranded_description_with_fulfillment_days": {
-          "many": "Wird in %{count} Werktagen versandt"
+          "many": "Wird in %{count} Werktagen versandt",
+          "one": "Wird am nächsten Werktag versandt",
+          "other": "Wird in %{count} Werktagen versandt"
         },
         "unbranded_description_with_fulfillment_weeks": {
-          "many": "Wird in %{count} Wochen versandt"
+          "many": "Wird in %{count} Wochen versandt",
+          "one": "Wird in %{count} Woche versandt",
+          "other": "Wird in %{count} Wochen versandt"
         }
       },
       "payment": {
