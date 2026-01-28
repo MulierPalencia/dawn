@@ -983,18 +983,32 @@
     "subscriptions": {
       "subscription_contracts": {
         "more_items": {
-          "many": "und {{count}} weitere Produkte"
+          "many": "und {{count}} weitere Produkte",
+          "one": "{{count}} weiteres Produkt",
+          "other": "{{count}} weitere Produkte"
         },
         "product_count": {
-          "many": "{{count}} Produkte"
-        }
+          "many": "{{count}} Produkte",
+          "one": "{{count}} Produkt",
+          "other": "{{count}} Produkte"
+        },
+        "title": "Verwenden Sie die Zahlungsmethode für wiederkehrende Bestellungen",
+        "subscription_contracts_updated": "Es wurden {{succeeded}} von {{total}} Abonnements aktualisiert",
+        "product_details": "Produktdetails",
+        "load_more": "Mehr laden"
       },
       "updating_contracts": {
-        "many": "Aktualisiere {{count}} Abonnementverträge..."
+        "many": "Aktualisiere {{count}} Abonnementverträge...",
+        "one": "Aktualisiere {{count}} Abonnementvertrag...",
+        "other": "Aktualisiere {{count}} Abonnementverträge..."
       },
       "contracts_updated": {
-        "many": "Es wurden erfolgreich {{count}} Abonnementverträge aktualisiert"
-      }
+        "many": "Es wurden erfolgreich {{count}} Abonnementverträge aktualisiert",
+        "one": "{{count}} Abonnementvertrag wurde erfolgreich aktualisiert",
+        "other": "Es wurden erfolgreich {{count}} Abonnementverträge aktualisiert"
+      },
+      "contracts_update_failed": "Einige Abonnementverträge konnten nicht aktualisiert werden",
+      "invalid_wallet_type_error": "Ungültiger Wallet-Typ."
     }
   },
   "structured_data": {
