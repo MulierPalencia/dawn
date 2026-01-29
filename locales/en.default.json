@@ -942,6 +942,9 @@
             },
             "banner_due": {
               "many": "The payment is due in {{count}} days."
+            },
+            "banner_overdue_for_single_fulfillment": {
+              "many": "The payment of {{amount}} was due {{count}} days ago. {{link}}"
             }
           }
         }
@@ -1027,6 +1030,24 @@
       },
       "contracts_update_failed": "Some subscription contracts could not be updated",
       "invalid_wallet_type_error": "Invalid wallet type."
+    },
+    "payment_methods": {
+      "add_payment_method": {
+        "subscription_contracts": {
+          "more_items": {
+            "many": "{{count}} more products"
+          },
+          "product_count": {
+            "many": "{{count}} products"
+          }
+        },
+        "updating_contracts": {
+          "many": "Updating {{count}} subscription agreements..."
+        },
+        "contracts_updated": {
+          "many": "{{count}} subscription agreements were updated successfully"
+        }
+      }
     }
   }
 }
