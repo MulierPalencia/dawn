@@ -935,6 +935,9 @@
             },
             "banner_due": {
               "many": "Die Zahlung ist in {{count}} Tagen fällig."
+            },
+            "banner_overdue_for_single_fulfillment": {
+              "many": "Die Zahlung von {{amount}} war vor {{count}} Tagen fällig. {{link}}"
             }
           },
           "due_date": "Gültig bis {{date}}",
@@ -1013,6 +1016,24 @@
       },
       "contracts_update_failed": "Einige Abonnementverträge konnten nicht aktualisiert werden",
       "invalid_wallet_type_error": "Ungültiger Wallet-Typ."
+    },
+    "payment_methods": {
+      "add_payment_method": {
+        "subscription_contracts": {
+          "more_items": {
+            "many": "{{count}} weitere Produkte"
+          },
+          "product_count": {
+            "many": "{{count}} Produkte"
+          }
+        },
+        "updating_contracts": {
+          "many": "Aktualisiere {{count}} Abonnementverträge..."
+        },
+        "contracts_updated": {
+          "many": "Es wurden erfolgreich {{count}} Abonnementverträge aktualisiert"
+        }
+      }
     }
   },
   "structured_data": {
