@@ -3750,7 +3750,10 @@
       "due_on_date": "Vence a {{date}}",
       "due_on_fulfillment": "Pago após a preparação da encomenda",
       "due_on_receipt": "Pago após a receção",
-      "group_title_label_with_parent": "Para: {{groupTitle}}"
+      "group_title_label_with_parent": "Para: {{groupTitle}}",
+      "payment_confirmation": {
+        "payment_authorized": "Obrigado! O saldo será atualizado assim que o pagamento for recebido."
+      }
     },
     "account_information": {
       "one_time_password_card": {
