@@ -533,6 +533,9 @@
         "shop_cash": {
           "currency_mismatch": "La monnaie a changé. Vérifiez votre Shop Cash et vos offres."
         }
+      },
+      "contact": {
+        "suburb_label": "Quartier"
       }
     }
   },

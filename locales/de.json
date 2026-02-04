@@ -847,6 +847,12 @@
         "shop_cash": {
           "currency_mismatch": "Die Währung hat sich geändert. Überprüfe dein Shop Cash und deine Angebote."
         }
+      },
+      "contact": {
+        "suburb_label": "Viertel"
+      },
+      "wallets": {
+        "place_order": "Bestellung aufgeben"
       }
     },
     "notices": {
