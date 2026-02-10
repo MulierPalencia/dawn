@@ -1048,6 +1048,10 @@
           "many": "{{count}} subscription agreements were updated successfully"
         }
       }
+    },
+    "navigation_and_structure": {
+      "policy_load_error": "{{policyName}} could not be loaded",
+      "policy_try_again": "Try again"
     }
   }
 }
