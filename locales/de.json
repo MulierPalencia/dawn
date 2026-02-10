@@ -646,6 +646,12 @@
         },
         "discount_codes_removed_summary": {
           "many": "Es wurden %{count} Rabattcodes entfernt"
+        },
+        "discount_codes_modified_summary": {
+          "many": "Es wurden %{count} Rabattcodes geändert"
+        },
+        "discount_codes_removed_or_modified_summary": {
+          "many": "Es wurden %{count} Rabattcodes entfernt oder geändert"
         }
       },
       "shipping_errors": {
@@ -853,6 +859,11 @@
       },
       "wallets": {
         "place_order": "Bestellung aufgeben"
+      },
+      "split_delivery": {
+        "delivery_method": "Geteilte Lieferform",
+        "delivery_method_menu": "Geteiltes Lieferarten-Menü",
+        "items_for_pickup": "Artikel für den Ruhestand"
       }
     },
     "notices": {

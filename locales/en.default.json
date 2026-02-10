@@ -670,7 +670,13 @@
           "many": "%{count} discount codes were deleted"
         },
         "saved_addresses": "Saved addresses",
-        "save_this_address": "Save this address"
+        "save_this_address": "Save this address",
+        "discount_codes_modified_summary": {
+          "many": "%{count} discount codes were changed"
+        },
+        "discount_codes_removed_or_modified_summary": {
+          "many": "%{count} discount codes were removed or changed"
+        }
       },
       "shipping_errors": {
         "shipping_method_not_available_generic": {
