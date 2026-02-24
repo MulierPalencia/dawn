@@ -842,6 +842,21 @@
         },
         "location_information_next": {
           "many": "There are %{count} branches with stock near you"
+        },
+        "location_information_far_away": {
+          "many": "%{count} branches have your item"
+        },
+        "location_nearby": {
+          "many": "There are %{count} branches nearby with your item available"
+        },
+        "location_nearby_short": {
+          "many": "%{count} nearby branches with your item available"
+        },
+        "location_far_away": {
+          "many": "%{count} branches with your item available"
+        },
+        "toggle_more_locations": {
+          "many": "%{count} more branches"
         }
       },
       "notice_banner": {

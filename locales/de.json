@@ -811,6 +811,21 @@
         },
         "location_information_next": {
           "many": "Es gibt %{count} Filialen mit Lagerbestand in deiner Nähe"
+        },
+        "location_information_far_away": {
+          "many": "%{count} Filialen haben deinen Artikel"
+        },
+        "location_nearby": {
+          "many": "Es gibt %{count} Filialen in der Nähe, in denen dein Artikel verfügbar ist"
+        },
+        "location_nearby_short": {
+          "many": "%{count} Filialen in der Nähe mit deinem Artikel vorrätig"
+        },
+        "location_far_away": {
+          "many": "%{count} Filialen mit deinem Artikel verfügbar"
+        },
+        "toggle_more_locations": {
+          "many": "%{count} weitere Filialen"
         }
       },
       "customer_account": {
