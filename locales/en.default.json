@@ -857,6 +857,17 @@
         },
         "toggle_more_locations": {
           "many": "%{count} more branches"
+        },
+        "all_stores_far_away": {
+          "title_with_item": {
+            "many": "The nearest branch with your available items is more than %{distance} from %{location}"
+          }
+        },
+        "pickup_unavailable_banner_title": {
+          "many": "There are no branches with your items available"
+        },
+        "pickup_unavailable_banner_title_with_country": {
+          "many": "There are no branches in %{country} with your items available"
         }
       },
       "notice_banner": {

@@ -826,6 +826,17 @@
         },
         "toggle_more_locations": {
           "many": "%{count} weitere Filialen"
+        },
+        "all_stores_far_away": {
+          "title_with_item": {
+            "many": "Die nächstgelegene Filiale mit deinen verfügbaren Artikeln ist mehr als %{distance} von %{location} entfernt"
+          }
+        },
+        "pickup_unavailable_banner_title": {
+          "many": "Es gibt keine Filialen mit deinen verfügbaren Artikeln"
+        },
+        "pickup_unavailable_banner_title_with_country": {
+          "many": "In %{country} gibt es keine Filialen mit deinen verfügbaren Artikeln."
         }
       },
       "customer_account": {
