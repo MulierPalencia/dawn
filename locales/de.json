@@ -1021,7 +1021,10 @@
         "resend_link_without_login": "Neuen Link senden",
         "link_expired": "Der Link ist abgelaufen"
       },
-      "link_sent": "Link gesendet"
+      "link_sent": "Link gesendet",
+      "subtotal_label_with_quantity": {
+        "many": "Zwischensumme · {{count}} Artikel"
+      }
     },
     "date": {
       "humanize": {

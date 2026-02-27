@@ -1008,6 +1008,9 @@
         "resend_link_with_login": "send new link",
         "resend_link_without_login": "Send new link",
         "login_or_resend_link": "{{loginAction}} either {{resendLinkAction}}"
+      },
+      "subtotal_label_with_quantity": {
+        "many": "Subtotal · {{count}} items"
       }
     },
     "date": {
