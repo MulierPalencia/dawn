@@ -1024,6 +1024,9 @@
       "link_sent": "Link gesendet",
       "subtotal_label_with_quantity": {
         "many": "Zwischensumme · {{count}} Artikel"
+      },
+      "discount_order_stacking": {
+        "many": "Bestellrabatte"
       }
     },
     "date": {
