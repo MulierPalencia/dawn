@@ -1011,6 +1011,9 @@
       },
       "subtotal_label_with_quantity": {
         "many": "Subtotal · {{count}} items"
+      },
+      "discount_order_stacking": {
+        "many": "Order discounts"
       }
     },
     "date": {
