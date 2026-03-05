@@ -1089,7 +1089,13 @@
     },
     "navigation_and_structure": {
       "policy_load_error": "{{policyName}} could not be loaded",
-      "policy_try_again": "Try again"
+      "policy_try_again": "Try again",
+      "account_menu": {
+        "label": "Account"
+      },
+      "go_to_store_link": "Go to the store",
+      "orders_link_label": "Orders",
+      "subscriptions_link_label": "Subscriptions"
     }
   }
 }
