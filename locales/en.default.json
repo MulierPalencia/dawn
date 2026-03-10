@@ -901,6 +901,27 @@
         "shop_cash": {
           "currency_mismatch": "The currency has changed. Check your Shop Cash and your offers."
         }
+      },
+      "split_delivery": {
+        "inventory_issue_banner": {
+          "heading": {
+            "cannot_be_picked_up": {
+              "many": "%{count} items cannot be withdrawn"
+            },
+            "cannot_be_shipped": {
+              "many": "%{count} items cannot be shipped"
+            }
+          },
+          "remove_item": {
+            "many": "Delete items"
+          },
+          "ship_separately": {
+            "many": "send them separately"
+          },
+          "pick_them_up_in_store": {
+            "many": "pick them up in store"
+          }
+        }
       }
     },
     "notices": {

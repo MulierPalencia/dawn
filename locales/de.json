@@ -889,7 +889,26 @@
       "split_delivery": {
         "delivery_method": "Geteilte Lieferform",
         "delivery_method_menu": "Geteiltes Lieferarten-Menü",
-        "items_for_pickup": "Artikel für den Ruhestand"
+        "items_for_pickup": "Artikel für den Ruhestand",
+        "inventory_issue_banner": {
+          "heading": {
+            "cannot_be_picked_up": {
+              "many": "%{count} Artikel können nicht abgeholt werden"
+            },
+            "cannot_be_shipped": {
+              "many": "%{count} Artikel können nicht versendet werden"
+            }
+          },
+          "remove_item": {
+            "many": "Artikel entfernen"
+          },
+          "ship_separately": {
+            "many": "separat versenden"
+          },
+          "pick_them_up_in_store": {
+            "many": "im Geschäft abholen"
+          }
+        }
       }
     },
     "notices": {
