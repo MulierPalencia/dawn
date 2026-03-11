@@ -540,6 +540,9 @@
         },
         "pickup_unavailable_banner_title_with_country": {
           "many": "In %{country} sind keine Geschäfte mit deinen Artikeln verfügbar"
+        },
+        "discount_code_applied_count": {
+          "many": "Anzeigen %{count} Rabatte"
         }
       },
       "shipping": {
