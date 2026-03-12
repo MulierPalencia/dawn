@@ -854,7 +854,13 @@
       },
       "review": {
         "blocks": {
-          "company_location": "Standort des Unternehmens"
+          "company_location": "Standort des Unternehmens",
+          "pickup_items_at": {
+            "many": "%{count} Artikel abholen in"
+          },
+          "ship_items_to": {
+            "many": "%{count} Artikel senden an"
+          }
         }
       },
       "memberships": {

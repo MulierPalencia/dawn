@@ -925,6 +925,16 @@
             "many": "pick them up in store"
           }
         }
+      },
+      "review": {
+        "blocks": {
+          "pickup_items_at": {
+            "many": "Pick up %{count} items at"
+          },
+          "ship_items_to": {
+            "many": "Send %{count} items to"
+          }
+        }
       }
     },
     "notices": {
