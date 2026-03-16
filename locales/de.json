@@ -655,6 +655,11 @@
         },
         "discount_codes_removed_or_modified_summary": {
           "many": "Es wurden %{count} Rabattcodes entfernt oder geändert"
+        },
+        "crypto_payment_method": {
+          "cashback_descriptor": {
+            "many": "Du erhältst die Rückerstattung nach %{count} Tagen."
+          }
         }
       },
       "shipping_errors": {

@@ -679,6 +679,11 @@
         },
         "discount_codes_removed_or_modified_summary": {
           "many": "%{count} discount codes were removed or changed"
+        },
+        "crypto_payment_method": {
+          "cashback_descriptor": {
+            "many": "You will receive the refund after %{count} days."
+          }
         }
       },
       "shipping_errors": {
