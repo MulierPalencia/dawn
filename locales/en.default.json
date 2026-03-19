@@ -880,7 +880,15 @@
       },
       "notice_banner": {
         "payment_method_incompatible_with_payment_terms": "The selected payment option is not available because the payment is due later",
-        "payment_method_not_applicable": "The selected payment method is not available because the payment for this order is due later"
+        "payment_method_not_applicable": "The selected payment method is not available because the payment for this order is due later",
+        "validation_errors_banner": {
+          "heading": {
+            "many": "There are {{count}} errors:"
+          },
+          "errors_in_section": {
+            "many": "{{count}} errors in {{section}}"
+          }
+        }
       },
       "review_address_modal": {
         "subtitle": {

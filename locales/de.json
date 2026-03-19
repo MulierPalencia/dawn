@@ -923,6 +923,16 @@
             "many": "im Geschäft abholen"
           }
         }
+      },
+      "notice_banner": {
+        "validation_errors_banner": {
+          "heading": {
+            "many": "Es gibt {{count}} Fehler:"
+          },
+          "errors_in_section": {
+            "many": "{{count}} Fehler in {{section}}"
+          }
+        }
       }
     },
     "notices": {
