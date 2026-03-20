@@ -922,6 +922,12 @@
           "pick_them_up_in_store": {
             "many": "im Geschäft abholen"
           }
+        },
+        "pickup_items_count": {
+          "many": "Artikel %{count} entfernen"
+        },
+        "ship_items_count": {
+          "many": "Artikel %{count} senden"
         }
       },
       "notice_banner": {

@@ -937,6 +937,12 @@
           "pick_them_up_in_store": {
             "many": "pick them up in store"
           }
+        },
+        "pickup_items_count": {
+          "many": "Remove %{count} items"
+        },
+        "ship_items_count": {
+          "many": "Send %{count} items"
         }
       },
       "review": {
