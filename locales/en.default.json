@@ -876,6 +876,30 @@
         },
         "pickup_unavailable_banner_title_with_country": {
           "many": "There are no branches in %{country} with your items available"
+        },
+        "location_information_far_away_one_item": {
+          "many": "There are %{count} branches with your item"
+        },
+        "location_information_far_away_other_items": {
+          "many": "There are %{count} branches with your items"
+        },
+        "location_nearby_one_item": {
+          "many": "There are %{count} branches nearby with your item"
+        },
+        "location_nearby_other_items": {
+          "many": "There are %{count} branches nearby with your items"
+        },
+        "location_nearby_short_one_item": {
+          "many": "%{count} nearby branches with your item"
+        },
+        "location_nearby_short_other_items": {
+          "many": "%{count} nearby branches with your items"
+        },
+        "location_far_away_one_item": {
+          "many": "%{count} branches with your item"
+        },
+        "location_far_away_other_items": {
+          "many": "%{count} branches with your items"
         }
       },
       "notice_banner": {
