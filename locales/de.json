@@ -845,6 +845,30 @@
         },
         "pickup_unavailable_banner_title_with_country": {
           "many": "In %{country} gibt es keine Filialen mit deinen verfügbaren Artikeln."
+        },
+        "location_information_far_away_one_item": {
+          "many": "Es gibt %{count} Filialen mit deinem Artikel"
+        },
+        "location_information_far_away_other_items": {
+          "many": "Es gibt %{count} Filialen mit deinen Artikeln"
+        },
+        "location_nearby_one_item": {
+          "many": "Es gibt %{count} Filialen in der Nähe mit deinem Artikel"
+        },
+        "location_nearby_other_items": {
+          "many": "Es gibt %{count} Filialen in der Nähe mit deinen Artikeln"
+        },
+        "location_nearby_short_one_item": {
+          "many": "%{count} Filialen in der Nähe mit deinem Artikel"
+        },
+        "location_nearby_short_other_items": {
+          "many": "%{count} Filialen in der Nähe mit deinen Artikeln"
+        },
+        "location_far_away_one_item": {
+          "many": "%{count} Filialen mit deinem Artikel"
+        },
+        "location_far_away_other_items": {
+          "many": "%{count} Filialen mit deinen Artikeln"
         }
       },
       "customer_account": {
