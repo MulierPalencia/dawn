@@ -970,6 +970,9 @@
         },
         "ship_items_count": {
           "many": "Send %{count} items"
+        },
+        "items_count": {
+          "many": "%{count} items"
         }
       },
       "review": {

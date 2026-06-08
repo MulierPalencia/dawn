@@ -955,6 +955,9 @@
         },
         "ship_items_count": {
           "many": "Artikel %{count} senden"
+        },
+        "items_count": {
+          "many": "%{count} Artikel"
         }
       },
       "notice_banner": {
