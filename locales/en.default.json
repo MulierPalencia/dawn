@@ -900,6 +900,9 @@
         },
         "location_far_away_other_items": {
           "many": "%{count} branches with your items"
+        },
+        "selected_pickup_option_no_longer_available": {
+          "ship_to_address_link": "send to an address"
         }
       },
       "notice_banner": {
