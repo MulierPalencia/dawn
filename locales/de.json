@@ -493,6 +493,19 @@
           "default_message": {
             "many": "Die gewählte Lieferart ist für diese Artikel nicht mehr verfügbar."
           }
+        },
+        "out_of_stock": {
+          "missing_items": {
+            "title": {
+              "many": "{{count}} Artikel sind nicht mehr verfügbar"
+            },
+            "some_available_notice": {
+              "many": "Die übrigen Artikel sind weiterhin zur Zahlung verfügbar. Nicht verfügbare Artikel werden aus dem Warenkorb entfernt."
+            },
+            "none_available_notice": {
+              "many": "Diese Artikel sind nicht mehr verfügbar und wurden aus dem Warenkorb entfernt."
+            }
+          }
         }
       },
       "order_summary": {
