@@ -517,6 +517,19 @@
           "default_message": {
             "many": "The chosen delivery method is no longer available for these items."
           }
+        },
+        "out_of_stock": {
+          "missing_items": {
+            "title": {
+              "many": "{{count}} items are no longer available"
+            },
+            "some_available_notice": {
+              "many": "The other items are still available for checkout. Unavailable items will be removed from the cart."
+            },
+            "none_available_notice": {
+              "many": "These items are no longer available and have been removed from the cart."
+            }
+          }
         }
       },
       "order_summary": {
