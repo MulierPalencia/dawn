@@ -1002,6 +1002,9 @@
             "many": "Send %{count} items to"
           }
         }
+      },
+      "vaulted": {
+        "loaded_section": "{{section}} loaded"
       }
     },
     "notices": {
