@@ -641,6 +641,9 @@
           "many": "Wird in %{count} Wochen versandt",
           "one": "Wird in %{count} Woche versandt",
           "other": "Wird in %{count} Wochen versandt"
+        },
+        "split_shipping_shipment_count_notice_one_time_purchase": {
+          "many": "Deine Bestellung kommt in %{count} Sendungen an"
         }
       },
       "payment": {
