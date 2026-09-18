@@ -676,6 +676,13 @@
           "cashback_descriptor": {
             "many": "Du erhältst die Rückerstattung nach %{count} Tagen."
           }
+        },
+        "pending_payment": {
+          "oxxo": {
+            "days_left": {
+              "many": "%{count} Tage"
+            }
+          }
         }
       },
       "shipping_errors": {
