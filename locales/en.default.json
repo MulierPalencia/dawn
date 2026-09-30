@@ -1015,6 +1015,16 @@
       },
       "vaulted": {
         "loaded_section": "{{section}} loaded"
+      },
+      "field_errors": {
+        "custom_field": {
+          "cart_metafield_value_too_long_with_limit": {
+            "many": "Enter %{count} characters or fewer."
+          },
+          "cart_metafield_value_too_short_with_limit": {
+            "many": "Enter at least %{count} characters."
+          }
+        }
       }
     },
     "notices": {

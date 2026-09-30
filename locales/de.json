@@ -992,6 +992,16 @@
             "many": "{{count}} Fehler in {{section}}"
           }
         }
+      },
+      "field_errors": {
+        "custom_field": {
+          "cart_metafield_value_too_long_with_limit": {
+            "many": "Gib %{count} Zeichen oder weniger ein."
+          },
+          "cart_metafield_value_too_short_with_limit": {
+            "many": "Geben Sie mindestens %{count} Zeichen ein."
+          }
+        }
       }
     },
     "notices": {
