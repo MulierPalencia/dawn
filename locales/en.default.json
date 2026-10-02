@@ -928,6 +928,14 @@
         },
         "selected_pickup_option_no_longer_available": {
           "ship_to_address_link": "send to an address"
+        },
+        "stock_details": {
+          "ship_separately": {
+            "many": "The items will be shipped separately"
+          },
+          "remove_items": {
+            "many": "Items will be removed from your order"
+          }
         }
       },
       "notice_banner": {
