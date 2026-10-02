@@ -892,6 +892,14 @@
         },
         "location_far_away_other_items": {
           "many": "%{count} Filialen mit deinen Artikeln"
+        },
+        "stock_details": {
+          "ship_separately": {
+            "many": "Die Artikel werden separat versendet"
+          },
+          "remove_items": {
+            "many": "Die Artikel werden aus deiner Bestellung entfernt."
+          }
         }
       },
       "customer_account": {
