@@ -936,6 +936,12 @@
           "remove_items": {
             "many": "Items will be removed from your order"
           }
+        },
+        "unavailable_item_count": {
+          "many": "%{count} unavailable items"
+        },
+        "ship_separately_notice": {
+          "many": "%{count} items will be shipped separately"
         }
       },
       "notice_banner": {
