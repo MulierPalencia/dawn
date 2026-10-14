@@ -900,6 +900,12 @@
           "remove_items": {
             "many": "Die Artikel werden aus deiner Bestellung entfernt."
           }
+        },
+        "unavailable_item_count": {
+          "many": "%{count} nicht verfügbare Artikel"
+        },
+        "ship_separately_notice": {
+          "many": "%{count} Artikel werden separat versendet"
         }
       },
       "customer_account": {
