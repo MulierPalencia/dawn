@@ -644,6 +644,9 @@
         },
         "split_shipping_shipment_count_notice_one_time_purchase": {
           "many": "Deine Bestellung kommt in %{count} Sendungen an"
+        },
+        "split_shipping_arrives_in_shipments": {
+          "many": "Kommt in %{count} Sendungen an"
         }
       },
       "payment": {
