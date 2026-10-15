@@ -669,6 +669,9 @@
         "split_shipping_merchandise_quantity_label_inline": "%{merchandise_title} x%{quantity}",
         "split_shipping_shipment_count_notice_one_time_purchase": {
           "many": "Your order will arrive in %{count} shipments"
+        },
+        "split_shipping_arrives_in_shipments": {
+          "many": "Arrives in %{count} shipments"
         }
       },
       "payment": {
