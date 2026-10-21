@@ -712,6 +712,9 @@
               "many": "%{count} days"
             }
           }
+        },
+        "shop_pay_hsa": {
+          "pay_button_label": "Continue with the health survey"
         }
       },
       "shipping_errors": {
