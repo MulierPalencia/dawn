@@ -909,6 +909,14 @@
         },
         "ship_separately_notice": {
           "many": "%{count} Artikel werden separat versendet"
+        },
+        "stock_details_modal": {
+          "can_ship_description": {
+            "many": "Diese Artikel sind am ausgewählten Abholort ausverkauft."
+          },
+          "cannot_ship_description": {
+            "many": "Diese Artikel sind am ausgewählten Abholort ausverkauft und können nicht versendet werden."
+          }
         }
       },
       "customer_account": {
