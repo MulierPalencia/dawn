@@ -948,6 +948,14 @@
         },
         "ship_separately_notice": {
           "many": "%{count} items will be shipped separately"
+        },
+        "stock_details_modal": {
+          "can_ship_description": {
+            "many": "These items are out of stock at the selected pickup location."
+          },
+          "cannot_ship_description": {
+            "many": "These items are out of stock at the selected pickup location and cannot be shipped."
+          }
         }
       },
       "notice_banner": {
