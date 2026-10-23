@@ -917,6 +917,14 @@
           "cannot_ship_description": {
             "many": "Diese Artikel sind am ausgewählten Abholort ausverkauft und können nicht versendet werden."
           }
+        },
+        "stock_details_banner": {
+          "heading": {
+            "many": "%{count} Artikel sind in %{location} nicht zur Abholung verfügbar"
+          },
+          "ship_separately": {
+            "many": "sie separat versenden"
+          }
         }
       },
       "customer_account": {
