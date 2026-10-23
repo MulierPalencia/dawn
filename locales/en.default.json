@@ -956,6 +956,14 @@
           "cannot_ship_description": {
             "many": "These items are out of stock at the selected pickup location and cannot be shipped."
           }
+        },
+        "stock_details_banner": {
+          "heading": {
+            "many": "%{count} items are not available for pickup at %{location}"
+          },
+          "ship_separately": {
+            "many": "send them separately"
+          }
         }
       },
       "notice_banner": {
