@@ -916,6 +916,9 @@
           },
           "cannot_ship_description": {
             "many": "Diese Artikel sind am ausgewählten Abholort ausverkauft und können nicht versendet werden."
+          },
+          "cannot_ship_bundle_description": {
+            "many": "Diese Artikel sind am ausgewählten Abholort ausverkauft und können nicht versendet werden. Auch die Artikel im Paket werden entfernt."
           }
         },
         "stock_details_banner": {

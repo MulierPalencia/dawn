@@ -955,6 +955,9 @@
           },
           "cannot_ship_description": {
             "many": "These items are out of stock at the selected pickup location and cannot be shipped."
+          },
+          "cannot_ship_bundle_description": {
+            "many": "These items are out of stock at the selected pickup location and cannot be shipped. The items will also be removed from the package."
           }
         },
         "stock_details_banner": {
