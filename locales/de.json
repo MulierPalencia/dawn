@@ -928,6 +928,11 @@
           "ship_separately": {
             "many": "sie separat versenden"
           }
+        },
+        "bundle_removal_modal": {
+          "message": {
+            "many": "{{items}} sind Teil von {{bundle}}. Die Artikel im Paket werden ebenfalls entfernt."
+          }
         }
       },
       "customer_account": {

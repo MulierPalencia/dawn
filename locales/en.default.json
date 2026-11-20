@@ -967,6 +967,11 @@
           "ship_separately": {
             "many": "send them separately"
           }
+        },
+        "bundle_removal_modal": {
+          "message": {
+            "many": "{{items}} are part of {{bundle}}. The bundle items will also be removed."
+          }
         }
       },
       "notice_banner": {
